@@ -1,0 +1,88 @@
+{
+  "english": "honest",
+  "phat_am": "ˈonist",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trung thực",
+          "definition": "(of people or their behaviour/behavior, statements etc) truthful; not cheating, stealing etc",
+          "world_new": [
+            "people",
+            "their"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My secretary is absolutely honest",
+              "world_new": [
+                "secretary",
+                "absolutely"
+              ]
+            },
+            {
+              "ex_of_definition": "Give me an honest opinion.",
+              "world_new": [
+                "opinion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có vẻ thật thà",
+          "definition": "(of a person’s appearance) suggesting that he is honest",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had an honest face.",
+              "world_new": [
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lương thiện",
+          "definition": "(of wealth etc) not gained by cheating, stealing etc",
+          "world_new": [
+            "wealth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was just trying to earn an honest living.",
+              "world_new": [
+                "trying",
+                "earn",
+                "living"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Truth telling is an important principle of medical ethics because honest communication shows respect, it promotes an effective therapeutic relationship, and it preserves trust.",
+    "Lastly, sincerity (being honest, speaking from the heart, etc.) is a positive trait that rock critics commonly cite.",
+    "In the crucial issues of rhetorical cogency, expressive adequacy, and honest intent, such tools have no place.",
+    "This awkward piece, gangling and almost painfully honest in its criticism, was, so to speak, 'disappeared'.",
+    "And yet, if the moderates were morally narrow and shortsighted, they were also morally honest.",
+    "This might not be the archaeology that state authorities love to fund; it is too honest for that.",
+    "Under certain conditions, however, an attribute's link with heritable fitness can remain honest and stable.",
+    "Coupled with the volume's empirical breadth, this cautious optimism helps make the authors' arguments both honest and valuable."
+  ],
+  "list_see_also": [
+    "honestly",
+    "honesty"
+  ],
+  "list_browse": [
+    "homosexual",
+    "homosexuality",
+    "homozygote",
+    "homozygous",
+    "honest",
+    "honestly",
+    "honesty",
+    "honey",
+    "honeybee"
+  ]
+}

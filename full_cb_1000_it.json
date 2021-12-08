@@ -1,0 +1,124 @@
+{
+  "english": "full",
+  "phat_am": "ful",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đầy",
+          "definition": "holding or containing as much as possible",
+          "world_new": [
+            "possible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My basket is full.",
+              "world_new": [
+                "basket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trọn vẹn",
+          "definition": "complete",
+          "world_new": [
+            "complete"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a full year",
+              "world_new": [
+                "year"
+              ]
+            },
+            {
+              "ex_of_definition": "a full account of what happened.",
+              "world_new": [
+                "account"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rộng lùng thùng",
+          "definition": "(of clothes) containing a large amount of material",
+          "world_new": [
+            "large",
+            "amount",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a full skirt.",
+              "world_new": [
+                "skirt"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "rất",
+          "definition": "completely",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fill the petrol tank full.",
+              "world_new": [
+                "petrol",
+                "tank"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một cách chính xác, trực tiếp",
+          "definition": "exactly; directly",
+          "world_new": [
+            "directly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She hit him full in the face.",
+              "world_new": [
+                "hit",
+                "face"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "fully",
+    "full-length",
+    "full moon",
+    "full-scale",
+    "full stop",
+    "full-time",
+    "fully-fledged",
+    "full of",
+    "in full",
+    "to the full"
+  ],
+  "list_browse": [
+    "fulcrum",
+    "fulfil",
+    "fulfilled",
+    "fulfilment",
+    "full",
+    "full measure",
+    "full moon",
+    "full of",
+    "full steam ahead"
+  ]
+}

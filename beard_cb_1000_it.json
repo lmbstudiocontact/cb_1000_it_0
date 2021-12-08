@@ -1,0 +1,71 @@
+{
+  "english": "beard",
+  "phat_am": "biəd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "râu",
+          "definition": "the hair that grows on the chin",
+          "world_new": [
+            "hair",
+            "chin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bushy beard",
+              "world_new": [
+                "bushy"
+              ]
+            },
+            {
+              "ex_of_definition": "a goat’s beard."
+            }
+          ]
+        },
+        {
+          "mean_english": "ngạnh",
+          "definition": "a group of hair-like tufts on an ear of corn",
+          "world_new": [
+            "group",
+            "ear",
+            "corn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the beard on barley.",
+              "world_new": [
+                "barley"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They draw pictures of strangers who are all 6 ft 9 in tall and have black beards and electric eyes.",
+    "Men have to apply and get permission to grow beards.",
+    "We in this country have the weird idea that the youngsters are immoral and peculiar, and that because they have long hair and beards they are to be despised.",
+    "I am not myself put off by long hair and beards, though some are.",
+    "I am sure that you will not forget beards either.",
+    "Wanted people come in cars having grown beards and equipped themselves with a false identity.",
+    "They went through a difficult time in which they were greatly criticised as being \"arty-crafty\", bearded and shaggy.",
+    "Suddenly a frail-looking man with white hair and beard and blazing eyes slipped into the room."
+  ],
+  "list_see_also": [
+    "bearded"
+  ],
+  "list_browse": [
+    "bear up",
+    "bear with",
+    "bear witness",
+    "bearable",
+    "beard",
+    "bearded",
+    "bearer",
+    "bearing",
+    "bearings"
+  ]
+}

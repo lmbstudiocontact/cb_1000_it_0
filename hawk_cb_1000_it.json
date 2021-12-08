@@ -1,0 +1,48 @@
+{
+  "english": "hawk",
+  "phat_am": "hoːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "diều hâu",
+          "definition": "a type of bird of prey.",
+          "world_new": [
+            "type",
+            "bird",
+            "prey"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bán hàng rong",
+          "definition": "to carry goods round for sale.",
+          "world_new": [
+            "carry",
+            "goods",
+            "sale"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "hawk-eyed"
+  ],
+  "list_browse": [
+    "have/keep etc in reserve",
+    "haven",
+    "haversack",
+    "havoc",
+    "hawk",
+    "hawk-eyed",
+    "hawker",
+    "hawser",
+    "hawthorn"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "foul",
+  "phat_am": "faul",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hôi hám; hôi thối",
+          "definition": "(especially of smell or taste) causing disgust",
+          "world_new": [
+            "smell",
+            "disgust"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a foul smell.",
+              "world_new": [
+                "smell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khó chịu; bực mình",
+          "definition": "very unpleasant; nasty",
+          "world_new": [
+            "nasty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a foul mess.",
+              "world_new": [
+                "mess"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành động phạm luật của một trò chơi",
+          "definition": "an action etc which breaks the rules of a game",
+          "world_new": [
+            "action",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The other team committed a foul.",
+              "world_new": [
+                "team",
+                "committed"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chơi trái luật",
+          "definition": "to break the rules of a game (against)",
+          "world_new": [
+            "break",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fouled his opponent.",
+              "world_new": [
+                "opponent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm bẩn cái gì",
+          "definition": "to make dirty, especially with faeces",
+          "world_new": [
+            "dirty",
+            "faeces"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dogs often foul the pavement.",
+              "world_new": [
+                "pavement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "foul play"
+  ],
+  "list_browse": [
+    "foster",
+    "foster brother",
+    "foster child",
+    "foster parent (foster father/foster mother)",
+    "foul",
+    "foul play",
+    "found",
+    "foundation",
+    "founder"
+  ]
+}

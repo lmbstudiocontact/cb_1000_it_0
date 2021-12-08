@@ -1,0 +1,279 @@
+{
+  "english": "for",
+  "phat_am": "foː",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "cho",
+          "definition": "to be given or sent to",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This letter is for you.",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "về phía",
+          "definition": "towards; in the direction of",
+          "world_new": [
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We set off for London."
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ khoảng thời gian, khoảng cách",
+          "definition": "through a certain time or distance",
+          "world_new": [
+            "certain",
+            "time",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were kept waiting for three hours"
+            },
+            {
+              "ex_of_definition": "Lucy walked for three miles."
+            }
+          ]
+        },
+        {
+          "mean_english": "để giành được cái gì",
+          "definition": "in order to have, get, be etc",
+          "world_new": [
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He asked me for some money",
+              "world_new": [
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "Go for a walk.",
+              "world_new": [
+                "walk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "như giá cả của cái gì",
+          "definition": "in return; as payment",
+          "world_new": [
+            "payment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He paid $2 for his ticket.",
+              "world_new": [
+                "ticket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuẩn bị cho",
+          "definition": "in order to be prepared",
+          "world_new": [
+            "order",
+            "prepared"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s getting ready for the journey.",
+              "world_new": [
+                "ready",
+                "journey"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đại diện của ai/cái gì",
+          "definition": "representing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is the member of parliament for Hull.",
+              "world_new": [
+                "member",
+                "parliament"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thay mặt ai",
+          "definition": "on behalf of",
+          "world_new": [
+            "behalf"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you do it for me?"
+            }
+          ]
+        },
+        {
+          "mean_english": "ủng hộ ai/cái gì",
+          "definition": "in favour/favor of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you for or against the plan?",
+              "world_new": [
+                "plan"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bởi vì (cái gì); tính đến (cái gì)",
+          "definition": "because of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "For this reason, I will not be investing in that business venture.",
+              "world_new": [
+                "reason",
+                "I",
+                "business",
+                "venture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dành cho; để",
+          "definition": "having a particular purpose",
+          "world_new": [
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave me money for the bus fare.",
+              "world_new": [
+                "money",
+                "bus",
+                "fare"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ khả năng, thái độ",
+          "definition": "indicating an ability or an attitude to",
+          "world_new": [
+            "ability",
+            "attitude"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a talent for baking",
+              "world_new": [
+                "talent",
+                "baking"
+              ]
+            },
+            {
+              "ex_of_definition": "He has an ear for music.",
+              "world_new": [
+                "ear",
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "như là",
+          "definition": "as being",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They mistook him for someone else.",
+              "world_new": [
+                "else"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mong đợi từ ai/cái gì",
+          "definition": "considering what is used in the case of",
+          "world_new": [
+            "considering",
+            "case"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is quite warm for January (= considering that it is January when it is usually cold).",
+              "world_new": [
+                "quite",
+                "warm",
+                "January",
+                "considering",
+                "January"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặc dù",
+          "definition": "in spite of",
+          "world_new": [
+            "spite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "For all his money, he didn’t seem happy.",
+              "world_new": [
+                "money",
+                "seem",
+                "happy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "bởi vì",
+          "definition": "because",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It must be late, for I have been here a long time.",
+              "world_new": [
+                "I",
+                "long",
+                "time"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "footsore",
+    "footstep",
+    "footwear",
+    "footwork",
+    "for",
+    "for a change",
+    "for a start",
+    "for all one is worth",
+    "for all the world"
+  ]
+}

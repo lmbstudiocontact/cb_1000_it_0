@@ -1,0 +1,43 @@
+{
+  "english": "bravely",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "dũng cảm",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He met his death bravely",
+              "world_new": [
+                "death"
+              ]
+            },
+            {
+              "ex_of_definition": "She bravely went back into the burning building to rescue the dog.",
+              "world_new": [
+                "building",
+                "rescue",
+                "dog"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "brassy",
+    "brat",
+    "bravado",
+    "brave",
+    "bravely",
+    "bravery",
+    "bravo",
+    "brawl",
+    "brawn"
+  ]
+}

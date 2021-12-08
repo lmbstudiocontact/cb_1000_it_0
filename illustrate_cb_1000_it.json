@@ -1,0 +1,80 @@
+{
+  "english": "illustrate",
+  "phat_am": "ˈiləstreit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "minh họa",
+          "definition": "to provide (a book, lecture etc) with pictures, diagrams etc",
+          "world_new": [
+            "provide",
+            "book",
+            "lecture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The artist was commissioned to illustrate a children’s story.",
+              "world_new": [
+                "artist",
+                "story"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giải thích",
+          "definition": "to make (a statement etc) clearer by providing examples etc",
+          "world_new": [
+            "statement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let me illustrate my point",
+              "world_new": [
+                "my",
+                "point"
+              ]
+            },
+            {
+              "ex_of_definition": "This diagram will illustrate what I mean.",
+              "world_new": [
+                "diagram",
+                "I",
+                "mean"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The top right panel illustrates a similar price pattern.",
+    "Figure 6 illustrates the raycasting model of vision.",
+    "The party variable simply illustrates the four party subgroups (as components of the first dimension coordinate).",
+    "The operating modes and responses of two memory systems are illustrated through the two runs associated with each experiment.",
+    "We have illustrated our method on two examples.",
+    "The third example, dynamic linker and loader, illustrates separation of concerns supported by generative components.",
+    "The difference is illustrated by the following example.",
+    "Example 5 also illustrates another feature of this economy."
+  ],
+  "list_see_also": [
+    "illustrated",
+    "illustration",
+    "illustrative",
+    "illustrator"
+  ],
+  "list_browse": [
+    "illuminating",
+    "illumination",
+    "illusion",
+    "illusionist",
+    "illustrate",
+    "illustrated",
+    "illustration",
+    "illustrative",
+    "illustrator"
+  ]
+}

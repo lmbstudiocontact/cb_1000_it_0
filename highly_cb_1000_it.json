@@ -1,0 +1,74 @@
+{
+  "english": "highly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "tốt; cao",
+          "definition": "very; very much",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was highly delighted to receive the award",
+              "world_new": [
+                "receive",
+                "award"
+              ]
+            },
+            {
+              "ex_of_definition": "He has a highly-paid job as a company director",
+              "world_new": [
+                "job",
+                "company",
+                "director"
+              ]
+            },
+            {
+              "ex_of_definition": "I value the book highly.",
+              "world_new": [
+                "I",
+                "value",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ca ngợi",
+          "definition": "with approval",
+          "world_new": [
+            "approval"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He thinks/speaks very highly of you."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He includes journalistic texts under the most highly regulated genres and adver tisements under the less highly regulated genres of writing.",
+    "Interestingly, astrocytic coverage of the axon- spine interface varies highly from synapse to synapse.",
+    "If the host values the future more highly, then the host is less likely to default.",
+    "First, syllable position is highly correlated with the major segment class (consonant or vowel) of the segment following the alveolar stop.",
+    "All in all, we find plausible and highly significant coefficients for most explanatory variables.",
+    "Prices are highly unpredictable and excessively volatile and may deviate from fundamentals.",
+    "The limitations of the study include moderate final sample size, although these did not preclude statistically highly significant differences between the subgroups.",
+    "The purpose and content of the interventions in these studies were highly diverse."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "high-tech",
+    "higher education",
+    "highlands",
+    "highlight",
+    "highly",
+    "highly-strung",
+    "highness",
+    "highway",
+    "Highway Code"
+  ]
+}

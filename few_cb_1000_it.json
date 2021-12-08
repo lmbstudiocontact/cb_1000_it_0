@@ -1,0 +1,60 @@
+{
+  "english": "few",
+  "phat_am": "fjuː",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không nhiều; ít",
+          "definition": "not many; a very small number of",
+          "world_new": [
+            "small",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Few people visit me nowadays",
+              "world_new": [
+                "people",
+                "visit",
+                "nowadays"
+              ]
+            },
+            {
+              "ex_of_definition": "every few minutes (= very frequently)"
+            },
+            {
+              "ex_of_definition": "Such opportunities are few."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Very few possible cases of construc' ' tion (a) were found; see example (28).",
+    "He fell again a few days later and returned with a second confirmed spinal fracture requiring cervical fusion.",
+    "The value of b is on the order of a few thousand indicating that plume is in the diamagnetic limits.",
+    "If anything, during the past few years the trend has been towards the recentralisation of wage fixing.",
+    "That older actresses play fewer roles than older men is perhaps not surprising.",
+    "With a few exceptions, returns to households from wildlife are generally less than $30.00 per annum.",
+    "Only a few practices reported using the data in a more systematic way and carrying out a regular analysis of them.",
+    "A relatively high threshold, say at 7.5 %, is likely to result in fewer parties gaining representation than where the threshold is comparatively lower."
+  ],
+  "list_see_also": [
+    "a few",
+    "few and far between"
+  ],
+  "list_browse": [
+    "feudalism",
+    "fever",
+    "feverish",
+    "feverishly",
+    "few",
+    "few and far between",
+    "fez",
+    "fiancé",
+    "fiasco"
+  ]
+}

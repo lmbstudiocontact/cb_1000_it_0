@@ -1,0 +1,53 @@
+{
+  "english": "indebted",
+  "phat_am": "inˈdetid",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mang ơn",
+          "definition": "(with to) having reason to be grateful to",
+          "world_new": [
+            "reason",
+            "grateful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I am indebted to you for your help.",
+              "world_new": [
+                "I",
+                "your",
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We are also indebted to the families who kindly provided information during the interviews.",
+    "The changed attitude to film and memory was substantially indebted to these programs.",
+    "All students of early modern and of women's history will be indebted to her fastidious unravelling of the commonplace view of women.",
+    "They are also most indebted to two referees for their valuable comments.",
+    "The author is indebted to a referee for some detailed comments on an earlier form of this paper and for some additional references.",
+    "They also make explicit a function of civility: to thank the people one is indebted to.",
+    "We are especially indebted to the users who volunteered some of their time to provide us with valuable comments on functionalities and user interface design.",
+    "The authors are indebted to a reviewer for calling this reference to their attention."
+  ],
+  "list_see_also": [
+    "indebtedness"
+  ],
+  "list_browse": [
+    "incubation",
+    "incubator",
+    "incur",
+    "incurable",
+    "indebted",
+    "indebtedness",
+    "indecency",
+    "indecent",
+    "indecipherable"
+  ]
+}

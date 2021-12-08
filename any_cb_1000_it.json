@@ -1,0 +1,135 @@
+{
+  "english": "any",
+  "phat_am": "ˈeni",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "bất cứ",
+          "definition": "one, some, no matter which",
+          "world_new": [
+            "matter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Which dress shall I wear?’ ‘Wear any (dress)’",
+              "world_new": [
+                "dress",
+                "I",
+                "wear"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Which dresses shall I pack?’ ‘Pack any (dresses)’.",
+              "world_new": [
+                "I",
+                "pack"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng để chỉ một số lượng không xác định",
+          "definition": "(in questions and negative sentences etc) one, some",
+          "world_new": [
+            "negative"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John has been to some interesting places but I’ve never been to any",
+              "world_new": [
+                "interesting"
+              ]
+            },
+            {
+              "ex_of_definition": "Have you been to any interesting places?",
+              "world_new": [
+                "interesting"
+              ]
+            },
+            {
+              "ex_of_definition": "We have hardly any coffee left.",
+              "world_new": [
+                "hardly",
+                "coffee",
+                "left"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mọi",
+          "definition": "every",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Any schoolboy could tell you the answer.",
+              "world_new": [
+                "schoolboy",
+                "tell",
+                "answer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "một chút nào",
+          "definition": "at all; (even) by a small amount",
+          "world_new": [
+            "small",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is this book any better than the last one?",
+              "world_new": [
+                "book",
+                "better"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We need to correct any which do not satisfy condition (b).",
+    "In this study, we have not made any economic calculation.",
+    "None of this, however, in any way invalidates previous conclusions about the rate at which the social classes are becoming related to one another.",
+    "There was no overlap between the wide field cells and any other group.",
+    "Other flock variables were not significantly related to any independent variables.",
+    "Are we today any more able to accept that a female can have violent proclivities?",
+    "The funding sources had no involvement in any part of this study.",
+    "No such errors were found for any of the children in the three groups."
+  ],
+  "list_see_also": [
+    "anybody",
+    "anyhow",
+    "anything",
+    "anyway",
+    "anywhere",
+    "at any rate",
+    "in any case"
+  ],
+  "list_browse": [
+    "anvil",
+    "anxiety",
+    "anxious",
+    "anxiously",
+    "any",
+    "any more",
+    "anybody",
+    "anybody’s guess",
+    "anyhow"
+  ]
+}

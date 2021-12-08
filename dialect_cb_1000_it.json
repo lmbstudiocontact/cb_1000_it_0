@@ -1,0 +1,55 @@
+{
+  "english": "dialect",
+  "phat_am": "ˈdaiəlekt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thổ ngữ",
+          "definition": "a way of speaking found only in a certain area or among a certain group or class of people",
+          "world_new": [
+            "speaking",
+            "found",
+            "certain",
+            "area",
+            "certain",
+            "group",
+            "class",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were speaking in dialect.",
+              "world_new": [
+                "speaking"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Chapter two addresses the old problem of the definitions of language and dialect.",
+    "It is also necessary to recognize that different dialect groups may have somewhat different usages for these words.",
+    "Perhaps one should not be too surprised if the role of dialect contact in leading to dialect mixture has been rejected by such writers.",
+    "According to this hierarchy, a request in dialect seems to be the most important factor in predicting the presence of dialect.",
+    "This is possibly the most striking part of the dialect, especially at its most informal.",
+    "Lack of sufficient data on the language of young dialect users has a number of implications.",
+    "In a dialect mixture situation, large numbers of variants from the different dialects involved in the mixture are present.",
+    "Needless to say, these three requirements must be satisfied for the dialect where auxiliary do arose."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "diagonal",
+    "diagonally",
+    "diagram",
+    "dial",
+    "dialect",
+    "dialectic",
+    "dialectical",
+    "dialogue",
+    "dialysis"
+  ]
+}

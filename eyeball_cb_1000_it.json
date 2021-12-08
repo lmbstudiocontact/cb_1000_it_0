@@ -1,0 +1,51 @@
+{
+  "english": "eyeball",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cầu mắt",
+          "definition": "the whole rounded structure of the eye.",
+          "world_new": [
+            "whole",
+            "rounded",
+            "structure",
+            "eye"
+          ]
+        },
+        {
+          "mean_english": "nhãn cầu",
+          "definition": "the part of the eye between the eyelids.",
+          "world_new": [
+            "part",
+            "eye"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The property-owning democracy is up to its eyeballs in debt.",
+    "Upon entering this new room, they find signs of some living being, and a small pile of fresh human eyeballs.",
+    "However, her family line is cursed to be born without eyeballs.",
+    "If we had sprayed it on their eyeballs, we could not have made it clearer.",
+    "Temperament plays an important part with regard to the oscillation of the eyeballs.",
+    "They are described as having transparent heads, furry green eyeballs, seven legs and three lips.",
+    "Chun's face is unseen, but he wears a robe studded with human eyeballs.",
+    "All you can do now is to try to take away some part of the total viewing eyeballs from your competitors by hook or by crook."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "eye-catching",
+    "eye-opener",
+    "eye-piece",
+    "eye-witness",
+    "eyeball",
+    "eyebrow",
+    "eyelash",
+    "eyelet",
+    "eyelid"
+  ]
+}

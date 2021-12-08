@@ -1,0 +1,76 @@
+{
+  "english": "formula",
+  "phat_am": "ˈfoːmjulə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công thức",
+          "definition": "an arrangement of signs or letters used in chemistry, arithmetic etc to express an idea briefly",
+          "world_new": [
+            "arrangement",
+            "chemistry",
+            "arithmetic",
+            "express",
+            "idea",
+            "briefly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chemical formula",
+              "world_new": [
+                "chemical"
+              ]
+            },
+            {
+              "ex_of_definition": "the formula for water is H2O.",
+              "world_new": [
+                "water",
+                "H",
+                "O"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công thức chế tạo",
+          "definition": "a recipe or set of instructions for making something",
+          "world_new": [
+            "recipe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shampoo was made to a new formula.",
+              "world_new": [
+                "shampoo"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first two features allow grid size to be both determined by and referred to by formulas.",
+    "In this paper, we are interested in logic programs as (possibly infinite) sets of propositional formulas.",
+    "Careful allowance is made for the flooding and uncovering of tidal flats; formulae are proposed for bottom friction in extremely shallow waters.",
+    "By (26), for n big enough the above three formulae are in contradiction.",
+    "Sampling plans and formulas for determining the sample sizes necessary to control these misclassification errors when accepting or rejecting seed lots are also provided.",
+    "The factors, variables, and coefficients thus determined and measured would be integrated into mathematical formulas that permit the calculation and determination of the corresponding tariffs.",
+    "We conclude that there are several advantages of adopting formulae into a seed dormancy classification system.",
+    "The mapping of monadic formulas into automata (the difficult direction) can indeed greatly benefit from automata closure properties."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "former",
+    "formerly",
+    "formidable",
+    "formidably",
+    "formula",
+    "formulate",
+    "formulation",
+    "fornicate",
+    "fornication"
+  ]
+}

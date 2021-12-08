@@ -1,0 +1,68 @@
+{
+  "english": "always",
+  "phat_am": "ˈoːlweiz",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "luôn luôn",
+          "definition": "at all times",
+          "world_new": [
+            "times"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I always work hard",
+              "world_new": [
+                "I",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll always remember her.",
+              "world_new": [
+                "remember"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lúc nào cũng",
+          "definition": "continually or repeatedly",
+          "world_new": [
+            "continually",
+            "repeatedly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is always making mistakes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The robot was considered to move always forwardly.",
+    "There is always the possibility that results will vary when new values for the parameters are given.",
+    "Although there will always be contingencies that threaten success, imagination usually sets the ceiling of research achievement.",
+    "As is well-known, mental states do not always behave this way.",
+    "In a nutshell, the state will always react as state to the challenges of globalisation, including the challenge from non-state communities and their laws.",
+    "While these points are not always separable, we shall address each of them below.",
+    "When we see precedents as examples, we are free to note that scopes are not always specifiable in advance.",
+    "Why does the same cognitive system created by natural evolution bring about true beliefs in one case and (obviously always) false beliefs in another case?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "altruistic",
+    "aluminium",
+    "alumni",
+    "alveolus",
+    "always",
+    "Alzheimer’s disease",
+    "am",
+    "amalgam",
+    "amass"
+  ]
+}

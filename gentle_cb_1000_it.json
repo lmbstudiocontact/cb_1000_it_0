@@ -1,0 +1,92 @@
+{
+  "english": "gentle",
+  "phat_am": "ˈdʒentl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hiền lành",
+          "definition": "(of people) behaving, talking etc in a mild, kindly, pleasant way",
+          "world_new": [
+            "mild",
+            "kindly",
+            "pleasant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gentle old lady",
+              "world_new": [
+                "old",
+                "lady"
+              ]
+            },
+            {
+              "ex_of_definition": "The doctor was very gentle.",
+              "world_new": [
+                "doctor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ôn hoà",
+          "definition": "not strong or rough",
+          "world_new": [
+            "strong",
+            "rough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gentle breeze.",
+              "world_new": [
+                "breeze"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thoai thoải",
+          "definition": "(of hills) rising gradually",
+          "world_new": [
+            "rising",
+            "gradually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gentle slope.",
+              "world_new": [
+                "slope"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He was initially well-liked, as his rule was seen as gentler and less formidable than his father.",
+    "His favorite approach has been to explore the innocuous-seeming use of another person to fill one's gentler emotional needs.",
+    "Flexibility allows the wing to be less susceptible to turbulence and provides a gentler flying experience than a similarly-sized rigid-winged aircraft.",
+    "The gentler turn allows easier and quicker parking, narrower aisles, and thus higher density than perpendicular parking.",
+    "With a gentle push on the back, the human body reacts with the ankle strategy.",
+    "He is a warm and gentle man, but-as you know-his intellect is like lightning.",
+    "We displaced the ants from the nectaries by gentle shaking and delicately rubbed earthworms on each nectary to apply mucus.",
+    "A bar under the tub signifies a gentler treatment in the machine."
+  ],
+  "list_see_also": [
+    "gentleness",
+    "gently"
+  ],
+  "list_browse": [
+    "genteelly",
+    "genteelness",
+    "gentile",
+    "gentility",
+    "gentle",
+    "gentleman",
+    "gentlemanly",
+    "gentleness",
+    "gently"
+  ]
+}

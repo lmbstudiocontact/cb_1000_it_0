@@ -1,0 +1,90 @@
+{
+  "english": "assume",
+  "phat_am": "əˈsjuːm",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giả thiết rằng",
+          "definition": "to take or accept as true",
+          "world_new": [
+            "accept",
+            "true"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I assume (that) you’d like time to decide.",
+              "world_new": [
+                "I",
+                "time",
+                "decide"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đảm đương",
+          "definition": "to take upon oneself or accept (authority, responsibility etc)",
+          "world_new": [
+            "accept",
+            "responsibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He assumed the role of leader in the emergency.",
+              "world_new": [
+                "assumed",
+                "leader",
+                "emergency"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giả bộ",
+          "definition": "to put on (a particular appearance etc)",
+          "world_new": [
+            "particular",
+            "appearance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He assumed a look of horror.",
+              "world_new": [
+                "assumed",
+                "look",
+                "horror"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Further investigation is required, because the issues are too important for simply assuming that persistence and intractability necessarily imply an organic genesis.",
+    "The intercept was assumed to be random in order to take within-subject correlations of the dependent variables into account for statistical inference.",
+    "The model assumes constant tectonic subsidence and a random variation in sea level.",
+    "In the random regression model, it is assumed to be constant over the time period examined.",
+    "In the beginning, we assumed that the robots cannot change their paths in these methods.",
+    "We emphasize the need to assume uniformity of extended preferences among individual observers; otherwise, the ordinary utilitarian formula cannot be derived.",
+    "The stoichiometry of the exact reaction will depend on the nature of the organic matter involved, here assumed to be saturated aliphatic hydrocarbon.",
+    "To isolate the problem, assume that if satisfactory reasoning is not forthcoming, the decision can be reversed."
+  ],
+  "list_see_also": [
+    "assumed",
+    "assumption"
+  ],
+  "list_browse": [
+    "associate",
+    "association",
+    "assorted",
+    "assortment",
+    "assume",
+    "assumed",
+    "assumption",
+    "assurance",
+    "assure"
+  ]
+}

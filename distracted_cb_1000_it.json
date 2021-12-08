@@ -1,0 +1,68 @@
+{
+  "english": "distracted",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bị sao lãng",
+          "definition": "turned aside (from what one is doing or thinking)",
+          "world_new": [
+            "aside"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had slipped out while her attention was distracted.",
+              "world_new": [
+                "attention"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mất trí",
+          "definition": "out of one’s mind; mad",
+          "world_new": [
+            "mad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a distracted old woman.",
+              "world_new": [
+                "old"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quẫn trí",
+          "definition": "distressed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The distracted mother couldn’t reach her child in the burning house.",
+              "world_new": [
+                "mother",
+                "reach",
+                "child",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "distinguished",
+    "distort",
+    "distortion",
+    "distract",
+    "distracted",
+    "distraction",
+    "distraught",
+    "distress",
+    "distressing"
+  ]
+}

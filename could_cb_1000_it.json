@@ -1,0 +1,72 @@
+{
+  "english": "could",
+  "phat_am": "kud",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chỉ sự cho phép",
+          "definition": "past tense of can",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They asked if I could drive a car",
+              "world_new": [
+                "I",
+                "drive",
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "I said I couldn’t",
+              "world_new": [
+                "I",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "She asked if she could go."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bày tỏ khả năng",
+          "definition": "used to express a possibility",
+          "world_new": [
+            "express",
+            "possibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I could go, but I’m not going to",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I could do it next week if you helped me.",
+              "world_new": [
+                "I",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "could have"
+  ],
+  "list_browse": [
+    "cougar",
+    "cough",
+    "cough mixture",
+    "cough up",
+    "could",
+    "could have",
+    "council",
+    "council estate",
+    "councillor"
+  ]
+}

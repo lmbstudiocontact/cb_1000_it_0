@@ -1,0 +1,73 @@
+{
+  "english": "already",
+  "phat_am": "oːlˈredi",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "đã…rồi",
+          "definition": "before a particular time; previously",
+          "world_new": [
+            "particular",
+            "previously"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had already gone when Tom arrived",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t want that book – I’ve read it already.",
+              "world_new": [
+                "I",
+                "want",
+                "book",
+                "read"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rồi à…",
+          "definition": "before the expected time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you leaving already?"
+            },
+            {
+              "ex_of_definition": "He hasn’t gone already, has he?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One of the strengths of the project is the multiagency approach and many working links have already been made.",
+    "Use a multiagency/collaborative approach and build on links already made.",
+    "By the mid 1990s payroll taxes already exceeded 25 % in many areas, to cover current costs.",
+    "The present work has already been put to such use.",
+    "The reader may observe that polymorphism is already being exploited in this paper all along.",
+    "Twenty-six per cent of the women had already used the pill and a further 19% were considering its use in the future.",
+    "A wide range of such devices are already at the prototype stage.",
+    "Also, both of these rules are instances of more general rules already considered."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "alphabetical",
+    "alphabetical order",
+    "alphabetically",
+    "alpine",
+    "already",
+    "alright",
+    "also",
+    "altar",
+    "alter"
+  ]
+}

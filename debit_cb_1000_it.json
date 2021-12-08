@@ -1,0 +1,77 @@
+{
+  "english": "debit",
+  "phat_am": "ˈdebit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ghi nợ",
+          "definition": "an entry on the side of an account which records what is owed",
+          "world_new": [
+            "entry",
+            "side",
+            "account"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His debits outnumbered his credits.",
+              "world_new": [
+                "credits"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ghi nợ",
+          "definition": "to enter or record on this side of an account",
+          "world_new": [
+            "enter",
+            "record",
+            "side",
+            "account"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your account will be debited £6 per month.",
+              "world_new": [
+                "account",
+                "per",
+                "month"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Whether in the gas or electricity industries, the debits and assets of municipalities in these undertakings were taken over when nationalisation occurred.",
+    "They overcharged and debited themselves with £3,000,000, which was placed on one side of the account.",
+    "Therefore, even if half is due to be debited against the railways, it amounts to less than £50,000.",
+    "Having common standards for these cross-border payments, credit transfers and direct debits is an important part of the health and growth of the single market.",
+    "In addition, basic bank accounts will support standing orders and direct debits.",
+    "Their trade receipts are credited and ordinary revenue expenditure is debited in the normal way.",
+    "Obviously the whole scheme depends upon keeping the net credits and debits within a reasonable size.",
+    "The bad effects, the debits, of devaluation have not yet made themselves fully felt, whereas the good effects, the credits are clear."
+  ],
+  "list_see_also": [
+    "debit card"
+  ],
+  "list_browse": [
+    "debauched",
+    "debauchery",
+    "debilitate",
+    "debility",
+    "debit",
+    "debit card",
+    "debris",
+    "debt",
+    "debtor"
+  ]
+}

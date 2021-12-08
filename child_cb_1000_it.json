@@ -1,0 +1,70 @@
+{
+  "english": "child",
+  "phat_am": "tʃaild",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đứa bé",
+          "definition": "a young human being of either sex",
+          "world_new": [
+            "young",
+            "human",
+            "sex"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a small child.",
+              "world_new": [
+                "small"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đứa con",
+          "definition": "a son or daughter",
+          "world_new": [
+            "son",
+            "daughter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her youngest child is five years old.",
+              "world_new": [
+                "old"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "childcare",
+    "childhood",
+    "childish",
+    "childishly",
+    "childishness",
+    "childless",
+    "childlike",
+    "child benefit",
+    "childbirth",
+    "childminder",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "chief executive officer",
+    "chiefly",
+    "chieftain",
+    "chiffon",
+    "child",
+    "child benefit",
+    "child support",
+    "child welfare",
+    "child’s play"
+  ]
+}

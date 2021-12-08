@@ -1,0 +1,77 @@
+{
+  "english": "cleave",
+  "phat_am": "kliːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nứt",
+          "definition": "to split or divide",
+          "world_new": [
+            "split",
+            "divide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The killer had cleaved her skull nearly in two.",
+              "world_new": [
+                "killer",
+                "skull",
+                "nearly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "phrasal verb",
+      "list_definition": [
+        {
+          "mean_english": "trung thành với ai",
+          "definition": "to stick to",
+          "world_new": [
+            "stick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "No gold ever cleaved to his palm.",
+              "world_new": [
+                "gold",
+                "ever",
+                "palm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this context, decreased developmental potential in cleaving nucleotransferred embryos is consistent with cell loss, and very likely due to programmed cell death.",
+    "Many of the leaders of organized labor cleaved to a view of labor-management relations that had become institutionalized in the 1950s.",
+    "The ticks proved very susceptible to the effects of the vapours of ammonia and clove oil respectively.",
+    "Reform in the 1870s did not proceed in an educational milieu cleaved along lines of new and old or modern and traditional.",
+    "These motif groups generally cleaved along political boundaries at the confederation level.",
+    "Fragmentation was observed in embryos at the 2- to 32-cell stage and these embryos were not cleaved further.",
+    "Others are cleaved along the plane of the leaf laminae.",
+    "Thus, it appears that the mature protein is not cleaved into single domains in vivo, but is maintained in the 2domain form."
+  ],
+  "list_see_also": [
+    "cleavage",
+    "cleaver",
+    "cloven hoof"
+  ],
+  "list_browse": [
+    "clearly",
+    "clearness",
+    "clearway",
+    "cleavage",
+    "cleave",
+    "cleaver",
+    "clef",
+    "cleft",
+    "clemency"
+  ]
+}

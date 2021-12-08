@@ -1,0 +1,52 @@
+{
+  "english": "deplete",
+  "phat_am": "diˈpliːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cạn kiệt",
+          "definition": "to make smaller in amount, number etc",
+          "world_new": [
+            "amount",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our supplies of food are rather depleted.",
+              "world_new": [
+                "food",
+                "rather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In longer periods of poverty past savings are depleted, household goods deteriorate and cannot be replaced, and debts accrue and become unsustainable.",
+    "The isotope compositions have distinctly more enriched characteristics than typical depleted mantle.",
+    "As the basal solid forms and releases fluid depleted of component /3, the composition of the melt falls.",
+    "The wire cores are gradually depleted as they ablate more coronal material that is rapidly accelerated towards the accreting precursor plasma on axis.",
+    "In these patients, the enterohepatic circulation, which reabsorbs about 90% of bile acids, is also deranged and the bile acid pool is severely depleted.",
+    "The easily worked oxidised ore was largely depleted and the underlying sulfide deposits were proving difficult and costly to treat.",
+    "The second model involves derivation of the melts from a depleted lithospheric mantle source which was contaminated by subduction components.",
+    "This pressure periodically provoked crises as the exchange reserves were depleted, necessitating short-term constraints on domestic economic policy."
+  ],
+  "list_see_also": [
+    "depletion"
+  ],
+  "list_browse": [
+    "dependant",
+    "dependence",
+    "dependent",
+    "depict",
+    "deplete",
+    "depletion",
+    "deplorable",
+    "deplore",
+    "deport"
+  ]
+}

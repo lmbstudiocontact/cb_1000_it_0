@@ -1,0 +1,53 @@
+{
+  "english": "felt",
+  "phat_am": "felt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nỉ; phớt",
+          "definition": "a type of cloth made of wool that has been pressed together not woven",
+          "world_new": [
+            "type",
+            "cloth",
+            "wool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She bought a metre of felt to re-cover the card table (= table for playing cards on)",
+              "world_new": [
+                "metre",
+                "re-cover",
+                "card",
+                "table",
+                "table",
+                "cards"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a felt hat.",
+              "world_new": [
+                "hat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "felt-tip pen"
+  ],
+  "list_browse": [
+    "fellow-feeling",
+    "fellowship",
+    "felon",
+    "felony",
+    "felt",
+    "felt-tip pen",
+    "female",
+    "feminine",
+    "femininity"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "flesh",
+  "phat_am": "fleʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thịt",
+          "definition": "the soft substance (muscles etc) that covers the bones of animals",
+          "world_new": [
+            "soft",
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The knife pierced hs flesh.",
+              "world_new": [
+                "knife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cùi; thịt",
+          "definition": "the soft part of fruit",
+          "world_new": [
+            "soft",
+            "part",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the golden flesh of a peach.",
+              "world_new": [
+                "golden",
+                "peach"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Experiments were monitored every 2-7 d when fruits were palatable to elephants and every 2-4 wk when the flesh had rotted.",
+    "By focussing on head, hands, legs, organs, sinew, flesh, and face, etc., the natural wisdoms traffic in the inferior realm.",
+    "So did her fair cheeks stream with grief for the husband who was sitting beside her in the flesh.",
+    "The persistence of larvae in putrefying flesh is also determined by the environment: high humidity and low temperatures favour survival.",
+    "However, the laws, once adopted, are complemented by more specific governmental decrees, which flesh out the details of realization.",
+    "When a musky rat-kangaroo handled a fruit it left characteristic chew marks in the skin, flesh or seed.",
+    "The flesh became nourishment for the body, while the skin or feathers nourished the spirit.",
+    "Medieval authorities insisted that martyrs were impassible because their flesh was materially and supernaturally different from normal human flesh."
+  ],
+  "list_see_also": [
+    "fleshy",
+    "flesh and blood",
+    "in the flesh"
+  ],
+  "list_browse": [
+    "flee",
+    "fleece",
+    "fleecy",
+    "fleet",
+    "flesh",
+    "flesh and blood",
+    "fleshy",
+    "flex",
+    "flexibility"
+  ]
+}

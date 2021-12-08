@@ -1,0 +1,90 @@
+{
+  "english": "least",
+  "phat_am": "liːst",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ít nhất",
+          "definition": "(something) which is the smallest or the smallest amount that exists, is possible etc",
+          "world_new": [
+            "amount",
+            "possible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think the least you can do is apologize!",
+              "world_new": [
+                "I",
+                "think",
+                "apologize"
+              ]
+            },
+            {
+              "ex_of_definition": "She wanted to know how to do it with the least amount of bother.",
+              "world_new": [
+                "wanted",
+                "know",
+                "amount",
+                "bother"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "ít nhất",
+          "definition": "(sometimes with the) to the smallest or lowest degree",
+          "world_new": [
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I like her (the) least of all the girls",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "That is the least important of our problems.",
+              "world_new": [
+                "important",
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Would we not expect to find at least some bawdy allusions in male jokes and social satires?",
+    "Thus, there are at least 32 identified genetic loci required for viability or fertility in the centric heterochromatin.",
+    "Therefore, at least in theory, the rate of intergenerational coresidence will decrease further in the future.",
+    "The same is likely to be true in at least some patients with type 1 diabetes, and in patients in the pre-diabetic phase.",
+    "They could also contribute to at least mitigate the intra-generational inequalities resulting from budget financing of social security deficit and reform transition.",
+    "Also, if a bigger area is going to be sampled, more robots are also better to keep the resolution at least the same.",
+    "Please provide at least two contexts in which the child used each word.",
+    "Participants who reported aspirin use at least once a week for one year were classified as regular aspirin users."
+  ],
+  "list_see_also": [
+    "at least",
+    "not in the least"
+  ],
+  "list_browse": [
+    "learning",
+    "learning outcome",
+    "lease",
+    "leash",
+    "least",
+    "leather",
+    "leathery",
+    "leave",
+    "leave alone"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "construction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự xây dựng",
+          "definition": "(a way of) constructing or putting together",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bridge is still under construction.",
+              "world_new": [
+                "bridge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công trình xây dựng",
+          "definition": "something built",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a concrete/steel construction."
+            },
+            {
+              "ex_of_definition": "That construction won’t last long.",
+              "world_new": [
+                "long"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Constructions also specify linking relations for combination with other constructions in their semantic structures.",
+    "With the constraints on linear structure in place, it becomes rather straightforward to fully specify different clausal constructions.",
+    "On the other hand, the nouns in such constructions have many of them.",
+    "The determinernoun and clitic pronoun-verb constructions retain the liaison alternation, whereas other constructions are variable or have lost liaison entirely.",
+    "Unconventional constructions with bir may be broken down into three categories.",
+    "The discussion in the preceding paragraph might seem to imply that there exists a strong constraint on the transfer of focus constructions.",
+    "The filler sentences made use of different kinds of syntactic constructions.",
+    "In the case of the dative constructions, this verb is give."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "constrain",
+    "constraint",
+    "constrict",
+    "construct",
+    "construction",
+    "construction site",
+    "construction worker",
+    "constructive",
+    "constructively"
+  ]
+}

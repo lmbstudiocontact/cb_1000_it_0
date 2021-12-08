@@ -1,0 +1,54 @@
+{
+  "english": "diplomatic",
+  "phat_am": "dipləˈmӕtik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc ngoại giao",
+          "definition": "concerning diplomacy",
+          "world_new": [
+            "concerning",
+            "diplomacy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a diplomatic mission.",
+              "world_new": [
+                "mission"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mang tính ngoại giao",
+          "definition": "tactful",
+          "world_new": [
+            "tactful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a diplomatic remark.",
+              "world_new": [
+                "remark"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "diphthong",
+    "diploma",
+    "diplomacy",
+    "diplomat",
+    "diplomatic",
+    "diplomatically",
+    "dire",
+    "direct",
+    "direct debit"
+  ]
+}

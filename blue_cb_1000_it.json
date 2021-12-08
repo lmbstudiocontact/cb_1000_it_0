@@ -1,0 +1,121 @@
+{
+  "english": "blue",
+  "phat_am": "bluː",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "xanh",
+          "definition": "of the colour/color of a cloudless sky",
+          "world_new": [
+            "cloudless",
+            "sky"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "blue paint",
+              "world_new": [
+                "paint"
+              ]
+            },
+            {
+              "ex_of_definition": "Her eyes are blue."
+            }
+          ]
+        },
+        {
+          "mean_english": "chán nản",
+          "definition": "sad or depressed",
+          "world_new": [
+            "sad",
+            "depressed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m feeling blue today.",
+              "world_new": [
+                "feeling"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "màu xanh",
+          "definition": "the colour/color of a cloudless sky",
+          "world_new": [
+            "cloudless",
+            "sky"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sky was a beautiful blue.",
+              "world_new": [
+                "sky",
+                "beautiful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phẩm xanh, sơn xanh",
+          "definition": "a blue paint, material etc",
+          "world_new": [
+            "paint",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll have to get some more blue."
+            }
+          ]
+        },
+        {
+          "mean_english": "bầu trời, biển cả",
+          "definition": "the sky or the sea",
+          "world_new": [
+            "sky",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The balloon floated off into the blue.",
+              "world_new": [
+                "balloon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "blueness",
+    "bluish",
+    "bluebell",
+    "blueberry",
+    "bluebottle",
+    "blue-collar",
+    "blueprint",
+    "Bluetooth",
+    "once in a blue moon",
+    "out of the blue",
+    ""
+  ],
+  "list_browse": [
+    "blowout",
+    "blowpipe",
+    "blowtorch",
+    "blubber",
+    "blue",
+    "blue-collar",
+    "bluebell",
+    "blueberry",
+    "bluebottle"
+  ]
+}

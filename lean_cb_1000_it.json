@@ -1,0 +1,129 @@
+{
+  "english": "lean",
+  "phat_am": "liːn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cúi",
+          "definition": "to slope over to one side; not to be upright",
+          "world_new": [
+            "slope",
+            "upright"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lamp-post was leaning to one side.",
+              "world_new": [
+                "lamp-post",
+                "leaning",
+                "side"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tựa",
+          "definition": "to rest (against, on)",
+          "world_new": [
+            "rest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She leaned the ladder against the wall",
+              "world_new": [
+                "ladder",
+                "wall"
+              ]
+            },
+            {
+              "ex_of_definition": "Don’t lean your elbows on the table",
+              "world_new": [
+                "your",
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "He leant on the gate.",
+              "world_new": [
+                "gate"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "gầy",
+          "definition": "thin; not fat",
+          "world_new": [
+            "fat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tall, lean man.",
+              "world_new": [
+                "tall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nạc",
+          "definition": "not containing much fat",
+          "world_new": [
+            "fat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "lean meat.",
+              "world_new": [
+                "meat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mất mùa",
+          "definition": "poor; not producing much",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lean harvest.",
+              "world_new": [
+                "harvest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Her attention secured, she leans forward to talk to him.",
+    "Probability of leaning decreased with increasing probability of turning up (c).",
+    "A resprouting but leaning stem gives up canopy space whereas a reoriented stem that turns upward can reclaim canopy space.",
+    "One miniature fresco fragment shows a woman, perhaps a priestess, leaning rail; behind her is a net hanging across a window.",
+    "In many instances he leaned towards the anti-communist rationale as a mere cover for his actions or simply to dupe his interlocutors.",
+    "Research on what is presently called multimodality heavily leans on much of the research on socalled non-verbal communication.",
+    "Empirically, these two categories were not very distinct: the average margin of victory in leaning races was 12 points and in toss-up races 8 points.",
+    "Another is to arrange identical schedules in separate components that are followed by different components signaling reinforcer rates that are either richer or leaner."
+  ],
+  "list_see_also": [
+    "leaning"
+  ],
+  "list_browse": [
+    "league",
+    "leak",
+    "leakage",
+    "leaky",
+    "lean",
+    "leaning",
+    "leanness",
+    "leap",
+    "leap year"
+  ]
+}

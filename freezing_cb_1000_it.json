@@ -1,0 +1,35 @@
+{
+  "english": "freezing",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rất lạnh; rét mướt",
+          "definition": "very cold",
+          "world_new": [
+            "cold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This room’s freezing."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "freewheel",
+    "freeze",
+    "freeze up",
+    "freezer",
+    "freezing",
+    "freezing-point",
+    "freight",
+    "freighter",
+    "French"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "fact",
+  "phat_am": "fӕkt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự việc",
+          "definition": "something known or believed to be true",
+          "world_new": [
+            "true"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is a fact that smoking is a danger to health.",
+              "world_new": [
+                "smoking",
+                "danger",
+                "health"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thật",
+          "definition": "reality",
+          "world_new": [
+            "reality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sometimes it’s difficult to distinguish fact from fiction in his films.",
+              "world_new": [
+                "difficult",
+                "distinguish",
+                "fiction"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Note that and are disjoint; this follows from the fact that the circle of radius 3/4 about the origin is mapped strictly inside itself.",
+    "But, in fact, we do not place any weight on ordinary intuitions about color.",
+    "In fact, it is interesting to note that any closed region with arbitrary shape reduces to a point as the region reduces to zero.",
+    "For the sake of completeness we sketch a quick proof of this last fact.",
+    "Although parties were relatively quick to form, historians have underscored the importance of the fact that they were not anticipated by the founders.",
+    "One possible explanation for the differing results may have to do with the fact that we were requesting summary instead of individual patient data.",
+    "Women were almost equal to men in strong, positive roles despite the fact that they were represented 870 times and men 1511 times.",
+    "In fact, it was replaced by new sources of disquietude."
+  ],
+  "list_see_also": [
+    "the facts of life",
+    "factual",
+    "factually",
+    "as a matter of fact"
+  ],
+  "list_browse": [
+    "facial",
+    "facility",
+    "facing",
+    "facsimile",
+    "fact",
+    "faction",
+    "factor",
+    "factory",
+    "factual"
+  ]
+}

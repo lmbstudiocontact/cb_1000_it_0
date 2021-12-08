@@ -1,0 +1,128 @@
+{
+  "english": "engage",
+  "phat_am": "inˈɡeidʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thuê một người",
+          "definition": "to begin to employ (a workman etc)",
+          "world_new": [
+            "begin",
+            "employ",
+            "workman"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He engaged him as his assistant.",
+              "world_new": [
+                "engaged",
+                "assistant"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặt trước",
+          "definition": "to book; to reserve",
+          "world_new": [
+            "reserve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has engaged an entertainer for the children’s party.",
+              "world_new": [
+                "engaged",
+                "entertainer",
+                "party"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiếm hoặc thu hút (ý nghĩ, thời gian… của ai",
+          "definition": "to take hold of or hold fast; to occupy",
+          "world_new": [
+            "hold",
+            "hold",
+            "occupy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tried to engage her attention.",
+              "world_new": [
+                "attention"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giao chiến",
+          "definition": "to join battle with",
+          "world_new": [
+            "join",
+            "battle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two armies were fiercely engaged in battle.",
+              "world_new": [
+                "fiercely",
+                "engaged",
+                "battle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm cho ăn khớp với nhau",
+          "definition": "to (cause part of a machine etc to) fit into and lock with another part",
+          "world_new": [
+            "part",
+            "machine",
+            "fit",
+            "lock",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The driver engaged second gear.",
+              "world_new": [
+                "driver",
+                "engaged",
+                "gear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Engage students in demonstrating understanding in written, oral, and hardware forms.",
+    "To protect informants and actors engaged in youth politics, they are not identified unless otherwise agreed.",
+    "Thus, the individual chapters are in themselves generally engaging, yet cannot compensate for the volume's lack of theoretical rigour and integration.",
+    "Is there support to be drawn from violence prevention for this distinction or similar differentiation among youth engaged in violence and related antisocial behavior?",
+    "Those engaged in mathematical and philosophical studies did the same.",
+    "The question of succession prompted families engaged in the same occupation to form an association that controlled members' marriages and inheritances.",
+    "To be fair, the book is explicitly an institutional history, and as such has no obligation to engage large historiographical themes.",
+    "Non-verbal cooperation was employed when the group was engaged in playing together and included musical and visual cues."
+  ],
+  "list_see_also": [
+    "engaged",
+    "engagement",
+    "engaging"
+  ],
+  "list_browse": [
+    "energy",
+    "energy-efficient",
+    "enforce",
+    "enforcement",
+    "engage",
+    "engaged",
+    "engagement",
+    "engaging",
+    "engine"
+  ]
+}

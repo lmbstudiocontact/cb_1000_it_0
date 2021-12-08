@@ -1,0 +1,59 @@
+{
+  "english": "fraction",
+  "phat_am": "ˈfrӕkʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phân số",
+          "definition": "a part; not a whole number eg 1/4, 3/8, 7/6 etc.",
+          "world_new": [
+            "whole",
+            "number"
+          ]
+        },
+        {
+          "mean_english": "một chút",
+          "definition": "a small part",
+          "world_new": [
+            "small",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has only a fraction of her brother’s intelligence.",
+              "world_new": [
+                "intelligence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of course, the definitions of specifications and entailment can be used when the propagator is fractioning.",
+    "However, a considerable fraction corresponds to evolutionary conserved sequences of unknown function.",
+    "The number of iterations required and the fraction of realizations rejected progressively increase with the downstream distance and the radial position.",
+    "To keep population size constant we apply a rescaling that keeps the fractions in the different population subgroups unchanged.",
+    "Erodible fraction is defined as the percentage of soil mass < 0.84 mm diameter, and this parameter has been related to soil wind erodibility.",
+    "A fraction of the electric current flows close to the wall and causes heating and subsequent ablation.",
+    "Here we consider that some fraction 1 - of the particles is reflected specularly and that the remaining fraction is reflected diffusely.",
+    "A set of players, a constant fraction of which are dishonest, are trying to elect a common leader."
+  ],
+  "list_see_also": [
+    "fractional"
+  ],
+  "list_browse": [
+    "fox terrier",
+    "foxhound",
+    "foxy",
+    "foyer",
+    "fraction",
+    "fractional",
+    "fractious",
+    "fractiousness",
+    "fracture"
+  ]
+}

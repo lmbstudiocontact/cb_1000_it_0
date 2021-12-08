@@ -1,0 +1,110 @@
+{
+  "english": "appear",
+  "phat_am": "əˈpiə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xuất hiện",
+          "definition": "to come into view",
+          "world_new": [
+            "view"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A man suddenly appeared round the corner.",
+              "world_new": [
+                "suddenly",
+                "corner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đến",
+          "definition": "to arrive (at a place etc)",
+          "world_new": [
+            "arrive",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He appeared in time for dinner.",
+              "world_new": [
+                "time",
+                "dinner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xuất hiện trước công chúng",
+          "definition": "to come before or present oneself/itself before the public or a judge etc",
+          "world_new": [
+            "present",
+            "public",
+            "judge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is appearing on television today",
+              "world_new": [
+                "television"
+              ]
+            },
+            {
+              "ex_of_definition": "He appeared before Judge Scott."
+            }
+          ]
+        },
+        {
+          "mean_english": "dường như",
+          "definition": "to look or seem as if (something is the case)",
+          "world_new": [
+            "look",
+            "seem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It appears that he is wrong",
+              "world_new": [
+                "wrong"
+              ]
+            },
+            {
+              "ex_of_definition": "He appears to be wrong.",
+              "world_new": [
+                "wrong"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When fused the top pyramid will appear to protrude as shading and disparity are in concert.",
+    "Purely indefinite readings appear to be more exceptional, yet in some contexts they provide a plausible interpretation of a given gerund construction.",
+    "Continuing treatment appears to have a protective effect against relapse.",
+    "This can make study findings appear redundant as the health service rushes on to experiment with the next new initiative.",
+    "The analysis of the qualitative data appears, unfortunately, to have been somewhat superficial.",
+    "Thus, the dissipation of volume appears for purely topological reasons.",
+    "Readers, it appears, were invited to engage in reflexive fantasy by associating their desired state of being with that of a trained psychologist.",
+    "But farm size does not appear to explain differences in yields and net returns when the technology is adopted."
+  ],
+  "list_see_also": [
+    "appearance"
+  ],
+  "list_browse": [
+    "apparently",
+    "apparition",
+    "appeal",
+    "appealing",
+    "appear",
+    "appearance",
+    "appease",
+    "appeasement",
+    "append"
+  ]
+}

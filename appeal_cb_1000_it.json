@@ -1,0 +1,140 @@
+{
+  "english": "appeal",
+  "phat_am": "əːpiːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "yêu cầu",
+          "definition": "(often with to) to ask earnestly for something",
+          "world_new": [
+            "ask",
+            "earnestly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She appealed (to him) for help.",
+              "world_new": [
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kháng cáo",
+          "definition": "to take a case one has lost to a higher court etc; to ask (a referee, judge etc) for a new decision",
+          "world_new": [
+            "case",
+            "lost",
+            "court",
+            "ask",
+            "referee",
+            "judge",
+            "decision"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He appealed against a three-year sentence.",
+              "world_new": [
+                "sentence"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hấp dẫn",
+          "definition": "(with to) to be pleasing",
+          "world_new": [
+            "pleasing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The idea of going away for the weekend appeals to me.",
+              "world_new": [
+                "idea",
+                "weekend"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự yêu cầu giúp đỡ; sự kháng cáo",
+          "definition": "(the act of making) a request (for help, a decision etc)",
+          "world_new": [
+            "act",
+            "request",
+            "help",
+            "decision"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The appeal raised $500 for charity",
+              "world_new": [
+                "charity"
+              ]
+            },
+            {
+              "ex_of_definition": "They made a last appeal for help",
+              "world_new": [
+                "help"
+              ]
+            },
+            {
+              "ex_of_definition": "The judge rejected his appeal.",
+              "world_new": [
+                "judge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hấp dẫn",
+          "definition": "attraction",
+          "world_new": [
+            "attraction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The prospect of spending two weeks on the beach held great appeal for her.",
+              "world_new": [
+                "prospect",
+                "beach",
+                "great"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The book ends with an appeal to combine social structural and humanistic perspectives in gerontology.",
+    "The main appeal of the correspondence to the modern reader is that it tells the story so well.",
+    "We can point to many examples of styles in the sciences and elsewhere that are too widespread to appeal only to local explanations.",
+    "Although this is a possible solution for a hand prosthesis, it has limited appeal as it would entail the user carrying many different specialist devices.",
+    "Significantly, the girl was an adult and all appeals to the police and district administration regarding this were ignored.",
+    "While mathematically appealing, the uniqueness of solutions in this approach is still an open question.",
+    "This way of looking at the prehistoric world appealed to me, particularly with its emphasis on long-term change.",
+    "These are prints that appeal to oral culture."
+  ],
+  "list_see_also": [
+    "appealing"
+  ],
+  "list_browse": [
+    "apparel",
+    "apparent",
+    "apparently",
+    "apparition",
+    "appeal",
+    "appealing",
+    "appear",
+    "appearance",
+    "appease"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "dominate",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chi phối",
+          "definition": "to have command or influence (over)",
+          "world_new": [
+            "command",
+            "influence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She tends to dominate her husband.",
+              "world_new": [
+                "husband"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trội hơn",
+          "definition": "to be most strong or most noticeable etc (in)",
+          "world_new": [
+            "strong",
+            "noticeable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The skyline is dominated by the castle.",
+              "world_new": [
+                "skyline",
+                "castle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The net result, in either case, is a political climate dominated by shrill advocacy devoid of reasoned argument.",
+    "Stochastic dominance searches for an efficient set of options that are not dominated and hence admissible.",
+    "The saint's tomb (moved subsequently from its original position) dominates a great chapel on the south side of the cathedral.",
+    "In its next, more public phase, it is likely to be dominated as much by events as by concepts.",
+    "The latter has been dominated by two opposing views.",
+    "At 68 m another unit dominated by thick medium-grained quartz arenites starts with a 1.6 m thick homogeneous bed of medium-grained sandstone.",
+    "How dispensable is this figure of the dominating subject?",
+    "My observations were made mostly in areas dominated by agriculture where the effects of seasonality could have been especially pronounced."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "domesticity",
+    "dominance",
+    "dominant",
+    "dominant trait",
+    "dominate",
+    "domination",
+    "domineering",
+    "dominion",
+    "domino"
+  ]
+}

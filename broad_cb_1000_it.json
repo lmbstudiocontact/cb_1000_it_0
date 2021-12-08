@@ -1,0 +1,80 @@
+{
+  "english": "broad",
+  "phat_am": "broːd",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rộng",
+          "definition": "wide; great in size from side to side",
+          "world_new": [
+            "great",
+            "size",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a broad street.",
+              "world_new": [
+                "street"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngang",
+          "definition": "from side to side",
+          "world_new": [
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wooden table was two metres/meters broad.",
+              "world_new": [
+                "wooden",
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khái quát",
+          "definition": "general; not detailed",
+          "world_new": [
+            "detailed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We discussed the plans in broad outline.",
+              "world_new": [
+                "outline"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "broaden",
+    "broadly",
+    "broadband",
+    "broad daylight",
+    "broad-minded",
+    "broadside on"
+  ],
+  "list_browse": [
+    "British",
+    "Briton",
+    "brittle",
+    "brittleness",
+    "broad",
+    "broad daylight",
+    "broad-minded",
+    "broadband",
+    "broadcast"
+  ]
+}

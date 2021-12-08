@@ -1,0 +1,198 @@
+{
+  "english": "less",
+  "phat_am": "les",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "kém",
+          "definition": "(often with than) not as much (as)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Think of a number less than forty",
+              "world_new": [
+                "number"
+              ]
+            },
+            {
+              "ex_of_definition": "He drank his tea and wished he had put less sugar in it",
+              "world_new": [
+                "tea",
+                "sugar"
+              ]
+            },
+            {
+              "ex_of_definition": "The salary for that job will be not less than $30,000.",
+              "world_new": [
+                "salary",
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "nhỏ hơn",
+          "definition": "not as much or to a smaller extent",
+          "world_new": [
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I like her less every time I see her",
+              "world_new": [
+                "I",
+                "time",
+                "I",
+                "see"
+              ]
+            },
+            {
+              "ex_of_definition": "You should smoke less if you want to remain healthy.",
+              "world_new": [
+                "smoke",
+                "want",
+                "remain",
+                "healthy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "ít",
+          "definition": "a smaller part or amount",
+          "world_new": [
+            "part",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has less than I have.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "trừ đi",
+          "definition": "minus",
+          "world_new": [
+            "minus"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He earns $280 a week less $90 income tax.",
+              "world_new": [
+                "week",
+                "income",
+                "tax"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "suffix",
+      "list_definition": [
+        {
+          "mean_english": "hậu tố “không có”",
+          "definition": "without",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an organization that provides shelter for the homeless",
+              "world_new": [
+                "organization",
+                "shelter",
+                "homeless"
+              ]
+            },
+            {
+              "ex_of_definition": "We felt powerless to help her.",
+              "world_new": [
+                "felt",
+                "powerless",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hậu tố “không làm”",
+          "definition": "not doing something",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s just a harmless old man.",
+              "world_new": [
+                "harmless",
+                "old"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hậu tố “không bị ảnh hưởng bởi”",
+          "definition": "not affected by something",
+          "world_new": [
+            "affected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "her tireless efforts to raise money for charity.",
+              "world_new": [
+                "tireless",
+                "raise",
+                "money",
+                "charity"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "5 are prohibited, they are seen as a lesser evil than /tl/ onsets.",
+    "Conversely, the lesser globalized countries tend to foster a stronger nationalistic ideology within the public.",
+    "There is reasonably full evidence for a number of lesser gentry, yeoman and tradesman estates.",
+    "All of these to a greater or lesser extent are founded upon birth, familial relations, and/or identity politics.",
+    "Despite their enormous numbers, the role of the lesser gentry in the epic battle of commercial versus gentle mores is virtually never mentioned.",
+    "Do they induce greater or lesser representation of the people?",
+    "They had some support amongst officials at court, but they had not troubled to build up support amongst the magnates or the lesser landowners.",
+    "Why this would be a lesser option for men remains to be determined."
+  ],
+  "list_see_also": [
+    "lessen",
+    "lesser",
+    "the less … the less/more",
+    "no less a person etc than",
+    "-less"
+  ],
+  "list_browse": [
+    "leper",
+    "leprosy",
+    "lesbian",
+    "lesion",
+    "less",
+    "lessen",
+    "lesser",
+    "lesson",
+    "lest"
+  ]
+}

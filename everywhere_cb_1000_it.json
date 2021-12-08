@@ -1,0 +1,51 @@
+{
+  "english": "everywhere",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "khắp nơi",
+          "definition": "(in or to) every place",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The flies are everywhere"
+            },
+            {
+              "ex_of_definition": "Everywhere I go, he follows me.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is costly and is difficult to deploy everywhere (such as under icecaps).",
+    "People and cars milled about us, while posters, caravans, tents, and stalls were crammed in everywhere.",
+    "Members of the former military were still in evidence everywhere, and military men could still figure prominently in politics or in culture.",
+    "Everywhere on the globe people watch the same films, eat the same food, and wear the same clothing.",
+    "Thus, statements about the course of mental events did not have the character of exceptionless and everywhere valid laws.",
+    "In the village souvenirs, such as wine and arts and crafts, are for sale everywhere.",
+    "Everywhere it has been marked by a deep nostalgia for return to a mythical past.",
+    "Communication exists everywhere in the animal kingdom and involves few nervous cells."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "(every) now and then/again",
+    "everybody",
+    "everyday",
+    "everything",
+    "everywhere",
+    "evict",
+    "eviction",
+    "evidence",
+    "evident"
+  ]
+}

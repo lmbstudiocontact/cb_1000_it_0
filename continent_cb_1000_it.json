@@ -1,0 +1,76 @@
+{
+  "english": "continent",
+  "phat_am": "ˈkontinənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lục địa",
+          "definition": "one of the great divisions of the land surface of the world – Europe, America, Australia, Asia or Africa",
+          "world_new": [
+            "great",
+            "land",
+            "surface",
+            "world"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The continent of Australia combined with the island of Tasmania forms the sixth largest country.",
+              "world_new": [
+                "island",
+                "country"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lục địa Châu Âu",
+          "definition": "Europe excluding Britain",
+          "world_new": [
+            "excluding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are going to the continent for our holidays.",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhịn tiểu, đại tiện",
+          "definition": "able to control especially the bladder and/or bowel.",
+          "world_new": [
+            "control",
+            "bladder",
+            "bowel"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "continental",
+    "continental breakfast",
+    "continental drift",
+    "continental shelf"
+  ],
+  "list_browse": [
+    "contest",
+    "contestant",
+    "context",
+    "continence",
+    "continent",
+    "continental",
+    "continental breakfast",
+    "continental drift",
+    "continental shelf"
+  ]
+}

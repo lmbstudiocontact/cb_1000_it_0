@@ -1,0 +1,58 @@
+{
+  "english": "finally",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "cuối cùng",
+          "definition": "as the last (of many)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers rode past, then came the Royal visitors, and finally the Queen."
+            }
+          ]
+        },
+        {
+          "mean_english": "rốt cuộc; cuối cùng",
+          "definition": "at last, after a long time",
+          "world_new": [
+            "long",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The train finally arrived.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, we have presented a semantics via a typepreserving translation of our extended language into an implicitly typed second-order ^.-calculus.",
+    "Finally, the function in an application might be a partial application of another function g (rule pcall).",
+    "Finally, the long-term performance of the proposed system was simulated.",
+    "Finally, there is a tremendous need for cost analysis of public health interventions.",
+    "Finally, all of the versions were discussed with all the translators.",
+    "Finally, when evaluating (4), (5) and (6) at touch-down, this set can be solved for t1d2, t2d3 and t3d.",
+    "Finally, one wonders how locative adverbs are licensed ; the only references are found on page 7 and pages 124-125, footnote 23.",
+    "Finally, we put this information together in a discussion of the impact of parasitism at the community level."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "finalist",
+    "finality",
+    "finalization",
+    "finalize",
+    "finally",
+    "finals",
+    "finance",
+    "financial",
+    "financially"
+  ]
+}

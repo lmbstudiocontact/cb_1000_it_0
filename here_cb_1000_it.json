@@ -1,0 +1,178 @@
+{
+  "english": "here",
+  "phat_am": "hiə",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "ở đây; ở chỗ này",
+          "definition": "(at, in or to) this place",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s here"
+            },
+            {
+              "ex_of_definition": "Come here!"
+            },
+            {
+              "ex_of_definition": "He lives not far from here",
+              "world_new": [
+                "far"
+              ]
+            },
+            {
+              "ex_of_definition": "Here they come"
+            },
+            {
+              "ex_of_definition": "Here is / Here’s your lost book.",
+              "world_new": [
+                "your",
+                "lost",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tại điểm này",
+          "definition": "at this time; at this point in an argument",
+          "world_new": [
+            "point",
+            "argument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Here she stopped speaking to wipe her eyes",
+              "world_new": [
+                "speaking",
+                "wipe"
+              ]
+            },
+            {
+              "ex_of_definition": "Here is where I disagree with you.",
+              "world_new": [
+                "I",
+                "disagree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính; ngay tại đây",
+          "definition": "beside one",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My colleague here will deal with the matter.",
+              "world_new": [
+                "colleague",
+                "deal",
+                "matter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "này!",
+          "definition": "a shout of surprise, disapproval etc",
+          "world_new": [
+            "shout",
+            "surprise",
+            "disapproval"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Here! What do you think you’re doing?",
+              "world_new": [
+                "think"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có mặt (khi điểm danh)",
+          "definition": "a shout used to show that one is present",
+          "world_new": [
+            "shout",
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Shout ‘Here!’ when I call your name.",
+              "world_new": [
+                "I",
+                "call",
+                "your",
+                "name"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "khắp nơi",
+          "definition": "in, or to, a larger number of places; in all directions",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People were running around here, there and everywhere.",
+              "world_new": [
+                "running",
+                "everywhere"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I thought, ahah, here's our chance to ease credibly.",
+    "Time to hold tight, here's a mugger.",
+    "We are convinced that the method presented here is more suitable to be used in data analysis of future experiments.",
+    "Here's news that will cheer you all.",
+    "Here we report the findings of the initiative's first year.",
+    "Here we have a clear indication that the representation of legal rules should be nonmonotonic.",
+    "The dawn of the twenty-first century appears to have made a difference here.",
+    "Incentives towards market-based care are a further policy option (and the final one to be considered here)."
+  ],
+  "list_see_also": [
+    "hereabout",
+    "hereafter",
+    "the hereafter",
+    "hereby",
+    "herein",
+    "herewith",
+    "here and there",
+    "here goes",
+    "here’s to",
+    "here, there and everywhere",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "herbivore",
+    "herbivorous",
+    "herd",
+    "herdsman",
+    "here",
+    "here and there",
+    "here goes",
+    "here you are",
+    "here’s to"
+  ]
+}

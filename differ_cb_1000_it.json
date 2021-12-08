@@ -1,0 +1,68 @@
+{
+  "english": "differ",
+  "phat_am": "ˈdifə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khác",
+          "definition": "(often with from) to be not like or alike",
+          "world_new": [
+            "alike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our views differ"
+            },
+            {
+              "ex_of_definition": "Her approach differs from mine.",
+              "world_new": [
+                "approach"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không đồng ý với",
+          "definition": "to disagree (with)",
+          "world_new": [
+            "disagree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think we will have to agree to differ.",
+              "world_new": [
+                "I",
+                "think",
+                "agree"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, t-tests were carried out to determine if the preference scores differed significantly from a chance score of 50%.",
+    "The conclusion considers which of the differing ways of conceptualising the growth of factory music fits best with the evidence.",
+    "Following each stimulus-sentence presentation, subjects were asked a follow-up question, which differed according to the training condition being delivered.",
+    "The term used to denote marriage is known to have differed according to region and social group.",
+    "A setup like this allows for two tasks differing in the assignment of responses to stimuli.",
+    "Patients presenting to differing eating-disorder services in different countries had clinical features that fell into very similar patterns.",
+    "As expected, the results of deaf children differed significantly as a function of their speech skills.",
+    "Such discrepancies in emphasis could have been conditioned by differing language skills."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "diesel fuel/oil",
+    "diet",
+    "dietary",
+    "dietician",
+    "differ",
+    "difference",
+    "different",
+    "differentiate",
+    "differentiation"
+  ]
+}

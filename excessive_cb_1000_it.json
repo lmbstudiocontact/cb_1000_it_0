@@ -1,0 +1,51 @@
+{
+  "english": "excessive",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "quá mức",
+          "definition": "beyond what is right and proper",
+          "world_new": [
+            "right",
+            "proper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The manager expects them to do an excessive amount of work.",
+              "world_new": [
+                "manager",
+                "amount",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The use of colorful language and superfluous details is further illustrated by the journalist's excessive description of the protagonist's appearance.",
+    "The memory needed for this table plus the peak heap size must be small enough to avoid excessive paging.",
+    "Examples of extraordinary measures include those procedures that incur excessive cost, pain, or burden or lack substantial benefit to the patient.",
+    "One can accept a certain amount of coloratura, but as soon as it becomes excessive, the device is marked and its uncanny significance emerges.",
+    "Among other sleep disorders, four patients noticed difficulties in falling asleep in each group, and one patient had excessive daytime sleepiness in the modafinil group.",
+    "The high incidence of complications was related to excessive shunt, especially with the prostheses sutured on the ascending aorta or on the brachiocephalic artery.",
+    "Such hothouse growth aggravated inflationary pressures, already rising because of excessive monetary liquidity from wartime currency creation and immediate post-war reconstruction.",
+    "The standard deviation we used for long-distance events (50 km) seems rather excessive when compared with known dispersal abilities of biological vectors."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "exceptional",
+    "exceptionally",
+    "excerpt",
+    "excess",
+    "excessive",
+    "excessively",
+    "excessiveness",
+    "exchange",
+    "exchange rate"
+  ]
+}

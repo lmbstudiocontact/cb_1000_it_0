@@ -1,0 +1,70 @@
+{
+  "english": "exist",
+  "phat_am": "iɡˈzist",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tồn tại",
+          "definition": "to be something real or actual",
+          "world_new": [
+            "real",
+            "actual"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do ghosts really exist?"
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp tục sống",
+          "definition": "to stay alive; to continue to live",
+          "world_new": [
+            "stay",
+            "continue",
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is possible to exist on bread and water.",
+              "world_new": [
+                "possible",
+                "bread",
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Do they cut back on existing services (if this is politically feasible)?",
+    "Readers looking for a systematic approach, or even an attempt to prioritize the existing findings more judiciously, are left disappointed.",
+    "The form exists after the death of any or all of its instances.",
+    "A passive impact exists at the end of the flight.",
+    "If (9) is true, the proposition would have existed had w been actualized.",
+    "The third step in establishing mediation is to show that a relationship exists between the mediating variables and the outcome variables.",
+    "Other researchers and software development companies are working on the production of agent-specific design and coding tools or the extension of existing ones.",
+    "The imperative style of programming involves assignment and the mutation of existing data structures, whereas the functional model does not."
+  ],
+  "list_see_also": [
+    "existing",
+    "existence",
+    "existentialism",
+    "existentialist"
+  ],
+  "list_browse": [
+    "exhortation",
+    "exhumation",
+    "exhume",
+    "exile",
+    "exist",
+    "existence",
+    "existentialism",
+    "existentialist",
+    "existing"
+  ]
+}

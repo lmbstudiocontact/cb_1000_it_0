@@ -1,0 +1,75 @@
+{
+  "english": "contribute",
+  "phat_am": "kənˈtribjut",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng góp",
+          "definition": "to give (money, help etc) along with others",
+          "world_new": [
+            "help"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you contributed (any money) to this charity?",
+              "world_new": [
+                "charity"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve been contributing (articles) to this paper for many years.",
+              "world_new": [
+                "paper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây ra",
+          "definition": "(with to) to help to cause to happen",
+          "world_new": [
+            "help",
+            "cause",
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His gambling contributed to his downfall.",
+              "world_new": [
+                "gambling",
+                "downfall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Early vegetative symptoms, however, may also contribute to the high rates of depression seen later in the course of immune activation.",
+    "Therefore, there is solid ground for suggesting that metalinguistic knowledge contributed substantially to the pattern of accuracy observed on the two error-correction tasks.",
+    "Most of the new players contributing to the growth in organic production must necessarily be conventional farmers converting to organics.",
+    "Lower levels of empathy may contribute to conflict in social interactions and thereby heighten levels of negative emotions experienced by some children.",
+    "Actually, they appear to the electorate as responsible parties contributing to the governance of the country.",
+    "This has produced conceptual confusion that has contributed to a lack of structural rigor in the field of study.",
+    "A maximum likelihood ratio test is used to determine which covariates are significantly different from zero and thereby contributing significantly to overall survivorship.",
+    "Indeed, the wish to avoid such veto power may both contribute to surplus coalitions and to grand coalitions between major parties."
+  ],
+  "list_see_also": [
+    "contribution",
+    "contributor"
+  ],
+  "list_browse": [
+    "contrary",
+    "contrast",
+    "contravene",
+    "contravention",
+    "contribute",
+    "contribution",
+    "contributor",
+    "contrite",
+    "contriteness"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "english": "dig",
+  "phat_am": "diɡ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xới đất",
+          "definition": "to turn up (earth) with a spade etc",
+          "world_new": [
+            "turn",
+            "spade"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Alison is outside digging the garden.",
+              "world_new": [
+                "outside",
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đào hố",
+          "definition": "to make (a hole) in this way",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child dug a tunnel in the sand.",
+              "world_new": [
+                "child",
+                "tunnel",
+                "sand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "huých",
+          "definition": "to poke",
+          "world_new": [
+            "poke"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He dug his brother in the ribs with his elbow.",
+              "world_new": [
+                "brother",
+                "elbow"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú huých",
+          "definition": "a poke",
+          "world_new": [
+            "poke"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dig in the ribs"
+            },
+            {
+              "ex_of_definition": "I knew that his remarks about women drivers were a dig at me (= a joke directed at me).",
+              "world_new": [
+                "I",
+                "joke"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "digger",
+    "dig out",
+    "dig up"
+  ],
+  "list_browse": [
+    "diffident",
+    "diffidently",
+    "diffuse",
+    "diffusion",
+    "dig",
+    "dig out",
+    "dig up",
+    "digest",
+    "digestible"
+  ]
+}

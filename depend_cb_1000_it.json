@@ -1,0 +1,90 @@
+{
+  "english": "depend",
+  "phat_am": "diˈpend",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tin tưởng",
+          "definition": "to rely on",
+          "world_new": [
+            "rely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can’t depend on his arriving on time.",
+              "world_new": [
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tùy thuộc",
+          "definition": "to rely on receiving necessary (financial) support from",
+          "world_new": [
+            "rely",
+            "necessary",
+            "support"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The school depends for its survival on money from the Church.",
+              "world_new": [
+                "school",
+                "its",
+                "survival",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phụ thuộc vào",
+          "definition": "(of a future happening etc) to be decided by",
+          "world_new": [
+            "future",
+            "happening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our success depends on everyone working hard.",
+              "world_new": [
+                "success"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What's more, an atom's behaviour could be radically transformed depending on the way its properties were measured.",
+    "The number density depends on the mass of the neutrals, which are mainly nitrogen molecules.",
+    "Thus, the definition of the best proportion of sensitivity and specificity depends on the purpose.",
+    "The component of the mean velocity depends on the azimuthal wavenumber and the position where the slow resonance takes place.",
+    "In fact, the data in this paper and the resulting analysis depends on the assumption that such an analysis is possible and desirable.",
+    "Thus, for a given wavevector mode, either the kinetic or the magnetic energ y will predominate, depending on which dissipation rate is bigger.",
+    "The above expression shows that the size of the assumed modeling uncertainties depends on the system state.",
+    "The dholak can be tuned in two ways depending on the type of drum."
+  ],
+  "list_see_also": [
+    "dependable",
+    "dependant",
+    "dependence",
+    "dependent",
+    "it/that depends"
+  ],
+  "list_browse": [
+    "department",
+    "department store",
+    "departmental",
+    "departure",
+    "depend",
+    "dependable",
+    "dependant",
+    "dependence",
+    "dependent"
+  ]
+}

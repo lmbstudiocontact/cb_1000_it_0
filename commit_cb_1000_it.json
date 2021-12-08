@@ -1,0 +1,87 @@
+{
+  "english": "commit",
+  "phat_am": "kəˈmit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phạm phải",
+          "definition": "to perform; to do (especially something illegal)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He committed the murder when he was drunk.",
+              "world_new": [
+                "committed",
+                "murder",
+                "drunk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được chuyển tới",
+          "definition": "to hand over (a person) to an institution etc for treatment, safekeeping",
+          "world_new": [
+            "hand",
+            "institution",
+            "treatment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was committed to prison.",
+              "world_new": [
+                "committed",
+                "prison"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cam kết",
+          "definition": "to put (oneself) under a particular obligation",
+          "world_new": [
+            "particular",
+            "obligation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has committed herself to looking after her dead brother’s children till the age of 18.",
+              "world_new": [
+                "committed",
+                "dead",
+                "age"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If we are committed to realizing designs as physical artifacts, then ultimately we are committed to their intentionality.",
+    "Many respondents showed tremendous empathy for ex-combatants and emphasised that they would not normally commit atrocities.",
+    "The coordination of all threads belonging to the same transaction is then crucial, because they must all commit or abort in case the transaction fails.",
+    "For products that are committed to memory in more domain-specific terms, it is unclear what representation is best.",
+    "Ideologically committed and issue-driven groups tried to create new political forms to carry their messages.",
+    "We show that inflation targeting is superior to monetary targeting, as it makes it easier for central banks to commit to low inflation.",
+    "These committed essays, of course, bear witness to important issues, even if they do not always illuminate them.",
+    "In the present study we focused on the number of errors committed at 4 and 12 s delays."
+  ],
+  "list_see_also": [
+    "commitment",
+    "committal",
+    "committed"
+  ],
+  "list_browse": [
+    "commiseration",
+    "commission",
+    "commissionaire",
+    "commissioner",
+    "commit",
+    "commitment",
+    "committal",
+    "committed",
+    "committee"
+  ]
+}

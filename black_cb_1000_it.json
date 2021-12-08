@@ -1,0 +1,165 @@
+{
+  "english": "black",
+  "phat_am": "blӕk",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "màu đen",
+          "definition": "of the colour/color of petroleum, coal, ravens, etc.",
+          "world_new": [
+            "petroleum",
+            "coal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "black paint.",
+              "world_new": [
+                "paint"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tối",
+          "definition": "without light",
+          "world_new": [
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a black night",
+              "world_new": [
+                "night"
+              ]
+            },
+            {
+              "ex_of_definition": "The night was black and starless.",
+              "world_new": [
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bẩn thỉu",
+          "definition": "dirty",
+          "world_new": [
+            "dirty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His hands were black with engine grease.",
+              "world_new": [
+                "engine",
+                "grease"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không sữa",
+          "definition": "without milk",
+          "world_new": [
+            "milk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "black coffee.",
+              "world_new": [
+                "coffee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xấu xa",
+          "definition": "evil",
+          "world_new": [
+            "evil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "black magic.",
+              "world_new": [
+                "magic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xúc phạm",
+          "definition": "belonging to or relating to a race of people with dark skin",
+          "world_new": [
+            "race",
+            "people",
+            "dark",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "black activism/culture/music."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bôi đen",
+          "definition": "to make black",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s blacked (out) the windows of his car.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "blackness",
+    "blacken",
+    "black art/magic",
+    "blackberry",
+    "blackbird",
+    "blackboard",
+    "blackbody",
+    "black box",
+    "blackcurrant",
+    "the Black Death",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "bitumen",
+    "bituminous",
+    "biweekly",
+    "bizarre",
+    "black",
+    "black and blue",
+    "black art/magic",
+    "black box",
+    "black economy"
+  ]
+}

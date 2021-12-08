@@ -1,0 +1,38 @@
+{
+  "english": "booking",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ ngồi được giữ trước",
+          "definition": "a reservation",
+          "world_new": [
+            "reservation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did you make a booking for the restaurant?",
+              "world_new": [
+                "restaurant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bookbinder",
+    "bookbinding",
+    "bookcase",
+    "booked up",
+    "booking",
+    "booking office",
+    "booklet",
+    "bookmaker",
+    "bookmark"
+  ]
+}

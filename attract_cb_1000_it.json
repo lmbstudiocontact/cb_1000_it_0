@@ -1,0 +1,65 @@
+{
+  "english": "attract",
+  "phat_am": "əˈtrӕkt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thu hút",
+          "definition": "to cause (someone or something) to come towards",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A magnet attracts iron",
+              "world_new": [
+                "magnet",
+                "iron"
+              ]
+            },
+            {
+              "ex_of_definition": "I tried to attract her attention.",
+              "world_new": [
+                "I",
+                "attention"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hấp dẫn",
+          "definition": "to arouse (someone’s) liking or interest",
+          "world_new": [
+            "arouse",
+            "liking",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What was it that attracted you to him?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "attraction",
+    "attractive",
+    "attractively",
+    "attractiveness"
+  ],
+  "list_browse": [
+    "attic",
+    "attire",
+    "attitude",
+    "attorney",
+    "attract",
+    "attraction",
+    "attractive",
+    "attractively",
+    "attractiveness"
+  ]
+}

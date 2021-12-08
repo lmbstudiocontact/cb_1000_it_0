@@ -1,0 +1,54 @@
+{
+  "english": "accuse",
+  "phat_am": "əˈkjuːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "buộc tội",
+          "definition": "(with of) to charge (someone) with having done something wrong",
+          "world_new": [
+            "charge",
+            "wrong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They accused him of stealing the car.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It discusses how political elites have managed and manipulated anti-corruption institutions, particularly in situations where senior state officials have been accused of corrupt behaviour.",
+    "He accuses them, not only of holding a cathartic theory of magic, but of also holding an emotive theory of magic.",
+    "The liberal understanding of autonomy is accused by critics of assuming an atomistic model of human agency and interaction.",
+    "The party secretary was accused of participating in the planning of the attack (their plan was not to inflict fatal injuries on the villagers).",
+    "In both cases, the victims were acquainted with the men who were accused of attacking them.",
+    "During the war, judges and prosecutors often took bribes, including from those representing accused guerrillas.",
+    "Many others also accused the manuals of emptying letters of sentiment, originality, personality, even thought.",
+    "And it was based on this report that the police arrested the accused."
+  ],
+  "list_see_also": [
+    "accusation",
+    "the accused",
+    "accuser",
+    "accusing"
+  ],
+  "list_browse": [
+    "accurate",
+    "accurately",
+    "accursed",
+    "accusation",
+    "accuse",
+    "accuser",
+    "accusing",
+    "accustom",
+    "accustomed"
+  ]
+}

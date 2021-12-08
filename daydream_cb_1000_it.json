@@ -1,0 +1,71 @@
+{
+  "english": "daydream",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mơ tưởng hão huyền",
+          "definition": "a dreaming or imagining of pleasant events; the making of unreal plans etc while awake",
+          "world_new": [
+            "pleasant",
+            "unreal",
+            "awake"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was having a daydream about living on a tropical island.",
+              "world_new": [
+                "living",
+                "tropical",
+                "island"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đầu óc mơ màng",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spent the morning daydreaming and staring out of the window.",
+              "world_new": [
+                "spent",
+                "morning",
+                "window"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She already had the power to watch and monitor the dreams, daydreams, and imaginings of mortals, but she wanted the power to control their dreams.",
+    "The system can be \"constrained\" to perform arithmetic or logic problems during focused waking, but it tends to \"relax\" into daydreaming or dreaming when there are no such constraints.",
+    "However, he also daydreamed, constructing elaborate imaginary worlds.",
+    "They will have daydreams, or become fidgety.",
+    "Both invite the viewer to imaginatively enter the scene and daydream.",
+    "While serving as the waiter in the inn, he daydreams all the time of becoming a great hero that his parents were rumoured to be.",
+    "If anyone tells me that there is no underlying scheme to close down rural post offices, they are daydreaming, because there definitely is.",
+    "Gurdjieff taught people how to increase and focus their attention and energy in various ways and to minimize daydreaming and absentmindedness."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "day of reckoning",
+    "day return",
+    "day school",
+    "daybreak",
+    "daydream",
+    "daylight",
+    "daytime",
+    "daze",
+    "dazed"
+  ]
+}

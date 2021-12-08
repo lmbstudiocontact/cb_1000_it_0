@@ -1,0 +1,71 @@
+{
+  "english": "intelligent",
+  "phat_am": "inˈtelidʒənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sáng dạ",
+          "definition": "clever and quick at understanding",
+          "world_new": [
+            "clever",
+            "quick",
+            "understanding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an intelligent child",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "That dog is so intelligent.",
+              "world_new": [
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông minh",
+          "definition": "showing these qualities",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an intelligent question.",
+              "world_new": [
+                "question"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Intelligent international action is reflexive in that it attends to the world that actions help constitute, as well as take effect within.",
+    "For some people worship corporeal objects, some intelligent and invisible spirits, such as the souls of the dead, and others.",
+    "The latter include intelligent agents, natural language understanding and processing, reasoning strategies, and knowledge representations and ontologies.",
+    "Modeling motivations and emotions as a basis for intelligent behavior.",
+    "His major concern was to counter that power with something more intelligent and vigorous.",
+    "The logic is that any civilization intelligent enough to construct such probes would also be intelligent enough to realize the inherent dangers.",
+    "Part 1, which constitutes approximately two-thirds of the book, covers the main paradigms of intelligent robotics.",
+    "This states that once intelligent information processing comes into existence it will never die out."
+  ],
+  "list_see_also": [
+    "intelligently",
+    "intelligence"
+  ],
+  "list_browse": [
+    "integrity",
+    "intellect",
+    "intellectual",
+    "intelligence",
+    "intelligent",
+    "intelligently",
+    "intelligibility",
+    "intelligible",
+    "intelligibly"
+  ]
+}

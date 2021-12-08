@@ -1,0 +1,88 @@
+{
+  "english": "insist",
+  "phat_am": "inˈsist",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khăng khăng",
+          "definition": "(with thator on) to state, emphasize, or hold firmly to (an opinion, plan etc)",
+          "world_new": [
+            "state",
+            "emphasize",
+            "hold",
+            "firmly",
+            "opinion",
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He insists that I was to blame for the accident",
+              "world_new": [
+                "I",
+                "blame",
+                "accident"
+              ]
+            },
+            {
+              "ex_of_definition": "I insisted on driving him home.",
+              "world_new": [
+                "I",
+                "driving",
+                "home"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "yêu cầu",
+          "definition": "(often with onor that) to demand or urge",
+          "world_new": [
+            "demand",
+            "urge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He insists on punctuality/obedience"
+            },
+            {
+              "ex_of_definition": "She insisted on coming with me"
+            },
+            {
+              "ex_of_definition": "He insisted that I should go.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although their methods were similar, he insisted, they were reached by different paths.",
+    "In contrast, the woman's lawyer claimed the regularization of the marriage, and insisted that his client was perfectly able to conclude marriage on her own.",
+    "Despite their waning interest in genuine political reform, however, donors have continued to insist on nominally democratic systems.",
+    "For a similar reason we also insist that there must be at least one lambda.",
+    "Should they insist that workers have an \"affirmative\" right to better work conditions, a right that superseded their employers' freedom to contract?",
+    "I insisted on bringing in utility and production functions because, once again, it is very hard to analyze credibility problems starting from ad-hoc demand functions.",
+    "They might insist, that is, that there are only negative duties and permissions, so that all acts of aid are supererogator y, not obligatory.",
+    "Finally, the author insists that there should be a common syntactic analysis of these so-called operators, though it is rather unclear why."
+  ],
+  "list_see_also": [
+    "insistence",
+    "insistent"
+  ],
+  "list_browse": [
+    "insincerely",
+    "insincerity",
+    "insinuate",
+    "insinuation",
+    "insist",
+    "insistence",
+    "insistent",
+    "insofar as",
+    "insolence"
+  ]
+}

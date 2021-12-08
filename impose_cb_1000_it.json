@@ -1,0 +1,91 @@
+{
+  "english": "impose",
+  "phat_am": "imˈpouz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh thuế",
+          "definition": "to place (a tax, fine, task etc) on someone or something",
+          "world_new": [
+            "place",
+            "tax",
+            "fine",
+            "task"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government have imposed a new tax on cigarettes.",
+              "world_new": [
+                "government",
+                "tax"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "áp đặt",
+          "definition": "to force (oneself, one’s opinions etc) on a person",
+          "world_new": [
+            "force",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The headmaster liked to impose his authority on the teachers.",
+              "world_new": [
+                "headmaster",
+                "authority"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ép buộc",
+          "definition": "(often with on) to ask someone to do something which he should not be asked to do or which he will find difficult to do",
+          "world_new": [
+            "ask",
+            "find",
+            "difficult"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hope I’m not imposing (on you) by asking you to help.",
+              "world_new": [
+                "I",
+                "hope",
+                "imposing",
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Nevertheless, these standards will impose significant new costs on all providers, and it is expected that many small providers will be unable to meet them.",
+    "Much of the existing work on the press imposes a clear division between the eighteenth and the nineteenth century.",
+    "Once the pollution control board imposes a tax, the plants have to choose between options.",
+    "The difference in wealth between landlord and tenant might be so large as to allow the former to impose whatever contract he wants.",
+    "Treatise writers attempt to impose some order on the decided cases-to reconstruct rationally what has been said and done in those cases.",
+    "Even if the creation is overall beneficial for the child, that is not alone a sufficient reason to refuse to impose liability.",
+    "This patience derives from understanding that the intervention will have little impact if it is forcibly imposed, an insight that develops during a speaker's life.",
+    "On the contrary, when a double support phase takes too long, the trajectories for the following single support phase are imposed on the system."
+  ],
+  "list_see_also": [
+    "imposition"
+  ],
+  "list_browse": [
+    "important",
+    "importantly",
+    "importation",
+    "importer",
+    "impose",
+    "imposing",
+    "imposition",
+    "impossibility",
+    "impossible"
+  ]
+}

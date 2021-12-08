@@ -1,0 +1,80 @@
+{
+  "english": "butcher",
+  "phat_am": "ˈbutʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hàng thịt",
+          "definition": "a person whose business is to kill cattle etc for food and/or sell their flesh",
+          "world_new": [
+            "person",
+            "business",
+            "kill",
+            "cattle",
+            "food",
+            "sell",
+            "their",
+            "flesh"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Halal butcher."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giết mổ",
+          "definition": "to kill animals for food and prepare them as meat",
+          "world_new": [
+            "kill",
+            "food",
+            "prepare",
+            "meat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The butcher is available to butcher the carcass to the customer’s exact requirements.",
+              "world_new": [
+                "available",
+                "carcass",
+                "exact"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tàn sát",
+          "definition": "to kill cruelly",
+          "world_new": [
+            "kill",
+            "cruelly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All the prisoners were butchered by the dictator’s guards."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bust",
+    "bustle",
+    "busy",
+    "but",
+    "butcher",
+    "butler",
+    "butt",
+    "butt in",
+    "butter"
+  ]
+}

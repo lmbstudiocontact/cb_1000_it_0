@@ -1,0 +1,82 @@
+{
+  "english": "hip",
+  "phat_am": "hip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hông",
+          "definition": "(the bones in) either of the two sides of the body just below the waist",
+          "world_new": [
+            "body",
+            "waist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She fell and broke her left hip.",
+              "world_new": [
+                "fell",
+                "broke",
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng eo",
+          "definition": "(the measurement round) the body at the level of the widest part of the upper leg and buttocks",
+          "world_new": [
+            "measurement",
+            "body",
+            "level",
+            "part",
+            "upper",
+            "leg"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This exercise is good for the hips",
+              "world_new": [
+                "exercise"
+              ]
+            },
+            {
+              "ex_of_definition": "What hip size are you?",
+              "world_new": [
+                "size"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hợp thời trang",
+          "definition": "(of people) up-to-date; following the latest fashion in music, clothes etc.",
+          "world_new": [
+            "following",
+            "fashion",
+            "music",
+            "clothes"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hinge",
+    "hinge on",
+    "hint",
+    "hinterland",
+    "hip",
+    "hip-hop",
+    "hippie",
+    "hippopotamus",
+    "hire"
+  ]
+}

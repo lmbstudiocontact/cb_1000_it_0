@@ -1,0 +1,55 @@
+{
+  "english": "indicate",
+  "phat_am": "ˈindikeit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chỉ ra",
+          "definition": "to point out or show",
+          "world_new": [
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We can paint an arrow here to indicate the right path.",
+              "world_new": [
+                "paint",
+                "arrow",
+                "right",
+                "path"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other studies indicate that the quality of home and work roles intersect in important ways to predict well-being.",
+    "The shape of the free surfaces for the solutions joined in this way is shown in figure 3, with the matching points indicated.",
+    "The census returns indicate that many of those single solitaries - though some of the married ones also - were inmigrants.",
+    "A dash indicates that the pupil was absent.",
+    "Thus, a negative sign indicates a decrease in technical inefficiency or an increase in technical efficiency.",
+    "The research indicated that it is helpful for the teachers to focus on pupils' learning processes rather than only on their learning outcomes.",
+    "Initial analysis of the data from the interviews and tapes of the novices also indicated qualitative changes in the nature of expertise as it developed.",
+    "Ideally, the medium is supposed to be precisely what the word indicates: a neutral, transparent conduit between the two worlds."
+  ],
+  "list_see_also": [
+    "indication",
+    "indicative",
+    "indicator"
+  ],
+  "list_browse": [
+    "index",
+    "index finger",
+    "india rubber",
+    "Indian",
+    "indicate",
+    "indication",
+    "indicative",
+    "indicator",
+    "indifference"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "include",
+  "phat_am": "iŋˈkluːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bao gồm",
+          "definition": "to take in or consider along with (other people, things etc) as part of a group, set etc",
+          "world_new": [
+            "consider",
+            "people",
+            "part",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Am I included in the team?",
+              "world_new": [
+                "I",
+                "team"
+              ]
+            },
+            {
+              "ex_of_definition": "Your duties include making the tea.",
+              "world_new": [
+                "tea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Attempts were made to include as many residents as possible.",
+    "Note that we have not included examples with a past tense form (cf. section 3.4.1) in the discussion.",
+    "Other bank financing is included in 'other' sources.",
+    "The arrest records included the date and type of each offense.",
+    "In this design, the matched co- included in the sample.",
+    "Because-type connectives include due to (the fact that), for the reason that, and in view of (the fact that).",
+    "We felt this was about the maximum number of structural members that should be included in the canopy, 129 members.",
+    "In addition, 19 nonclinical children between the ages of 8 and 12 years were included as part of a larger community sample."
+  ],
+  "list_see_also": [
+    "inclusion",
+    "including",
+    "inclusive"
+  ],
+  "list_browse": [
+    "incitement",
+    "incivility",
+    "inclination",
+    "incline",
+    "include",
+    "including",
+    "inclusion",
+    "inclusive",
+    "incognito"
+  ]
+}

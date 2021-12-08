@@ -1,0 +1,46 @@
+{
+  "english": "distribution",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phân phát",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the distribution of wealth among the population.",
+              "world_new": [
+                "wealth",
+                "population"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The transition between these two distributions occurred within a clearly recognizable range of values, 1550 to 1800 phosphorimager units.",
+    "Note that we report probability distributions for several parameters.",
+    "Therefore, log transformations were used to establish normal distributions prior to analyses.",
+    "The three genotypes result in different distributions of skill asymmetry.",
+    "One outcome of this note is the capability to manage distributional parameters for several key distributions.",
+    "In the future, it would be useful to explore the performance of the various mode estimators under a greater diversity of \"coarse\" data distributions.",
+    "The kurtosis in the distributions of shocks needs to be modeled accurately.",
+    "The latter therefore requires careful calibration with particles of representative size distributions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "distress",
+    "distressing",
+    "distressingly",
+    "distribute",
+    "distribution",
+    "district",
+    "district attorney",
+    "distrust",
+    "distrustful"
+  ]
+}

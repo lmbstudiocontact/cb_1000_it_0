@@ -1,0 +1,74 @@
+{
+  "english": "emerge",
+  "phat_am": "iˈməːdʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nổi lên",
+          "definition": "to come out; to come into view",
+          "world_new": [
+            "view"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The swimmer emerged from the water",
+              "world_new": [
+                "swimmer",
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "He was already thirty before his artistic talent emerged.",
+              "world_new": [
+                "artistic",
+                "talent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được biết đến",
+          "definition": "to become known",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It emerged that they had had a disagreement.",
+              "world_new": [
+                "disagreement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The developmental literature points to at least 6 levels of empathy emerging in succession, each expanding and adding to the repertoire of empathic potential.",
+    "Polarization of congressional parties emerges as the ideological distribution of congressional seats changes.",
+    "He cast his readers not as colleagues in an emerging philosophical community, but as remote, credit-giving consumers.",
+    "These limiting factors do not emerge in the accompanying scenario, which presents an unhurried and relatively straightforward assessment of a man living at home.",
+    "A year and a half after the constitution came into being, more than fifty political parties had emerged.",
+    "Within the individual contributions a number of common themes emerge.",
+    "Other elements of spatial diffusion, however, also emerge in this research.",
+    "In both of these studies maximising choice and control over one's life emerged as key themes which underpinned these more specific outcomes."
+  ],
+  "list_see_also": [
+    "emergence",
+    "emergent"
+  ],
+  "list_browse": [
+    "embryonic",
+    "emend",
+    "emendation",
+    "emerald",
+    "emerge",
+    "emergence",
+    "emergency",
+    "emergency room",
+    "emergency services"
+  ]
+}

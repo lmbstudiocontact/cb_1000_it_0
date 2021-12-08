@@ -1,0 +1,82 @@
+{
+  "english": "inform",
+  "phat_am": "inˈfoːm",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thông báo",
+          "definition": "to tell; to give knowledge to",
+          "world_new": [
+            "knowledge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please inform me of your intentions in this matter",
+              "world_new": [
+                "your",
+                "matter"
+              ]
+            },
+            {
+              "ex_of_definition": "I was informed that you were absent from the office.",
+              "world_new": [
+                "I",
+                "absent",
+                "office"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tố cáo",
+          "definition": "(with againstor on) to tell facts to eg the police about (a criminal etc)",
+          "world_new": [
+            "tell",
+            "police",
+            "criminal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He informed against his fellow thieves.",
+              "world_new": [
+                "fellow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The bottom-up priority rule at its essence directs lexical knowledge as to when it can inform phoneme decisions.",
+    "Promoting psychological well-being in the face of serious illness : when theory, research and practice inform each other.",
+    "Over a range of vaccination scenarios the model informs as to the effectiveness of various levels of vaccination coverage on prison reception.",
+    "Consequently, interventions may affect factors not targeted by program components and these nontargeted effects may inform developmental theories.",
+    "For the phone screening, verbal informed consent was obtained.",
+    "Given the limited imaging literature to inform these findings, and the relatively modest associations found in our study, further functional imaging work is required.",
+    "Indeed, genetically informed studies, in many cases, have supported these main effects, although their magnitude is sometimes less than previously supposed.",
+    "Such information will better inform policymakers concerned with land tenure, resource management, and conflicts in these regions."
+  ],
+  "list_see_also": [
+    "informant",
+    "information",
+    "informative",
+    "informer",
+    "information processing",
+    "information superhighway",
+    "information technology"
+  ],
+  "list_browse": [
+    "influential",
+    "influentially",
+    "influenza",
+    "influx",
+    "inform",
+    "informal",
+    "informality",
+    "informally",
+    "informant"
+  ]
+}

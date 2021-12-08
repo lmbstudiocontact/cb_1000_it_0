@@ -1,0 +1,102 @@
+{
+  "english": "from",
+  "phat_am": "from",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "từ",
+          "definition": "used before the place, thing, person, time etc that is the point at which an action, journey, period of time etc begins",
+          "world_new": [
+            "place",
+            "person",
+            "time",
+            "point",
+            "action",
+            "journey",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "from Europe to Asia"
+            },
+            {
+              "ex_of_definition": "from Monday to Friday",
+              "world_new": [
+                "Monday",
+                "Friday"
+              ]
+            },
+            {
+              "ex_of_definition": "a letter from her father.",
+              "world_new": [
+                "letter",
+                "father"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có nguồn gốc từ đâu",
+          "definition": "used to indicate that from which something or someone comes",
+          "world_new": [
+            "indicate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a quotation from Shakespeare.",
+              "world_new": [
+                "quotation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ ra sự chia ly, loại bỏ…",
+          "definition": "used to indicate separation",
+          "world_new": [
+            "indicate",
+            "separation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take it from him."
+            }
+          ]
+        },
+        {
+          "mean_english": "vì; do; bởi",
+          "definition": "used to indicate a cause or reason",
+          "world_new": [
+            "indicate",
+            "cause",
+            "reason"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is suffering from a cold.",
+              "world_new": [
+                "suffering",
+                "cold"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "frock",
+    "frog",
+    "frogman",
+    "frolic",
+    "from",
+    "from all sides",
+    "from force of habit",
+    "from memory",
+    "from the bottom of one’s heart"
+  ]
+}

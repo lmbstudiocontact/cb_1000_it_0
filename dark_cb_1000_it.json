@@ -1,0 +1,143 @@
+{
+  "english": "dark",
+  "phat_am": "daːk",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tối tăm",
+          "definition": "without light",
+          "world_new": [
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dark room",
+              "world_new": [
+                "room"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s getting dark."
+            }
+          ]
+        },
+        {
+          "mean_english": "đen đen",
+          "definition": "blackish or closer to black than white",
+          "world_new": [
+            "black",
+            "white"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dark red colour",
+              "world_new": [
+                "red",
+                "colour"
+              ]
+            },
+            {
+              "ex_of_definition": "a dark (= not very white or fair) complexion",
+              "world_new": [
+                "white",
+                "complexion"
+              ]
+            },
+            {
+              "ex_of_definition": "Her hair is dark.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ám muội",
+          "definition": "evil and usually secret",
+          "world_new": [
+            "evil",
+            "secret"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "dark deeds"
+            },
+            {
+              "ex_of_definition": "a dark secret.",
+              "world_new": [
+                "secret"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tối tăm",
+          "definition": "absence of light",
+          "world_new": [
+            "absence",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sitting alone in in the dark",
+              "world_new": [
+                "sitting",
+                "alone"
+              ]
+            },
+            {
+              "ex_of_definition": "She was afraid of the dark",
+              "world_new": [
+                "afraid"
+              ]
+            },
+            {
+              "ex_of_definition": "He never goes out after dark"
+            },
+            {
+              "ex_of_definition": "We are in the dark (= we have no knowledge) about what is happening.",
+              "world_new": [
+                "happening"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The wings are brown with indistinct darker transverse lines in the posterior half.",
+    "Black is nothing other than a darker shade of rebel gray.",
+    "The legs are light brown with darker segments on the distal end.",
+    "The spots are round or elliptical, and may be paler or darker than the rest of the rock.",
+    "The western kiang is slightly smaller than the eastern and also has a darker coat.",
+    "Hairstyles were slightly modified and their hair color were darker.",
+    "There is a slightly darker patch of terrain in the southeast part of the interior.",
+    "Juveniles are a darker red, with three vertical white bands and black pectoral fins."
+  ],
+  "list_see_also": [
+    "darken",
+    "darkness",
+    "dark glasses",
+    "darkroom",
+    "keep it dark"
+  ],
+  "list_browse": [
+    "dangle",
+    "dare",
+    "daredevil",
+    "daring",
+    "dark",
+    "dark glasses",
+    "darken",
+    "darkness",
+    "darkroom"
+  ]
+}

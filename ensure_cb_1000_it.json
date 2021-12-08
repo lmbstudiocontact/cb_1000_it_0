@@ -1,0 +1,50 @@
+{
+  "english": "ensure",
+  "phat_am": "inˈʃuə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bảo đảm",
+          "definition": "to make sure",
+          "world_new": [
+            "sure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Ensure that your television set is switched off at night.",
+              "world_new": [
+                "your",
+                "television",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Random assignment would ensure that all unmeasured confounding factors were equally distributed between comparison groups.",
+    "It was also necessary to ensure that for each picture there were sufficient words selected to describe the events.",
+    "It will also ensure patients are considered for current lymphoma studies, which are aimed to improve the management of these patients.",
+    "Note that -conversion is used to ensure that 2 and have no variables in common.",
+    "Two or three visits in a 12-h period were necessary to ensure that all individuals were removed.",
+    "The first requirement ensures that the programme has no free variables, and that all environments are minimal.",
+    "Ultimately, this victory was not ensured by the persuasive nature of the new dimensions of the bloc's political discourse.",
+    "The search method is exhaustive, so it is ensured that all the necessary parameters will be visited and checked for violations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ensemble",
+    "ensnare",
+    "ensue",
+    "ensuing",
+    "ensure",
+    "entail",
+    "entangle",
+    "entanglement",
+    "enter"
+  ]
+}

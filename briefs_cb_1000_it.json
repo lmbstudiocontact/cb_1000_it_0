@@ -1,0 +1,40 @@
+{
+  "english": "briefs",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "quần đùi",
+          "definition": "(used especially in shops) women’s pants or men’s underpants",
+          "world_new": [
+            "pants",
+            "underpants"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pair of cotton briefs.",
+              "world_new": [
+                "pair",
+                "cotton"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "brief",
+    "briefcase",
+    "briefing",
+    "briefly",
+    "briefs",
+    "brigade",
+    "brigadier",
+    "bright",
+    "brighten"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "chicken",
+  "phat_am": "ˈtʃikin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gà con",
+          "definition": "a young bird, especially a young hen",
+          "world_new": [
+            "young",
+            "bird",
+            "young",
+            "hen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She keeps chickens."
+            }
+          ]
+        },
+        {
+          "mean_english": "gà",
+          "definition": "its flesh used as food",
+          "world_new": [
+            "its",
+            "flesh",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a plate of fried chicken.",
+              "world_new": [
+                "plate",
+                "fried"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người nhát gan",
+          "definition": "a coward",
+          "world_new": [
+            "coward"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t be such a chicken!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "chickenpox",
+    "chicken out"
+  ],
+  "list_browse": [
+    "chewing gum",
+    "chewy",
+    "chic",
+    "chick",
+    "chicken",
+    "chicken out",
+    "chickenpox",
+    "chicory",
+    "chide"
+  ]
+}

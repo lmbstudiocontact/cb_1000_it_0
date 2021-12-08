@@ -1,0 +1,89 @@
+{
+  "english": "concentrate",
+  "phat_am": "ˈkonsəntreit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tập trung",
+          "definition": "to give all one’s energies, attention etc to one thing",
+          "world_new": [
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I wish you’d concentrate (on what I’m saying).",
+              "world_new": [
+                "I",
+                "wish"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tập trung",
+          "definition": "to bring together in one place",
+          "world_new": [
+            "bring",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He concentrated his soldiers at the gateway.",
+              "world_new": [
+                "concentrated",
+                "gateway"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cô đặc",
+          "definition": "to make (a liquid) stronger by boiling etc to reduce its volume",
+          "world_new": [
+            "reduce",
+            "its",
+            "volume"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Grapes undergo a process to concentrate the juice after crushing.",
+              "world_new": [
+                "undergo",
+                "process",
+                "juice",
+                "crushing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Instead of concentrating on the rational exchange of information, literature should emphasize the presence of both rational and irrational elements in human existence.",
+    "When the new methods of concentrating minerals were introduced, large numbers of female workers were replaced by male in the sink and float plants.",
+    "At the empirical level, hobson et al.'s model concentrates on global states instead of specific contents of consciousness.",
+    "In this way they kept intruders at bay and wealth and resources concentrated in the hands of the weheebe and the egge-hodaabe.",
+    "The analysis in this paper therefore concentrates on the impact of a few key explanatory variables, whose importance have been highlighted in the theoretical literature.",
+    "Section 2 presents a background of the research domain concentrating on reusability issues as well as experiences on using design patterns in other domains.",
+    "However, it is disappointing that it concentrates quite so much on the more traditional aspects of coloration, especially the coloration of textiles.",
+    "The chapter concentrates upon social history - the history of everyman and woman, which is so rarely written."
+  ],
+  "list_see_also": [
+    "concentrated",
+    "concentration"
+  ],
+  "list_browse": [
+    "conceited",
+    "conceivable",
+    "conceivably",
+    "conceive",
+    "concentrate",
+    "concentrated",
+    "concentration",
+    "concentric",
+    "concept"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "demonstrate",
+  "phat_am": "ˈdemənstreit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chứng minh",
+          "definition": "to show clearly",
+          "world_new": [
+            "clearly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This demonstrates his ignorance of the situation.",
+              "world_new": [
+                "ignorance",
+                "situation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giải thích",
+          "definition": "to show how something works or is done",
+          "world_new": [
+            "works"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He demonstrated how the new vacuum cleaner worked.",
+              "world_new": [
+                "vacuum",
+                "cleaner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biểu tình",
+          "definition": "to express an opinion (usually political) by marching, showing banners etc in public",
+          "world_new": [
+            "express",
+            "opinion",
+            "public"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A crowd collected to demonstrate against the new taxes.",
+              "world_new": [
+                "crowd",
+                "collected"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The most recent paper [5] demonstrates that the acceleration of electrons can be at the high energy frontier [5, 6].",
+    "Many recent studies have demonstrated that astrocytes release chemical transmitters in a process termed gliotransmission.",
+    "Similar to gender variation, the state group demonstrated slight topic variation, whereas this was again significant in the yuppie group.",
+    "His study demonstrated that civil society activism had been largely ignored in the academic world, but was an important political reality.",
+    "We have demonstrated that it can be measured using the deviations from long-run economic relationships, the notion of cointegration.",
+    "Our analysis demonstrates not only that both claims are correct, but also why.",
+    "Sitting in the hot summer sun, unprotected by shade for more than seven hours, the community demonstrated its aversion to the dredging.",
+    "An empirical analysis demonstrates that increases in democratic quality, measured independently from electoral activities, tend to be stronger directly after elections than in non-electoral periods."
+  ],
+  "list_see_also": [
+    "demonstration",
+    "demonstrator",
+    "demonstrative"
+  ],
+  "list_browse": [
+    "demography",
+    "demolish",
+    "demolition",
+    "demon",
+    "demonstrate",
+    "demonstration",
+    "demonstrative",
+    "demonstrator",
+    "demoralize"
+  ]
+}

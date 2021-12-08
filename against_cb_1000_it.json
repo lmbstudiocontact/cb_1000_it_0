@@ -1,0 +1,103 @@
+{
+  "english": "against",
+  "phat_am": "əˈɡenst",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "chống lại",
+          "definition": "in opposition to",
+          "world_new": [
+            "opposition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They fought against the enemy",
+              "world_new": [
+                "enemy"
+              ]
+            },
+            {
+              "ex_of_definition": "Driving while drunk is against the law (= illegal).",
+              "world_new": [
+                "drunk",
+                "law"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tương phản với",
+          "definition": "in contrast to",
+          "world_new": [
+            "contrast"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The trees were black against the evening sky.",
+              "world_new": [
+                "black",
+                "evening",
+                "sky"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dựa vào",
+          "definition": "touching or in contact with",
+          "world_new": [
+            "touching",
+            "contact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stood with his back against the wall",
+              "world_new": [
+                "wall"
+              ]
+            },
+            {
+              "ex_of_definition": "The rain was beating against the window.",
+              "world_new": [
+                "rain",
+                "beating",
+                "window"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phòng",
+          "definition": "in order to protect against",
+          "world_new": [
+            "order",
+            "protect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ll need a vaccination against tuberculosis.",
+              "world_new": [
+                "vaccination",
+                "tuberculosis"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "aftertaste",
+    "afterthought",
+    "afterwards",
+    "again",
+    "against",
+    "agar-agar",
+    "age",
+    "age group",
+    "age-old"
+  ]
+}

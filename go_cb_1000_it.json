@@ -1,0 +1,449 @@
+{
+  "english": "go",
+  "phat_am": "ɡəu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi; đi đến; đi tới",
+          "definition": "to walk, travel, move etc",
+          "world_new": [
+            "walk",
+            "travel",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is going across the field",
+              "world_new": [
+                "across",
+                "field"
+              ]
+            },
+            {
+              "ex_of_definition": "Go straight ahead",
+              "world_new": [
+                "straight",
+                "ahead"
+              ]
+            },
+            {
+              "ex_of_definition": "When did he go out?"
+            }
+          ]
+        },
+        {
+          "mean_english": "được gửi đến hoặc chuyển đi",
+          "definition": "to be sent, passed on etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Complaints have to go through the proper channels.",
+              "world_new": [
+                "proper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được bán đi; thuộc về",
+          "definition": "to be given, sold etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The prize goes to John Campbell",
+              "world_new": [
+                "prize"
+              ]
+            },
+            {
+              "ex_of_definition": "The table went for $100.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dẫn tới",
+          "definition": "to lead to",
+          "world_new": [
+            "lead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Where does this road go?",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tham dự, thăm",
+          "definition": "to visit, to attend",
+          "world_new": [
+            "visit",
+            "attend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He goes to school every day",
+              "world_new": [
+                "school",
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "I decided not to go to the movie.",
+              "world_new": [
+                "I",
+                "movie"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bỏ đi",
+          "definition": "to be destroyed etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This wall will have to go.",
+              "world_new": [
+                "wall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "diễn ra",
+          "definition": "to proceed, be done",
+          "world_new": [
+            "proceed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The meeting went very well.",
+              "world_new": [
+                "meeting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ra đi",
+          "definition": "to move away",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think it is time you were going.",
+              "world_new": [
+                "I",
+                "think",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biến mất",
+          "definition": "to disappear",
+          "world_new": [
+            "disappear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My purse has gone!",
+              "world_new": [
+                "purse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thực hiện",
+          "definition": "to do (some action or activity)",
+          "world_new": [
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going for a walk",
+              "world_new": [
+                "walk"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m going hiking next week-end."
+            }
+          ]
+        },
+        {
+          "mean_english": "không còn hoạt động tốt",
+          "definition": "to fail etc",
+          "world_new": [
+            "fail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think the clutch on this car has gone.",
+              "world_new": [
+                "I",
+                "think",
+                "clutch",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoạt động",
+          "definition": "to be working etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t think that clock is going.",
+              "world_new": [
+                "I",
+                "think",
+                "clock"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hóa ra",
+          "definition": "to become",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These apples have gone bad.",
+              "world_new": [
+                "bad"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong tình trạng",
+          "definition": "to be",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many people in the world regularly go hungry.",
+              "world_new": [
+                "people",
+                "world",
+                "regularly",
+                "hungry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được để; được đặt",
+          "definition": "to be put",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Spoons go in that drawer.",
+              "world_new": [
+                "drawer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "qua đi; trôi qua",
+          "definition": "to pass",
+          "world_new": [
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Time goes quickly when you are enjoying yourself.",
+              "world_new": [
+                "quickly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được sử dụng",
+          "definition": "to be used",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All her pocket money goes on sweets.",
+              "world_new": [
+                "pocket",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có thể chấp nhận được",
+          "definition": "to be acceptable etc",
+          "world_new": [
+            "acceptable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Anything goes in this office.",
+              "world_new": [
+                "office"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phát ra âm thanh nào đó",
+          "definition": "to make a particular noise",
+          "world_new": [
+            "particular",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dogs go woof, not miaow.",
+              "world_new": [
+                "woof",
+                "miaow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có giọng điệu nào đó",
+          "definition": "to have a particular tune etc",
+          "world_new": [
+            "particular",
+            "tune"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How does that song go?",
+              "world_new": [
+                "song"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thành công",
+          "definition": "to become successful etc",
+          "world_new": [
+            "become",
+            "successful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She always makes a party go.",
+              "world_new": [
+                "party"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lượt chơi",
+          "definition": "an attempt",
+          "world_new": [
+            "attempt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m not sure how to do it, but I’ll have a go.",
+              "world_new": [
+                "sure"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sức sống",
+          "definition": "energy",
+          "world_new": [
+            "energy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s full of go.",
+              "world_new": [
+                "full"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "going",
+    "go-ahead",
+    "go-cart",
+    "go-getter",
+    "going-over",
+    "goings-on",
+    "go-kart",
+    "go-karting",
+    "no-go",
+    "all go",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "gnawing",
+    "gnome",
+    "GNP",
+    "gnu",
+    "go",
+    "go (all) to pieces",
+    "go about",
+    "go according to plan",
+    "go after"
+  ]
+}

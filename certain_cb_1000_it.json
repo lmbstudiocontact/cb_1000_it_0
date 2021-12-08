@@ -1,0 +1,120 @@
+{
+  "english": "certain",
+  "phat_am": "ˈsəːtn",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đích xác",
+          "definition": "true or without doubt",
+          "world_new": [
+            "true",
+            "doubt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s certain that the world is round.",
+              "world_new": [
+                "world"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chắc chắn",
+          "definition": "sure",
+          "world_new": [
+            "sure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m certain he’ll come"
+            },
+            {
+              "ex_of_definition": "He is certain to forget",
+              "world_new": [
+                "forget"
+              ]
+            },
+            {
+              "ex_of_definition": "Being late is a certain way of losing one’s job.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nào đó",
+          "definition": "one or some, not definitely named",
+          "world_new": [
+            "definitely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "certain doctors"
+            },
+            {
+              "ex_of_definition": "a certain Mrs Smith",
+              "world_new": [
+                "Mrs"
+              ]
+            },
+            {
+              "ex_of_definition": "(also pronoun) certain of his friends."
+            }
+          ]
+        },
+        {
+          "mean_english": "phần nào",
+          "definition": "slight; some",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She detected a certain hostility in his manner",
+              "world_new": [
+                "hostility",
+                "manner"
+              ]
+            },
+            {
+              "ex_of_definition": "We were expecting a certain amount of bad weather.",
+              "world_new": [
+                "amount",
+                "bad",
+                "weather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The intersection between the orientation annulus and the end-effector locus represents the orientation range for a manipulator at a certain reachable workspace range.",
+    "It is almost certain that such an appearance never took place.",
+    "They will be reduced and to a certain extent they will be systematic.",
+    "A certain degree of division of labour took place in the production of cigarettes, but not in the production of cigars and limpiones.",
+    "The class of quasirandom graphs is defined by certain equivalent graph properties possessed by random graphs.",
+    "In time, this repetitive attribution of a particular symbolic value to certain social actions became assumed as normative.",
+    "They have established certain principles of phonetic and phonological change, and of the social motivation for change.",
+    "The reasonable person standard enjoys a certain sort of objectivity, insofar as it protects people from each other."
+  ],
+  "list_see_also": [
+    "certainly",
+    "certainty",
+    "for certain",
+    "make certain"
+  ],
+  "list_browse": [
+    "ceremonially",
+    "ceremonious",
+    "ceremoniously",
+    "ceremony",
+    "certain",
+    "certainly",
+    "certainty",
+    "certificate",
+    "Certificate of Secondary Education"
+  ]
+}

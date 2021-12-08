@@ -1,0 +1,75 @@
+{
+  "english": "golf",
+  "phat_am": "ɡolf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môn đánh gôn",
+          "definition": "a game in which a small white ball is hit across open ground and into small holes by means of golf-clubs",
+          "world_new": [
+            "game",
+            "small",
+            "white",
+            "ball",
+            "hit",
+            "across",
+            "open",
+            "ground",
+            "small",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He plays golf every Sunday.",
+              "world_new": [
+                "Sunday"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chơi gôn",
+          "definition": "to play golf.",
+          "world_new": [
+            "play"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These species are also a significant part of the multi-billion dollar sport and leisure industry through their use in playing surfaces such as golf courses.",
+    "Second, mental images of motor activity can facilitate the subsequent performance of highly complex and non-instinctual movements like those involved in figure skating or golf.",
+    "In addition, from his golf teacher he has learnt the necessity of embedding technique so that it becomes a natural habit.",
+    "These behaviours model the actions of consumers in a water-sharing network such as farmers or golf courses along a shared river.",
+    "The approach is validated using a case study on the design of a wooden golf-club head.",
+    "A case study on a wooden golf-club head design was used to illustrate the integrated approach we developed.",
+    "Relation of eye dominance with performance and subjective ratings in golf putting.",
+    "With similar enthusiasm and young spirit, he devoted time to play golf, grow cactuses, and to weave rugs."
+  ],
+  "list_see_also": [
+    "golfing",
+    "golfer",
+    "golf-club",
+    "golf club",
+    "golf course"
+  ],
+  "list_browse": [
+    "golden opportunity",
+    "goldfish",
+    "goldmine",
+    "goldsmith",
+    "golf",
+    "golf course",
+    "golf-club",
+    "golfer",
+    "golfing"
+  ]
+}

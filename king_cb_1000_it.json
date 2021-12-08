@@ -1,0 +1,90 @@
+{
+  "english": "king",
+  "phat_am": "kiŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vua",
+          "definition": "a male ruler of a nation, who inherits his position by right of birth",
+          "world_new": [
+            "male",
+            "ruler",
+            "nation",
+            "position",
+            "right",
+            "birth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He became king when his father died",
+              "world_new": [
+                "father"
+              ]
+            },
+            {
+              "ex_of_definition": "King Charles III."
+            }
+          ]
+        },
+        {
+          "mean_english": "lá bài K",
+          "definition": "the playing card with the picture of a king",
+          "world_new": [
+            "card",
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have two cards – the ten of spades and the king of diamonds.",
+              "world_new": [
+                "I",
+                "cards",
+                "spades",
+                "diamonds"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quân tướng; vua trong bàn cờ",
+          "definition": "the most important piece in chess.",
+          "world_new": [
+            "important",
+            "piece",
+            "chess"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The manuals specified how kings should ride that day, what they should wear, and that they should be bare-headed.",
+    "The good subject was a happy subject - grateful to accept the protection of the king's law, and the church's authority.",
+    "They too imparted female qualities to the kingship, whilst simultaneously affirming the king's manhood.",
+    "The adjoining king's antechamber, or part of it, seems the most likely place.",
+    "Afterwards he got vengeance by forays that brought with them cold care: he took the king's life.",
+    "Was the king's family also involved in crafting?",
+    "Moreover, the king's taxation and borrowing policies made money tight in all other sectors of the economy.",
+    "Their voice was the dominant one at the king's conference."
+  ],
+  "list_see_also": [
+    "kingdom",
+    "kingly",
+    "kingliness",
+    "kingfisher",
+    "king-size"
+  ],
+  "list_browse": [
+    "kindly",
+    "kindness",
+    "kindred",
+    "kinetic",
+    "king",
+    "king-size",
+    "kingdom",
+    "kingfisher",
+    "kingliness"
+  ]
+}

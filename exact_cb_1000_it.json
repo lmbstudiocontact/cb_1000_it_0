@@ -1,0 +1,117 @@
+{
+  "english": "exact",
+  "phat_am": "iɡˈzӕkt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chính xác",
+          "definition": "absolutely accurate or correct in every detail; the same in every detail; precise",
+          "world_new": [
+            "absolutely",
+            "accurate",
+            "correct",
+            "precise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What are the exact measurements of the room?",
+              "world_new": [
+                "room"
+              ]
+            },
+            {
+              "ex_of_definition": "For this recipe the quantities must be absolutely exact",
+              "world_new": [
+                "recipe",
+                "absolutely"
+              ]
+            },
+            {
+              "ex_of_definition": "an exact copy",
+              "world_new": [
+                "copy"
+              ]
+            },
+            {
+              "ex_of_definition": "What is the exact time?",
+              "world_new": [
+                "time"
+              ]
+            },
+            {
+              "ex_of_definition": "He walked in at that exact moment.",
+              "world_new": [
+                "moment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính xác",
+          "definition": "(of a person, his mind exact) capable of being accurate over small details",
+          "world_new": [
+            "person",
+            "mind",
+            "capable",
+            "accurate",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Accountants have to be very exact."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ép buộc",
+          "definition": "to force the payment of or giving of",
+          "world_new": [
+            "force",
+            "payment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We should exact fines from everyone who drops rubbish on the streets.",
+              "world_new": [
+                "rubbish"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Persuasive arguments were presented in favour of exacting the ultimate sanction in times of conflict.",
+    "My understanding of this matter—rather newly acquired—is that the penalty is exacted in respect of each tree.",
+    "All lifeboats are subject to exacting inspections and surveys conducted by the institution.",
+    "Can they say that anything has been exacted from them which has not been imposed upon the other citizens of this country?",
+    "Diabetes mellitus is a worldwide health problem affecting 1-2% of the population and exacting a high cost in terms of morbidity and mortality.",
+    "In practice, most econometrics does not meet this exacting standard.",
+    "The impetus, therefore, while creating (exacting!) motion does not at all \"exhaust\" itself, and so can be conserved in the absence of obstacles and impediments (like air resistance or friction).",
+    "If late third wave pressures have brought greater opportunities for contestation and participation in many cases throughout the region, in other countries they have exacted a deadly price."
+  ],
+  "list_see_also": [
+    "exacting",
+    "exactly",
+    "exactness"
+  ],
+  "list_browse": [
+    "ewe",
+    "ex",
+    "exacerbate",
+    "exacerbation",
+    "exact",
+    "exacting",
+    "exactly",
+    "exactness",
+    "exaggerate"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "english": "degree",
+  "phat_am": "diˈɡriː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mức độ",
+          "definition": "(an) amount or extent",
+          "world_new": [
+            "amount",
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is still a degree of uncertainty"
+            },
+            {
+              "ex_of_definition": "This job requires a high degree of skill.",
+              "world_new": [
+                "job",
+                "skill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "độ C",
+          "definition": "a unit of temperature",
+          "world_new": [
+            "unit",
+            "temperature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "20° (= 20 degrees) Celsius.",
+              "world_new": [
+                "Celsius"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "độ",
+          "definition": "a unit by which angles are measured",
+          "world_new": [
+            "unit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "at an angle of 90 (= 90 degrees).",
+              "world_new": [
+                "angle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng cấp",
+          "definition": "a title or certificate given by a university etc",
+          "world_new": [
+            "title",
+            "certificate",
+            "university"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a degree in chemistry.",
+              "world_new": [
+                "chemistry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Coherences between recording sites reflect the pattern and degree of connectivity between brain regions.",
+    "In order for cooperation to be rational, participants must have a certain degree of confidence in each other's competence to complete their assigned tasks.",
+    "The degree to which the bias or variance is reduced will in turn affect the rate by which the model's error will decrease.",
+    "There is considerable variation in the degrees of multipartism, party discipline, and the stability of party systems and government coalitions.",
+    "This method also suffers from a large degree of arbitrariness.",
+    "Several additional tools and features are needed in the director's toolkit, with some degree of adaptability to support the different roles we described earlier.",
+    "We would expect a relatively high degree of focusing, which will act as a brake on structural borrowing.",
+    "The degree of critical awareness that we believe intelligent international actors should acquire might appear to be a tall order."
+  ],
+  "list_see_also": [
+    "by degrees",
+    "to a degree"
+  ],
+  "list_browse": [
+    "defy",
+    "degenerate",
+    "degrade",
+    "degrading",
+    "degree",
+    "dehydrate",
+    "dehydration",
+    "deity",
+    "déjà vu"
+  ]
+}

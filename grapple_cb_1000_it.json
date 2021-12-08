@@ -1,0 +1,55 @@
+{
+  "english": "grapple",
+  "phat_am": "ˈɡrӕpl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "túm chặt lấy",
+          "definition": "to grasp and fight with",
+          "world_new": [
+            "grasp",
+            "fight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He grappled with the thief.",
+              "world_new": [
+                "thief"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật lộn với khó khăn",
+          "definition": "to (try to) deal with (a problem etc)",
+          "world_new": [
+            "deal",
+            "problem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He enjoys grappling with mathematical problems.",
+              "world_new": [
+                "mathematical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "graphic design",
+    "graphic designer",
+    "graphically",
+    "graphite",
+    "grapple",
+    "grasp",
+    "grasping",
+    "grass",
+    "grasshopper"
+  ]
+}

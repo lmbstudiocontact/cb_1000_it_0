@@ -1,0 +1,80 @@
+{
+  "english": "involve",
+  "phat_am": "inˈvolv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đòi hỏi; cần phải",
+          "definition": "to require; to bring as a result",
+          "world_new": [
+            "bring",
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His job involves a lot of travelling.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dính dáng",
+          "definition": "(often with in or with) to cause to take part in or to be mixed up in",
+          "world_new": [
+            "cause",
+            "part",
+            "mixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has always been involved in/with the theatre/theater",
+              "world_new": [
+                "involved"
+              ]
+            },
+            {
+              "ex_of_definition": "Don’t ask my advice – I don’t want to be/get involved.",
+              "world_new": [
+                "ask",
+                "my",
+                "advice",
+                "I",
+                "want",
+                "involved"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Controlling relationships vary from those that involve contingent regard and psychological control to those that are physically controlling and coercive.",
+    "Detailed preparation was necessary in the early stages of teaching a group in order to involve all pupils at all times.",
+    "A second paradigm focuses on the neural structures involved in either planning or control, respectively.",
+    "Furthermore, since they were involved in the wholesaling of rice and fertilizer, they could not necessarily be recognized as retailers.",
+    "But the current study shows that infant pointing in this context does not involve requesting valence information about an object.",
+    "For schizophrenia patients, treatment plans from the onset of illness should involve health promotion.",
+    "We now present as follows an approach to representing code involving general pattern matching.",
+    "Training should be multidisciplinary and multi-agency and involve older people and carers to develop a shared understanding of roles and needs."
+  ],
+  "list_see_also": [
+    "involved",
+    "involvement"
+  ],
+  "list_browse": [
+    "invoice",
+    "invoke",
+    "involuntarily",
+    "involuntary",
+    "involve",
+    "involved",
+    "involvement",
+    "invulnerable",
+    "inward"
+  ]
+}

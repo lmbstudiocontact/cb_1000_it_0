@@ -1,0 +1,140 @@
+{
+  "english": "conduct",
+  "phat_am": "kənˈdakt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hướng dẫn",
+          "definition": "to lead or guide",
+          "world_new": [
+            "lead",
+            "guide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were conducted down a narrow path by the guide",
+              "world_new": [
+                "narrow",
+                "path",
+                "guide"
+              ]
+            },
+            {
+              "ex_of_definition": "He conducted the tour.",
+              "world_new": [
+                "tour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dẫn (nhiệt, điện)",
+          "definition": "to carry or allow to flow",
+          "world_new": [
+            "carry",
+            "allow",
+            "flow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Most metals conduct electricity.",
+              "world_new": [
+                "electricity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ huy",
+          "definition": "to direct (an orchestra, choir etc).",
+          "world_new": [
+            "direct",
+            "orchestra",
+            "choir"
+          ]
+        },
+        {
+          "mean_english": "cư xử",
+          "definition": "to behave (oneself)",
+          "world_new": [
+            "behave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He conducted himself well at the reception.",
+              "world_new": [
+                "reception"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quản lý",
+          "definition": "to manage or carry on (a business).",
+          "world_new": [
+            "manage",
+            "carry"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "hạnh kiểm",
+          "definition": "behaviour/behavior",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His conduct at school was disgraceful.",
+              "world_new": [
+                "school",
+                "disgraceful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách chỉ đạo",
+          "definition": "the way in which something is managed, done etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the conduct of the affair.",
+              "world_new": [
+                "affair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Individual interviews were conducted with two participants to explore themes and issues raised during discussions which they did not attend.",
+    "Given the observed difference between men and women as regards to psychological distress, all analyses were conducted separately for men and women.",
+    "This is the same data that we used to conduct the factor analysis that we reported earlier.",
+    "Also, much of this research has been conducted by musicologists, many of whom specialise in past eras of music history.",
+    "Coding was conducted by two coders, blind to group membership, who were trained to 90% agreement on all categories.",
+    "Music listening activities were conducted using tonal music of different genre and styles.",
+    "All counselors were trained on completion of these measures and their ratings were conducted independently.",
+    "Without a better understanding of popular terminology and establishment of clear philosophical goals, it will be impossible to design and conduct relevant crop/livestock research."
+  ],
+  "list_see_also": [
+    "conducted tour",
+    "conduction",
+    "conductor"
+  ],
+  "list_browse": [
+    "condolence",
+    "condom",
+    "condominium",
+    "condone",
+    "conduct",
+    "conducted tour",
+    "conduction",
+    "conductor",
+    "cone"
+  ]
+}

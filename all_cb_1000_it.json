@@ -1,0 +1,129 @@
+{
+  "english": "all",
+  "phat_am": "oːl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "toàn bộ",
+          "definition": "the whole (of)",
+          "world_new": [
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ate all the cake",
+              "world_new": [
+                "cake"
+              ]
+            },
+            {
+              "ex_of_definition": "He has spent all of his money.",
+              "world_new": [
+                "spent",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tất cả",
+          "definition": "every one (of a group) when taken together",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were all present.",
+              "world_new": [
+                "present"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "toàn bộ",
+          "definition": "entirely",
+          "world_new": [
+            "entirely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sitting all alone in the corner",
+              "world_new": [
+                "sitting",
+                "alone",
+                "corner"
+              ]
+            },
+            {
+              "ex_of_definition": "She was dressed all in white.",
+              "world_new": [
+                "dressed",
+                "white"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tất cả",
+          "definition": "(with the) much; even",
+          "world_new": [
+            "even"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your low pay is all the more reason to find a new job",
+              "world_new": [
+                "low",
+                "pay",
+                "reason",
+                "find",
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "I feel all the better for a shower.",
+              "world_new": [
+                "I",
+                "feel",
+                "better",
+                "shower"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "all clear",
+    "all-out",
+    "all-purpose",
+    "all-round",
+    "all-rounder",
+    "all-terrain vehicle",
+    "all-time",
+    "all along",
+    "all at once",
+    "all in",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "alive",
+    "alive to",
+    "alkali",
+    "alkaline",
+    "all",
+    "all (the) year round/long etc",
+    "all alone",
+    "all along",
+    "all at once"
+  ]
+}

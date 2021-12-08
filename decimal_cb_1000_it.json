@@ -1,0 +1,68 @@
+{
+  "english": "decimal",
+  "phat_am": "ˈdesiməl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thập phân",
+          "definition": "numbered by tens",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the decimal system.",
+              "world_new": [
+                "system"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hệ thập phân",
+          "definition": "a decimal fraction",
+          "world_new": [
+            "fraction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Convert these fractions to decimals."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other people before me have had trouble with the decimals.",
+    "In the changeover, people would find the translation of pounds, shillings and pence into decimals and vice versa most difficult.",
+    "Talk about going into four places of decimals with impure chemicals!",
+    "The construction of decimals normal in the scale ten.",
+    "The number of worms is the mean value (decimals values rounded off) from three infected ducklings.",
+    "How much longer have we to wait until we can quote for export in decimals?",
+    "They said that it would inevitably involve three points of decimals.",
+    "Likewise, mega- is used to mean 220 (equal to 1,048,576 in decimal) rather than 106."
+  ],
+  "list_see_also": [
+    "decimalize",
+    "decimalization",
+    "decimal currency",
+    "decimal fraction",
+    "decimal point"
+  ],
+  "list_browse": [
+    "decibel",
+    "decide",
+    "deciduous",
+    "decilitre",
+    "decimal",
+    "decimal currency",
+    "decimal fraction",
+    "decimal point",
+    "decimalization"
+  ]
+}

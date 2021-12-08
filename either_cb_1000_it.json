@@ -1,0 +1,132 @@
+{
+  "english": "either",
+  "phat_am": "ˈaiθə",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "cái này hay cái kia trong hai cái",
+          "definition": "the one or the other of two",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You may borrow either of these books",
+              "world_new": [
+                "borrow"
+              ]
+            },
+            {
+              "ex_of_definition": "I offered him coffee or tea, but he didn’t want either.",
+              "world_new": [
+                "I",
+                "coffee",
+                "tea",
+                "want"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cái này hay cái kia trong hai cái",
+          "definition": "the one or the other (of two things, people etc)",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He can write with either hand.",
+              "world_new": [
+                "hand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái này hay cái kia trong hai cái",
+          "definition": "the one and the other (of two things, people etc); both",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were statues at either side of the gate.",
+              "world_new": [
+                "side",
+                "gate"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "dùng để nhấn mạnh",
+          "definition": "used for emphasis",
+          "world_new": [
+            "emphasis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you don’t go, I won’t either.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngoài ra",
+          "definition": "moreover; besides",
+          "world_new": [
+            "besides"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I used to sing, and I didn’t have a bad voice, either.",
+              "world_new": [
+                "I",
+                "sing",
+                "I",
+                "bad",
+                "voice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Particularly troubling to us is that no means is offered for determining at what time(s) a given parameter reflects either planning or control.",
+    "Charged particle acceleration by an intense wake-field excited in plasmas by either laser pulse or relativistic electron bunch.",
+    "Either the grapheme that is doubled is replaced by another grapheme, which then undergoes doubling, or the doubling feature itself is misordered.",
+    "Recall that a feature structure can be represented either as a graph or as a set of path value and path equivalence constraints.",
+    "Name training either taught some children that novel names should be mapped onto novel kinds or enhanced their commitment to this belief.",
+    "Essentially the fluid is supposed t o be either in irrotational motion or initially to have a uniform vorticity.",
+    "Oocytes surviving the injection were either cultured without further treatment or exposed to ethanol solution to induce parthenogenetic activation.",
+    "To gain market advantage, a manufacturer should outclass competitors in either quality or cost or quick response, or a combination of one or more."
+  ],
+  "list_see_also": [
+    "either … or",
+    "either way"
+  ],
+  "list_browse": [
+    "eighties",
+    "eightieth",
+    "eighty",
+    "eighty-year-old",
+    "either",
+    "either … or",
+    "either way",
+    "ejaculate",
+    "ejaculation"
+  ]
+}

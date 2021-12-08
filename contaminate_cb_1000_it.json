@@ -1,0 +1,52 @@
+{
+  "english": "contaminate",
+  "phat_am": "kənˈtӕmineit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm ô nhiễm",
+          "definition": "to make impure",
+          "world_new": [
+            "impure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The town’s water supply has been contaminated by chemicals from the factory.",
+              "world_new": [
+                "water",
+                "supply",
+                "factory"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It can easily be contaminated, and the intravenous bag of methadone is relatively unstable and needs to be changed frequently.",
+    "The working hypothesis was that primary sporadic cases resulted from exposure to foods originating from, or contaminated by foods produced at a single food premises.",
+    "Faecal egg counts from 2002 tracer lambs showed that all four paddocks were contaminated with nematode parasites.",
+    "The close association of most contaminated sites with research stations has both advantages and disadvantages with respect to the logistics of clean up.",
+    "For such a thought, like prayer, is easily contaminated by greed, obsessions, fears and self-destructive impulses.",
+    "In fact, through irrigation, the microorganisms present in the water can contaminate crops, then pass into the food chain and eventually infect humans.",
+    "Wetted soil was packed into columns with the top 75 mm of the soil contaminated with diesel fuel.",
+    "These activities could contaminate the water body and disturb the water column, microbial communities, and sediments."
+  ],
+  "list_see_also": [
+    "contamination"
+  ],
+  "list_browse": [
+    "contagion",
+    "contagious",
+    "contain",
+    "container",
+    "contaminate",
+    "contamination",
+    "contemplate",
+    "contemplation",
+    "contemplative"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "english": "consider",
+  "phat_am": "kənˈsidə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xem xét",
+          "definition": "to think about (carefully)",
+          "world_new": [
+            "think"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He considered their comments.",
+              "world_new": [
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cân nhắc",
+          "definition": "to feel inclined towards",
+          "world_new": [
+            "feel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m considering leaving this job.",
+              "world_new": [
+                "considering",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính đến",
+          "definition": "to take into account",
+          "world_new": [
+            "account"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must consider other people’s feelings."
+            }
+          ]
+        },
+        {
+          "mean_english": "coi như",
+          "definition": "to regard as being",
+          "world_new": [
+            "regard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They consider him unfit for that job.",
+              "world_new": [
+                "unfit",
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The solid lines are for the results considering the effects of the polycentric knee mechanism.",
+    "The first is by considering their relationship to the concept of the ideal, well-regulated city.",
+    "For this reason only obstacles within a given active region are considered.",
+    "To carry out this verification, we considered the time response of each system for the largest input data set we have used in each query.",
+    "Consider first the case when neither nor contains negation as failure.",
+    "The user wants to consider the system as a whole.",
+    "For a concrete example, consider the following scenario to illustrate our ideas.",
+    "In a sense, they can be considered as streams, but they are intrinsically non-ordered, and do not contain repeated elements."
+  ],
+  "list_see_also": [
+    "considerable",
+    "considerably"
+  ],
+  "list_browse": [
+    "conservatism",
+    "conservative",
+    "conservatory",
+    "conserve",
+    "consider",
+    "considerable",
+    "considerably",
+    "considerate",
+    "consideration"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "english": "arrange",
+  "phat_am": "əˈreindʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sắp xếp",
+          "definition": "to put in some sort of order",
+          "world_new": [
+            "sort",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Colin arranged the books in alphabetical order",
+              "world_new": [
+                "alphabetical",
+                "order"
+              ]
+            },
+            {
+              "ex_of_definition": "She arranged the flowers in a vase.",
+              "world_new": [
+                "vase"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sửa soạn",
+          "definition": "to plan or make decisions (about future events)",
+          "world_new": [
+            "plan",
+            "future"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have arranged a meeting for next week",
+              "world_new": [
+                "meeting",
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "I have arranged to meet him tomorrow.",
+              "world_new": [
+                "I",
+                "meet",
+                "tomorrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "soạn lại",
+          "definition": "to make (a piece of music) suitable for particular voices or instruments",
+          "world_new": [
+            "piece",
+            "suitable",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This piece of music has been arranged for choir and orchestra.",
+              "world_new": [
+                "piece",
+                "music",
+                "choir",
+                "orchestra"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first step on the road was admittance as an apprentice, arranged through the network.",
+    "In galeropygoids and first cassiduloids, phyllopodia became larger and arranged in arcs of three.",
+    "Her hair was arranged in a bun with her front hair parted in the middle.",
+    "In the fair copy each of the six instruments has its own staff, with the staves arranged in the usual score order.",
+    "The experiments were arranged as randomized blocks with four replicates, each containing 12 plants, with four plants per glycinebetaine treatment.",
+    "The garnet neoblasts are also arranged in strings that define the foliation and lineation along with titanite.",
+    "The planks are arranged horizontally and are rough textured and open jointed.",
+    "Clinobeds are arranged in clinothems of dominantly bioclastic, grain-supported deposits."
+  ],
+  "list_see_also": [
+    "arrangement",
+    "arrangements",
+    "arranged marriage"
+  ],
+  "list_browse": [
+    "aromatic",
+    "around",
+    "arousal",
+    "arouse",
+    "arrange",
+    "arranged marriage",
+    "arrangement",
+    "arrangements",
+    "array"
+  ]
+}

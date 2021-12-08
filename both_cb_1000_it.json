@@ -1,0 +1,50 @@
+{
+  "english": "both",
+  "phat_am": "bouθ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cả hai",
+          "definition": "the two; the one and the other",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We both went"
+            },
+            {
+              "ex_of_definition": "Both (the) men are dead",
+              "world_new": [
+                "dead"
+              ]
+            },
+            {
+              "ex_of_definition": "The men are both dead",
+              "world_new": [
+                "dead"
+              ]
+            },
+            {
+              "ex_of_definition": "Both are dead.",
+              "world_new": [
+                "dead"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "botanic gardens",
+    "botanical",
+    "botanist",
+    "botany",
+    "both",
+    "bother",
+    "bothersome",
+    "bottle",
+    "bottle bank"
+  ]
+}

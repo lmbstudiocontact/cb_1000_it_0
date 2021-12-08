@@ -1,0 +1,51 @@
+{
+  "english": "equate",
+  "phat_am": "iˈkweit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh đồng",
+          "definition": "to regard as the same in some way",
+          "world_new": [
+            "regard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He equates money with happiness.",
+              "world_new": [
+                "money",
+                "happiness"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As is too common among cognitive scientists, they equate mental representations with representations of external physical objects.",
+    "We equate financial services with an aggregate of interest-bearing monetary assets (deposits), and we assume that monetary assets are weakly separable from consumer goods.",
+    "This is done using an energy principle based on equating the viscous flow dissipation with the released surface energy.",
+    "He argues, however, that women's relegation to the private sphere cannot be equated with powerlessness.",
+    "Individual equity under this system is generally equated with actuarial fairness, and most evaluations of social security are based on this idea.",
+    "I am not here equating these terms with moral particularism and moral universalism, whose differences turn on whether all ethics is situation-specific.",
+    "For a long time, linguistic anthropologists have argued against equating a population that shares a linguistic code with the status of an ethnic unit.",
+    "The second objection against equating object-recognition abilities with (even simple) predication comes from the fact that the underlying cognitive processes are qualitatively different."
+  ],
+  "list_see_also": [
+    "equation"
+  ],
+  "list_browse": [
+    "equality",
+    "equalize",
+    "equally",
+    "equals sign",
+    "equate",
+    "equation",
+    "equator",
+    "equatorial",
+    "equestrian"
+  ]
+}

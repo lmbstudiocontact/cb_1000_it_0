@@ -1,0 +1,64 @@
+{
+  "english": "basic",
+  "phat_am": "ˈbeisik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cơ bản",
+          "definition": "of, or forming, the main part or foundation of something",
+          "world_new": [
+            "main",
+            "part",
+            "foundation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your basic theory is wrong.",
+              "world_new": [
+                "theory",
+                "wrong"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mức độ đơn giản nhất",
+          "definition": "restricted to a fundamental level, elementary",
+          "world_new": [
+            "restricted",
+            "fundamental",
+            "level",
+            "elementary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Frank has a basic knowledge of French.",
+              "world_new": [
+                "knowledge",
+                "French"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "basically",
+    "basics",
+    "get/go back to basics"
+  ],
+  "list_browse": [
+    "bash on/ahead (with)",
+    "bashful",
+    "bashfully",
+    "bashfulness",
+    "basic",
+    "basically",
+    "basics",
+    "basil",
+    "basin"
+  ]
+}

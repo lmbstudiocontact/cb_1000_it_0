@@ -1,0 +1,82 @@
+{
+  "english": "coast",
+  "phat_am": "kəust",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bờ biển",
+          "definition": "the side or border of land next to the sea",
+          "world_new": [
+            "side",
+            "border",
+            "land",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The coast was very rocky.",
+              "world_new": [
+                "rocky"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thả dốc",
+          "definition": "to travel downhill (in a vehicle, on a bicycle etc) without the use of any power such as the engine or pedalling",
+          "world_new": [
+            "travel",
+            "downhill",
+            "vehicle",
+            "bicycle",
+            "power",
+            "engine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He coasted down the hill on his bicycle.",
+              "world_new": [
+                "hill",
+                "bicycle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In contrast, west coast populations have a large number of different inversions at intermediate frequencies.",
+    "The mountains rise steeply from the eastern coast and the majority of the population and associated development are located on the western coastal plain.",
+    "It is situated atop a low but steep mountain ridge that rises above the relatively remote and sparsely populated nor theastern coast of the island.",
+    "Indeed, it is these east coast areas where relatively large numbers are employed in non-manual and non-agricultural occupations which generally have smaller families.",
+    "Some perturbations tend to 'break ' seaward by developing large transverse velocities away from the coast.",
+    "Figure 5 depicts the maximum wave amplitude around the coast of an elliptical island whose major axis is twice the minor axis.",
+    "All along the coast, in the small harbours, a lot of pleasure-boats a bit sophisticals are bobbing up and down beside the fishermen's boats.",
+    "Both linguists and archaeologists working on the coast seem content to interpret the general picture largely on the basis of their personal research."
+  ],
+  "list_see_also": [
+    "coastal",
+    "coaster",
+    "coastguard",
+    "coastline"
+  ],
+  "list_browse": [
+    "coarse",
+    "coarsely",
+    "coarsen",
+    "coarseness",
+    "coast",
+    "coastal",
+    "coaster",
+    "coastguard",
+    "coastline"
+  ]
+}

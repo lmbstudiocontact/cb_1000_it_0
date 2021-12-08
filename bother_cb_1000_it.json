@@ -1,0 +1,103 @@
+{
+  "english": "bother",
+  "phat_am": "ˈboðə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm phiền",
+          "definition": "to annoy or worry",
+          "world_new": [
+            "annoy",
+            "worry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The noise of the dogs barking bothered the old man.",
+              "world_new": [
+                "noise",
+                "old"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lo lắng",
+          "definition": "to take the trouble",
+          "world_new": [
+            "trouble"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t bother to wrap it – I’ll take it as it is.",
+              "world_new": [
+                "wrap"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điều phiền muộn",
+          "definition": "trouble, nuisance, or worry",
+          "world_new": [
+            "trouble",
+            "nuisance",
+            "worry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had a lot of bother trying to deal with the people at the tax office.",
+              "world_new": [
+                "I",
+                "trying",
+                "deal",
+                "people",
+                "tax",
+                "office"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều bực mình",
+          "definition": "something or someone that causes bother",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What a bother all this is!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When presenting his case, the author never bothers to give evidence.",
+    "Only a small number of researchers have bothered to ask the learners themselves what they think about these issues.",
+    "Not even his biographers have bothered to mention it.",
+    "They had too much 'rich loot ' to be bothered with trade.",
+    "The fact that an emperor bothered to discuss the problem of incorrect diagnosis and prescription of medications may hint at the scope of the problem.",
+    "Others moved regularly in and out from the neighboring counties, not even bothering to observe market days.",
+    "Since he also might not have, we should not be bothered by this result.",
+    "The money feels to him too much like a favor, bothering him more than the mortgage that doesn't put him under obligation to a sister-in-law."
+  ],
+  "list_see_also": [
+    "bothersome"
+  ],
+  "list_browse": [
+    "botanical",
+    "botanist",
+    "botany",
+    "both",
+    "bother",
+    "bothersome",
+    "bottle",
+    "bottle bank",
+    "bottle up"
+  ]
+}

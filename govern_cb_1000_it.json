@@ -1,0 +1,64 @@
+{
+  "english": "govern",
+  "phat_am": "ˈɡavən",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cai trị",
+          "definition": "to rule",
+          "world_new": [
+            "rule"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The queen governed (the country) wisely and well.",
+              "world_new": [
+                "queen",
+                "wisely"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chi phối",
+          "definition": "to influence",
+          "world_new": [
+            "influence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our policy is governed by three factors.",
+              "world_new": [
+                "policy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In surveying modern theories of nostalgia the author points out that most ' ' proceed from and are governed by notions of loss and amnesia.",
+    "The novel feature of that model was the use of an empirical switch law which governed the amount of wall slip.",
+    "A further concern was that design products should be governed by intellectual rigour and not merely be the outcome of a design consultancy.",
+    "However, the combinations of these units are governed by syntactical rules, which are the to-belearned components of the situation.",
+    "The value of zo is now governed by the effective roughness of a rippled bed.",
+    "The basic equations are given and then methods follow for the approximation of the governing equations and boundary conditions.",
+    "I n (3.7b) expressing the kinetic law governing the heat flux released by the exothermic reaction, we have only retained the flame temperature modification (#, $; 1).",
+    "Natural selection is a mechanism governing the course of evolution, not the cumulative results of evolution directly."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gotta",
+    "gouge",
+    "gourd",
+    "gourmet",
+    "govern",
+    "government",
+    "governmental",
+    "governor",
+    "governorship"
+  ]
+}

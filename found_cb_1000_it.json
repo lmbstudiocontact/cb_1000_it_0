@@ -1,0 +1,61 @@
+{
+  "english": "found",
+  "phat_am": "faund",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thành lập",
+          "definition": "to start or establish",
+          "world_new": [
+            "start",
+            "establish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The school was founded by the king.",
+              "world_new": [
+                "school",
+                "king"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "căn cứ vào; dựa trên",
+          "definition": "(with on/upon) to base on",
+          "world_new": [
+            "base"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The story was founded upon fact.",
+              "world_new": [
+                "story",
+                "fact"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "foundation",
+    "founder",
+    "founding",
+    "founding father"
+  ],
+  "list_browse": [
+    "foster child",
+    "foster parent (foster father/foster mother)",
+    "foul",
+    "foul play",
+    "found",
+    "foundation",
+    "founder",
+    "founding",
+    "founding father"
+  ]
+}

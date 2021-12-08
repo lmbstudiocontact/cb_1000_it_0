@@ -1,0 +1,94 @@
+{
+  "english": "happen",
+  "phat_am": "ˈhӕpən",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xảy ra",
+          "definition": "to take place or occur; to occur by chance",
+          "world_new": [
+            "place",
+            "occur",
+            "chance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What happened next?"
+            },
+            {
+              "ex_of_definition": "It just so happens / As it happens, I have the key in my pocket.",
+              "world_new": [
+                "I",
+                "key",
+                "my",
+                "pocket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái gì đã xảy ra với người/vật",
+          "definition": "(usually with to) to be done to (a person, thing etc)",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s late – something must have happened to her."
+            }
+          ]
+        },
+        {
+          "mean_english": "tình cờ",
+          "definition": "to do or be by chance",
+          "world_new": [
+            "chance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I happened to find him",
+              "world_new": [
+                "I",
+                "find"
+              ]
+            },
+            {
+              "ex_of_definition": "He happens to be my friend.",
+              "world_new": [
+                "my",
+                "friend"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "How much of this really happened is, as always, hard to say.",
+    "Workers will increasingly be faced with the choice of whether to retire at a time of their choosing or to wait and see what happens.",
+    "Because ageing is concerned with what happens in time, we are impressed with not only the multi-dimensional nature of time, but also with its complexity.",
+    "Liberalisation happened only very gradually, and with conscious trade-offs.",
+    "Years are not empty containers : important things happened in that time.",
+    "They didn't believe it was happening to their son.",
+    "In existing herding models, either a crisis happens or it does not.",
+    "What might be happening psychologically in these situations?"
+  ],
+  "list_see_also": [
+    "happening",
+    "happen on"
+  ],
+  "list_browse": [
+    "hankie",
+    "Hanukkah",
+    "haphazard",
+    "haphazardly",
+    "happen",
+    "happen on",
+    "happening",
+    "happily",
+    "happiness"
+  ]
+}

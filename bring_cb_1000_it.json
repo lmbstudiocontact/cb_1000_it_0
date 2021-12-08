@@ -1,0 +1,72 @@
+{
+  "english": "bring",
+  "phat_am": "briŋ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mang lại",
+          "definition": "to make (something or someone) come (to or towards a place)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll bring plenty of food with me",
+              "world_new": [
+                "food"
+              ]
+            },
+            {
+              "ex_of_definition": "Bring him to me!"
+            }
+          ]
+        },
+        {
+          "mean_english": "làm cho",
+          "definition": "to result in",
+          "world_new": [
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This medicine will bring you relief.",
+              "world_new": [
+                "medicine",
+                "relief"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The small percentages of no invagination and exogastrulation morphologies bring the percentages to 100%.",
+    "The greatest contribution of this volume lies in bringing together so many impor tant authors in one valuable reference work.",
+    "The several chapters on verb meanings are not collected together, which means that related themes are not brought together.",
+    "The large numbers of small parties have only rarely brought about a crisis of governability, however.",
+    "The editors are to be congratulated for having succeeded in bringing together what are ostensibly ten very different studies into a well-integrated, coherent whole.",
+    "This brings me to my second, more theoretical point.",
+    "There was no guarantee that virtue would bring honour : it would have to be its own reward.",
+    "The players effectively brought out the essentially lyrical nature of the piece."
+  ],
+  "list_see_also": [
+    "bring about",
+    "bring back",
+    "bring down",
+    "bring home to",
+    "bring off",
+    "bring round",
+    "bring up"
+  ],
+  "list_browse": [
+    "brilliant",
+    "brilliantly",
+    "brim",
+    "brine",
+    "bring",
+    "bring (something) out into the open",
+    "bring about",
+    "bring back",
+    "bring down"
+  ]
+}

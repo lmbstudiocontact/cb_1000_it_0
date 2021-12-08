@@ -1,0 +1,132 @@
+{
+  "english": "know",
+  "phat_am": "nəu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "biết",
+          "definition": "to be aware of or to have been informed about",
+          "world_new": [
+            "aware"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He thinks he knows everything"
+            },
+            {
+              "ex_of_definition": "I know he is at home because his car is in the drive",
+              "world_new": [
+                "I",
+                "home",
+                "car",
+                "drive"
+              ]
+            },
+            {
+              "ex_of_definition": "He knows all about it"
+            },
+            {
+              "ex_of_definition": "I know of no reason why you cannot go.",
+              "world_new": [
+                "I",
+                "reason"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc",
+          "definition": "to have learned and to remember",
+          "world_new": [
+            "learned",
+            "remember"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He knows a lot of poetry.",
+              "world_new": [
+                "poetry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có quen",
+          "definition": "to be aware of the identity of; to be friendly with",
+          "world_new": [
+            "aware",
+            "identity",
+            "friendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I know Mrs Taylor – she lives near me.",
+              "world_new": [
+                "I",
+                "Mrs"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhận ra",
+          "definition": "to (be able to) recognize or identify",
+          "world_new": [
+            "recognize",
+            "identify"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You would hardly know her now – she has become very thin",
+              "world_new": [
+                "hardly",
+                "become",
+                "thin"
+              ]
+            },
+            {
+              "ex_of_definition": "He knows a good car when he sees one.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This much, at least, is what every student of music is required to know.",
+    "These are bindings made before it is known that a solution exists.",
+    "But there are also unknown unknowns-the ones we don't know we don't know.",
+    "We do this because we do not know what else to do.",
+    "We do not know what that may imply in the future.",
+    "The players do not need to know anything about each other except the actual strategies chosen in each round.",
+    "But, it says, we do not know which ones (or to what extent).",
+    "To acquaint oneself is to find out, and to be acquainted with something is to know it."
+  ],
+  "list_see_also": [
+    "knowing",
+    "knowingly",
+    "know-all",
+    "know-how",
+    "in the know",
+    "know backwards",
+    "know better",
+    "know how to",
+    "know the ropes"
+  ],
+  "list_browse": [
+    "knock-kneed",
+    "knocker",
+    "knot",
+    "knotty",
+    "know",
+    "know backwards",
+    "know better",
+    "know how to",
+    "know one’s own mind"
+  ]
+}

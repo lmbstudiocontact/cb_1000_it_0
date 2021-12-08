@@ -1,0 +1,156 @@
+{
+  "english": "be",
+  "phat_am": "biː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đang",
+          "definition": "used with a present participle to form the progressive or continuous tenses",
+          "world_new": [
+            "present",
+            "participle",
+            "form",
+            "progressive",
+            "continuous"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m reading",
+              "world_new": [
+                "reading"
+              ]
+            },
+            {
+              "ex_of_definition": "I am being followed",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "What were you saying?."
+            }
+          ]
+        },
+        {
+          "mean_english": "định; sẽ",
+          "definition": "used with a present participle to form a type of future tense",
+          "world_new": [
+            "present",
+            "participle",
+            "form",
+            "type",
+            "future",
+            "tense"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going to London."
+            }
+          ]
+        },
+        {
+          "mean_english": "đã",
+          "definition": "used with a past participle to form the passive voice",
+          "world_new": [
+            "participle",
+            "form",
+            "passive",
+            "voice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was shot.",
+              "world_new": [
+                "shot"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sắp; phải",
+          "definition": "used with an infinitive to express several ideas, eg necessity When am I to leave? ), purpose The letter is to tell us he’s coming ), a possible future happening If he were to lose, I’d win etc.",
+          "world_new": [
+            "infinitive",
+            "express",
+            "necessity",
+            "purpose",
+            "possible",
+            "future",
+            "happening"
+          ]
+        },
+        {
+          "mean_english": "dùng để nói về ai đó",
+          "definition": "used in giving or asking for information about something or someone",
+          "world_new": [
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I am Mr Smith",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "Is he alive?",
+              "world_new": [
+                "alive"
+              ]
+            },
+            {
+              "ex_of_definition": "She wants to be an actress"
+            },
+            {
+              "ex_of_definition": "The money will be ours",
+              "world_new": [
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "They are being silly.",
+              "world_new": [
+                "silly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "abbreviation",
+      "list_definition": [
+        {
+          "mean_english": "cử nhân kỹ thuật",
+          "definition": "short for Bachelor of Engineering; a first degree in Engineering",
+          "world_new": [
+            "short",
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Colin Taylor BE."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "being",
+    "the be-all and end-all"
+  ],
+  "list_browse": [
+    "bayonet",
+    "bazaar",
+    "BBQ",
+    "BC",
+    "be",
+    "be (out) on strike",
+    "be a credit to (someone)",
+    "be a law unto oneself",
+    "be a tribute to"
+  ]
+}

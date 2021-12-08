@@ -1,0 +1,40 @@
+{
+  "english": "dove",
+  "phat_am": "dav",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bồ câu",
+          "definition": "a kind of pigeon",
+          "world_new": [
+            "kind",
+            "pigeon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dove is the symbol for peace.",
+              "world_new": [
+                "symbol",
+                "peace"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "doubtfulness",
+    "doubtless",
+    "dough",
+    "doughnut",
+    "dove",
+    "dowdy",
+    "down",
+    "down in the mouth",
+    "down on one’s luck"
+  ]
+}

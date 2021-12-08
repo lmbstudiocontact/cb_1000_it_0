@@ -1,0 +1,38 @@
+{
+  "english": "contamination",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ô nhiễm",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the contamination of the ocean mainly with man-made waste.",
+              "world_new": [
+                "ocean",
+                "mainly",
+                "man-made",
+                "waste"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "contagious",
+    "contain",
+    "container",
+    "contaminate",
+    "contamination",
+    "contemplate",
+    "contemplation",
+    "contemplative",
+    "contemplatively"
+  ]
+}

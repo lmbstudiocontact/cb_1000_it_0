@@ -1,0 +1,86 @@
+{
+  "english": "folk",
+  "phat_am": "fouk",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "người",
+          "definition": "(especially American folks) people",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The folk in this town are very friendly.",
+              "world_new": [
+                "town",
+                "friendly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dân tộc; dân gian",
+          "definition": "(of the traditions) of the common people of a country",
+          "world_new": [
+            "common",
+            "people",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "folk customs",
+              "world_new": [
+                "customs"
+              ]
+            },
+            {
+              "ex_of_definition": "folk dance",
+              "world_new": [
+                "dance"
+              ]
+            },
+            {
+              "ex_of_definition": "folk music.",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most of the children and the old folks are helping.",
+    "They do not build houses because the folks require houses; it is only incidental that houses are homes.",
+    "There is no doubt about the genuineness of this old folks' reunion party.",
+    "If it were so, we should deserve all the criticism which some old folks are so apt to make.",
+    "Surely we do not want old folks to be dependent on begging help from others, as many have to do?",
+    "I hope that they will not be as easily brainwashed as some folks are.",
+    "Then there is no chance of these folks getting that money which you promised them?",
+    "The great majority of old folks in receipt of pensions went unaided."
+  ],
+  "list_see_also": [
+    "folks",
+    "folklore"
+  ],
+  "list_browse": [
+    "folder",
+    "folding",
+    "foliage",
+    "folio",
+    "folk",
+    "folklore",
+    "folks",
+    "follow",
+    "follow in someone’s footsteps"
+  ]
+}

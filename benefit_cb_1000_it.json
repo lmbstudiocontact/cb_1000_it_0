@@ -1,0 +1,94 @@
+{
+  "english": "benefit",
+  "phat_am": "ˈbenəfit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lợi ích",
+          "definition": "something good to receive, an advantage",
+          "world_new": [
+            "receive",
+            "advantage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "At that time, I didn’t have the benefit of experience",
+              "world_new": [
+                "time",
+                "I",
+                "experience"
+              ]
+            },
+            {
+              "ex_of_definition": "the benefits of a healthy diet.",
+              "world_new": [
+                "healthy",
+                "diet"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "được lợi",
+          "definition": "(usually with fromor by) to gain advantage",
+          "world_new": [
+            "gain",
+            "advantage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He benefited from the advice.",
+              "world_new": [
+                "advice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm lợi cho",
+          "definition": "to do good to",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The long rest benefited her.",
+              "world_new": [
+                "long",
+                "rest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There was a significant additional benefit following training with a high fidelity birth training mannequin compared with traditional training mannequins.",
+    "It allows both systems to be developed in parallel, with benefits of scale for any subsequent commercialisation.",
+    "A challenge in responding to such requests is in determining the comparative benefits and risks of different stem cell transplant methods.",
+    "Psychological inquiry into human prejudice processes also benefits from adaptationist principles.",
+    "Cost utility analysis permits the cost of treatment to be considered according to the amount of benefit afforded to the patients.",
+    "A basic requirement in studies of the benefits of a psychological treatment is information on the conduct of the therapy itself.",
+    "However, relatively little benefit may be felt within the school because these roles are fulfilled in an extra-curricular context.",
+    "First we set out the benefits of such a system and evaluate its compatibility with psychological constraints."
+  ],
+  "list_see_also": [
+    "give (someone) the benefit of the doubt"
+  ],
+  "list_browse": [
+    "benediction",
+    "benefactor",
+    "beneficial",
+    "beneficiary",
+    "benefit",
+    "benevolence",
+    "benevolent",
+    "benevolently",
+    "benign"
+  ]
+}

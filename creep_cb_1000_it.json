@@ -1,0 +1,117 @@
+{
+  "english": "creep",
+  "phat_am": "kriːp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rón rén",
+          "definition": "to move slowly, quietly or secretly",
+          "world_new": [
+            "move",
+            "slowly",
+            "quietly",
+            "secretly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He crept into the bedroom.",
+              "world_new": [
+                "bedroom"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bò",
+          "definition": "to move on hands or knees or with the body close to the ground",
+          "world_new": [
+            "move",
+            "body",
+            "close",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cat crept towards the bird.",
+              "world_new": [
+                "cat",
+                "bird"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "leo (thực vật)",
+          "definition": "(of plants) to grow along the ground, up a wall etc",
+          "world_new": [
+            "grow",
+            "ground",
+            "wall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Flowering bougainvillea crept over the white walls of the villa.",
+              "world_new": [
+                "white",
+                "villa"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người luồn lọt",
+          "definition": "a disgusting person",
+          "world_new": [
+            "disgusting",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Leave her alone, you creep.",
+              "world_new": [
+                "alone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A strong interaction theory for the creeping motion of a sphere between plane parallel boundaries.",
+    "I apologize in advance if any inaccuracies or discrepancies have crept in during production.",
+    "Despite eschewing positivistic theories of urban growth and the paradigm of problem and response, the old historiography creeps into the collection.",
+    "Over a period of six months a greater sense of equity creeps in.",
+    "However, one more anomaly creeps into the entries in that several totally political biographies are included as well.",
+    "Under the assumption of creeping flow, the motion is studied as a function of surface tension and the ratio of the viscosities of the two fluids.",
+    "Variation among creeping bentgrass cultivars in recovery from epidemics of dollar spot.",
+    "Here creeps in embodiment, which has been hovering below the surface, unacknowledged."
+  ],
+  "list_see_also": [
+    "creeper",
+    "creepy",
+    "creepily",
+    "creepiness",
+    "creepy-crawly",
+    "creep up on",
+    "make someone’s flesh creep"
+  ],
+  "list_browse": [
+    "credulous",
+    "credulousness",
+    "creed",
+    "creek",
+    "creep",
+    "creep up on",
+    "creeper",
+    "creepily",
+    "creepiness"
+  ]
+}

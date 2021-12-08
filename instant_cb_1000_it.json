@@ -1,0 +1,119 @@
+{
+  "english": "instant",
+  "phat_am": "ˈinstənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ngay lập tức",
+          "definition": "immediate",
+          "world_new": [
+            "immediate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Anyone disobeying these rules will face instant dismissal",
+              "world_new": [
+                "face",
+                "dismissal"
+              ]
+            },
+            {
+              "ex_of_definition": "His latest play was an instant success.",
+              "world_new": [
+                "play",
+                "success"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ăn liền",
+          "definition": "(of food etc) able to be prepared etc almost immediately",
+          "world_new": [
+            "food",
+            "prepared",
+            "almost",
+            "immediately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "instant coffee/potato."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lúc",
+          "definition": "a point in time",
+          "world_new": [
+            "point",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He climbed into bed and at that instant the telephone rang",
+              "world_new": [
+                "bed",
+                "telephone"
+              ]
+            },
+            {
+              "ex_of_definition": "He came the instant (that) he heard the news.",
+              "world_new": [
+                "news"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một chốc lát",
+          "definition": "a moment or very short time",
+          "world_new": [
+            "moment",
+            "short",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It all happened in an instant"
+            },
+            {
+              "ex_of_definition": "I’ll be there in an instant."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The power minimisation is an important consideration, but instants with very high power demands may occur.",
+    "Instants come in many varieties, usually at $1.10, $2, $3, $4, $5 and $10 price levels.",
+    "Since these jumps occur at prescribed instants and have a prescribed length, we can think of the motion on the first action axis as a random walk.",
+    "In fact, for every distance of registration, the emission in these lines is recorded at different instants of time from the spatial points with different plasma densities and temperatures.",
+    "At any time instant, the relative positions, orientations and velocities can be used to compute the total stiffness and damping forces acting at each node.",
+    "Figure 1 shows the mass density at six instants.",
+    "How then can ' its ' identity fail to be new at each instant ?",
+    "Besides the optimal control is sensitive with respect to the switching instants and, consequently, to the parameter values."
+  ],
+  "list_see_also": [
+    "instantly",
+    "this instant"
+  ],
+  "list_browse": [
+    "install",
+    "installation",
+    "instalment",
+    "instance",
+    "instant",
+    "instantaneous",
+    "instantaneously",
+    "instantly",
+    "instead"
+  ]
+}

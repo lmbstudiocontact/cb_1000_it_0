@@ -1,0 +1,46 @@
+{
+  "english": "darts",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun singular",
+      "list_definition": [
+        {
+          "mean_english": "trò chơi ném phi tiêu",
+          "definition": "a game in which darts are thrown at a board (dart board) which has a series of numbers on it by which one scores",
+          "world_new": [
+            "game",
+            "board",
+            "series"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a game of darts",
+              "world_new": [
+                "game"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a darts match.",
+              "world_new": [
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "darkness",
+    "darkroom",
+    "darling",
+    "dart",
+    "darts",
+    "dash",
+    "dash off",
+    "dashboard",
+    "dashing"
+  ]
+}

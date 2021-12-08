@@ -1,0 +1,92 @@
+{
+  "english": "allow",
+  "phat_am": "əˈlau",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho phép",
+          "definition": "not to forbid or prevent",
+          "world_new": [
+            "forbid",
+            "prevent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He allowed me to enter",
+              "world_new": [
+                "enter"
+              ]
+            },
+            {
+              "ex_of_definition": "Smoking is not allowed inside the restaurant.",
+              "world_new": [
+                "restaurant"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính đến",
+          "definition": "(with for) to take into consideration when judging or deciding",
+          "world_new": [
+            "consideration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These figures allow for price rises.",
+              "world_new": [
+                "price"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho",
+          "definition": "to give, especially for a particular purpose or regularly",
+          "world_new": [
+            "particular",
+            "purpose",
+            "regularly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His father allows him too much money.",
+              "world_new": [
+                "father",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Scale models were the preferred method because they allowed not only a quantitative analysis, but also the qualitative aspects to be represented.",
+    "When planning a mapping, one must take this into account: an instrument is interesting only if it allows the discovery of unknown features.",
+    "It also happens through information exchange that allows the emergence of cognitive distinction between players.",
+    "These new parties often had origins in the civil society which was allowed to exist during the authoritarian era.",
+    "This tool alone or combined with others, allows quick detection of parasitized caterpillars in the field.",
+    "If there is a government policy that allows the decentralized economy to achieve the constrained planner's allocation, then it is the optimal policy choice.",
+    "Margins should be wider than usual to allow space for instructions to the typesetter.",
+    "Arguably, random dispersal would allow them to have more progeny than if they had not dispersed."
+  ],
+  "list_see_also": [
+    "allowable",
+    "allowance",
+    "make allowance for"
+  ],
+  "list_browse": [
+    "allocate",
+    "allocation",
+    "allot",
+    "allotment",
+    "allow",
+    "allowable",
+    "allowance",
+    "alloy",
+    "allude"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "again",
+  "phat_am": "əˈɡen",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "lại",
+          "definition": "once more or another time",
+          "world_new": [
+            "once",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He never saw her again",
+              "world_new": [
+                "saw"
+              ]
+            },
+            {
+              "ex_of_definition": "We keep having the same problem again and again",
+              "world_new": [
+                "keep",
+                "problem"
+              ]
+            },
+            {
+              "ex_of_definition": "Don’t do that again!"
+            },
+            {
+              "ex_of_definition": "He has been abroad, but he is home again now.",
+              "world_new": [
+                "abroad",
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Perhaps we organisms can cease to exist and then exist again.",
+    "Here again, however, the author avoids formulating general hypotheses.",
+    "Again the small-scale nature of this work makes it an easier research choice for community staff to undertake.",
+    "Here again, the people having the experience simply grasp concepts which are already part of their inventory of beliefs.",
+    "Again, age seems to be the determining factor.",
+    "In the second period of the game the ministers again choose a spending level in their current portfolio.",
+    "At the last step we again use self-duality of logical substitution.",
+    "Again he makes a distinction between types of truth, this time between intrasystematic truth and ontological truth."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "aftershave",
+    "aftertaste",
+    "afterthought",
+    "afterwards",
+    "again",
+    "against",
+    "agar-agar",
+    "age",
+    "age group"
+  ]
+}

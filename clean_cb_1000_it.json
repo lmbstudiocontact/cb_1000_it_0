@@ -1,0 +1,154 @@
+{
+  "english": "clean",
+  "phat_am": "kliːn",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sạch",
+          "definition": "free from dirt, smoke etc",
+          "world_new": [
+            "free",
+            "dirt",
+            "smoke"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clean window",
+              "world_new": [
+                "window"
+              ]
+            },
+            {
+              "ex_of_definition": "a clean dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gọn gàng",
+          "definition": "neat and tidy in one’s habits",
+          "world_new": [
+            "neat",
+            "tidy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cats are very clean animals."
+            }
+          ]
+        },
+        {
+          "mean_english": "chưa dùng đến",
+          "definition": "unused",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clean sheet of paper.",
+              "world_new": [
+                "sheet",
+                "paper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong sáng",
+          "definition": "free from evil or indecency",
+          "world_new": [
+            "free",
+            "evil",
+            "indecency"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Try to keep your language clean!",
+              "world_new": [
+                "keep",
+                "your",
+                "language"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính xác",
+          "definition": "neat and even",
+          "world_new": [
+            "neat",
+            "even"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clean cut.",
+              "world_new": [
+                "cut"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hoàn toàn",
+          "definition": "completely",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He got clean away."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm sạch",
+          "definition": "to (cause to) become free from dirt etc",
+          "world_new": [
+            "become",
+            "free",
+            "dirt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The windows need cleaning."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cleaner",
+    "cleanly",
+    "cleanliness",
+    "clean-cut",
+    "clean out",
+    "clean up",
+    "a clean bill of health",
+    "a clean slate",
+    "come clean",
+    "make a clean sweep"
+  ],
+  "list_browse": [
+    "claustrophobia",
+    "claustrophobic",
+    "claw",
+    "clay",
+    "clean",
+    "clean out",
+    "clean up",
+    "clean-cut",
+    "cleaner"
+  ]
+}

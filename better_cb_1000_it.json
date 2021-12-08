@@ -1,0 +1,132 @@
+{
+  "english": "better",
+  "phat_am": "ˈbetə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ốt hơn",
+          "definition": "good to a greater extent",
+          "world_new": [
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His new car is better than his old one.",
+              "world_new": [
+                "car",
+                "old"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoẻ hơn",
+          "definition": "stronger in health; recovered (from an illness)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I feel better today",
+              "world_new": [
+                "I",
+                "feel"
+              ]
+            },
+            {
+              "ex_of_definition": "She’s better now."
+            }
+          ]
+        },
+        {
+          "mean_english": "thích hợp hơn",
+          "definition": "preferable",
+          "world_new": [
+            "preferable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Better to do it now than later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "tốt hơn",
+          "definition": "well to a greater extent",
+          "world_new": [
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sings better now than he did before."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "vật/ người tốt hơn",
+          "definition": "someone or something which is good to a greater extent than the other (of two people or things)",
+          "world_new": [
+            "extent",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s the better of the two at golf.",
+              "world_new": [
+                "golf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cải thiện",
+          "definition": "to improve (on)",
+          "world_new": [
+            "improve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s bettered all previous records",
+              "world_new": [
+                "previous"
+              ]
+            },
+            {
+              "ex_of_definition": "She has bettered her prospects of being promoted."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "better off",
+    "the better part of",
+    "get the better of"
+  ],
+  "list_browse": [
+    "betrayer",
+    "betroth",
+    "betrothal",
+    "betrothed",
+    "better",
+    "better off",
+    "betting shop",
+    "between",
+    "between you and me / between ourselves"
+  ]
+}

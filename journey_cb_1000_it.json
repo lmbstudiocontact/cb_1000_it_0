@@ -1,0 +1,76 @@
+{
+  "english": "journey",
+  "phat_am": "ˈdʒəːni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quãng đường",
+          "definition": "a distance travelled/traveled, especially over land; an act of travelling/traveling",
+          "world_new": [
+            "distance",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "By train, it is a two-hour journey from here to the coast",
+              "world_new": [
+                "train",
+                "coast"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m going on a long journey.",
+              "world_new": [
+                "long"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi",
+          "definition": "to travel",
+          "world_new": [
+            "travel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They journeyed south towards Singapore.",
+              "world_new": [
+                "south"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The marks and records of such journeys - real and virtual - are to be found in the art, architecture, music and literature, associated with pilgrimage.",
+    "The variations in the starting points of their journeys and subsequent progression illustrate different value standpoints between care deliverers and recipients.",
+    "While some of these narratives legitimise male journeys as heroic quest, potential female ' ' escapers ' ' figure in them as ' ' imposters ' ' or passive ' ' victims of accidents.",
+    "Half a million return journeys were made from the city to the province and beyond.",
+    "Night after night they have come, often long weary journeys, with un-agging zeal and unfailing regularity.",
+    "However, none of these areas reached the level of 10% of the total number of one-way journeys.",
+    "On these journeys and many others his companionship made duty into pleasure and expressed a friendship that was both deep and enduring.",
+    "A destination restaurant, if successful, will contribute to co2 emissions through travel as customers may make separate journeys to dine in the establishment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "journal",
+    "journalism",
+    "journalist",
+    "journalistic",
+    "journey",
+    "jovial",
+    "joviality",
+    "jovially",
+    "jowl"
+  ]
+}

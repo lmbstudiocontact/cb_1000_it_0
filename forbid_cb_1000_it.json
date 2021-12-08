@@ -1,0 +1,48 @@
+{
+  "english": "forbid",
+  "phat_am": "fəˈbid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "không cho phép; cấm",
+          "definition": "to tell (someone) not to do something",
+          "world_new": [
+            "tell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She forbade him to go."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Private companies and individuals were forbidden to do so; they had no positive property rights in telecommunications.",
+    "In addition, the law forbids that benefits are granted with the purpose of inciting switching.",
+    "He rules that in those diseases accompanied by fever food is either to be given or to be forbidden.",
+    "Is it constitutionally optional, or is it constitutionally forbidden?",
+    "On the other hand, the velocitometric limitations of the probe forbade thorough functional examination.",
+    "The monarch promptly issued a decree forbidding the forgery of census records.",
+    "In many countries, land acquisition possibilities are restrained by traditional law, effectively forbidding outsiders to obtain land, or by governments preventing foreigners to acquire land.",
+    "Barred from university and pulpit, they were also forbidden to write in the traditional genres of theology, the treatise and the sermon."
+  ],
+  "list_see_also": [
+    "forbidden",
+    "forbidding"
+  ],
+  "list_browse": [
+    "for the time being",
+    "forage",
+    "forbearance",
+    "forbearing",
+    "forbid",
+    "forbidden",
+    "forbidding",
+    "force",
+    "force someone’s hand"
+  ]
+}

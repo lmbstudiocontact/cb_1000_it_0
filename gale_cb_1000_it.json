@@ -1,0 +1,48 @@
+{
+  "english": "gale",
+  "phat_am": "ɡeil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơn gió mạnh",
+          "definition": "a strong wind",
+          "world_new": [
+            "strong",
+            "wind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many trees were blown down in the gale."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are not allowed to undertake the essential first-aid repair works in connection with damage caused by floods or gales.",
+    "The recent severe and prolonged gales caused very considerable damage to telephone plant over a wide area.",
+    "Suddenly a gale of wind blows up and the kite flies to the sky.",
+    "There was no snow, but there were gales, rain and fierce wind.",
+    "There have been more than the average number of severe gales this winter.",
+    "Given fair weather and no gales in the late summer, the apple and pear crops will be outstandingly good.",
+    "In a storm one night the lights went out and when the gale subsided the ship had vanished.",
+    "Surely such things as gales of wind and fogs occur."
+  ],
+  "list_see_also": [
+    "gale force"
+  ],
+  "list_browse": [
+    "gain on",
+    "gait",
+    "gala",
+    "galaxy",
+    "gale",
+    "gale force",
+    "gall",
+    "gall bladder",
+    "gallant"
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "english": "have",
+  "phat_am": "hӕv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dùng với quá khứ phân từ để tạo thành thời hoàn thành",
+          "definition": "used with past participle of other verbs to show that an action is in the indefinite past and has been completed",
+          "world_new": [
+            "action",
+            "indefinite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve bought a new dictionary",
+              "world_new": [
+                "dictionary"
+              ]
+            },
+            {
+              "ex_of_definition": "Has he gone yet?.",
+              "world_new": [
+                "yet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sở hữu hoặc có cái gì",
+          "definition": "(also have got) to hold or possess (something which belongs to oneself or to someone else)",
+          "world_new": [
+            "hold",
+            "possess"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have a book of yours at home",
+              "world_new": [
+                "I",
+                "book",
+                "home"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s got your book",
+              "world_new": [
+                "your",
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t have any books by Sir Walter Scott.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có",
+          "definition": "(also have got) to possess something as part of oneself or in some way connected with oneself",
+          "world_new": [
+            "possess",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has blue eyes",
+              "world_new": [
+                "blue"
+              ]
+            },
+            {
+              "ex_of_definition": "Our house has six rooms",
+              "world_new": [
+                "house",
+                "rooms"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve got a pain in my stomach.",
+              "world_new": [
+                "pain",
+                "my",
+                "stomach"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhận lại",
+          "definition": "(sometimes with back) to receive or get",
+          "world_new": [
+            "receive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you had any news of your brother?",
+              "world_new": [
+                "news",
+                "your",
+                "brother"
+              ]
+            },
+            {
+              "ex_of_definition": "Thank you for lending me the book – you can have it back next week.",
+              "world_new": [
+                "book",
+                "week"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sản sinh",
+          "definition": "to produce",
+          "world_new": [
+            "produce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He does have some good ideas"
+            },
+            {
+              "ex_of_definition": "She has had a baby.",
+              "world_new": [
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sai khiến; nhờ",
+          "definition": "to cause to be done",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m having a tooth (taken) out",
+              "world_new": [
+                "tooth"
+              ]
+            },
+            {
+              "ex_of_definition": "Have Turner come and see me.",
+              "world_new": [
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hưởng thụ",
+          "definition": "to enjoy or suffer",
+          "world_new": [
+            "enjoy",
+            "suffer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had a lovely holiday.",
+              "world_new": [
+                "lovely",
+                "holiday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm; ăn; uống",
+          "definition": "to do or take",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll have a drink",
+              "world_new": [
+                "drink"
+              ]
+            },
+            {
+              "ex_of_definition": "Let me have a try.",
+              "world_new": [
+                "try"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho phép",
+          "definition": "to allow",
+          "world_new": [
+            "allow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I will not have you wearing clothes like that!",
+              "world_new": [
+                "I",
+                "wearing",
+                "clothes"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có ai làm việc trong nhà của mình",
+          "definition": "(with back, in, round etc) to ask to one’s house as a guest or to do a job",
+          "world_new": [
+            "ask",
+            "house",
+            "guest",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re having friends round for dinner",
+              "world_new": [
+                "dinner"
+              ]
+            },
+            {
+              "ex_of_definition": "We’re having someone in to paint this room.",
+              "world_new": [
+                "paint",
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho là; nhận thấy",
+          "definition": "to think or feel",
+          "world_new": [
+            "think",
+            "feel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have some doubts about this project.",
+              "world_new": [
+                "I",
+                "project"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lừa gạt",
+          "definition": "to trick",
+          "world_new": [
+            "trick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ve been had!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "has-been",
+    "have done with",
+    "have had it",
+    "have it in oneself etc",
+    "have it out",
+    "have on",
+    "have to",
+    "have to do with (a person or thing)",
+    "have up",
+    "have what it takes",
+    ""
+  ],
+  "list_browse": [
+    "haulier",
+    "haunch",
+    "haunt",
+    "haunted",
+    "have",
+    "have (half) a mind to",
+    "have (someone) on a string",
+    "have (something",
+    "have (something) at one’s fingertips"
+  ]
+}

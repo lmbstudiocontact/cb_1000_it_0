@@ -1,0 +1,80 @@
+{
+  "english": "belong",
+  "phat_am": "biˈloŋ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thuộc quyền sở hữu",
+          "definition": "(with to) to be the property of",
+          "world_new": [
+            "property"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This book belongs to me.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "là hội viên của",
+          "definition": "(with to) to be a native, member etc of",
+          "world_new": [
+            "native",
+            "member"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I belong to the sailing club.",
+              "world_new": [
+                "I",
+                "sailing",
+                "club"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có liên quan với",
+          "definition": "(with with) to go together with",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This shoe belongs with that one.",
+              "world_new": [
+                "shoe"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each work, as they see it, belongs to a collective discourse and cannot be understood in isolation.",
+    "Subsumption into larger and larger bodies undermines the sense of \"belonging\" that is a key component of identity.",
+    "As the mekake, however, she belonged to her birth family under the authority of her brother.",
+    "A further 30% were described as explosive, sensitive or belonging to religious minority groups.",
+    "The sense of belonging which pervades everyday language may be defined in several ways; traditional accounts focus on three regional, social, and occupational.",
+    "A boot is also something that belongs on a foot, of course, and it is, to boot, a way to boot-up computers.",
+    "The mediumsized species belonging to the cecropiavorus group range from 1.4 to 2.3 mm (rarely longer than 2.0 mm).",
+    "In two cases the negative findings belonged to existing technologies, serving as a way of \"cleaning up\" the existing package."
+  ],
+  "list_see_also": [
+    "belongings"
+  ],
+  "list_browse": [
+    "belly dance",
+    "belly laugh",
+    "bellyache",
+    "bellyflop",
+    "belong",
+    "belongings",
+    "beloved",
+    "below",
+    "below par / not up to par"
+  ]
+}

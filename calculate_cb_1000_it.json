@@ -1,0 +1,54 @@
+{
+  "english": "calculate",
+  "phat_am": "ˈkӕlkjuleit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tính toán",
+          "definition": "to count or estimate, using numbers",
+          "world_new": [
+            "count",
+            "estimate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Calculate the number of days in a century.",
+              "world_new": [
+                "number",
+                "century"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After determining the parameters describing the susceptibility to lodging, their correlation with the physical properties of varieties was straightforward to calculate.",
+    "Efforts to calculate the level of price support for rice required the government to elicit cost of production data from the agricultural associations.",
+    "From the data on number of flowers visited and the number of open flowers we calculated the number of visits per flower per hour.",
+    "Reliability between reviewers (regarding the decision to include or exclude an article) was calculated using kappa statistics.",
+    "This effect is analysed for the two-sphere problem, and the sphere trajectories calculated.",
+    "Figure 2 shows the population of the excited levels calculated without the radiation trapping.",
+    "The egg output per worm pair was then calculated.",
+    "Since the palms were planted in equilateral triangles, canopy closure could be calculated from the planting density and approximate crown radius."
+  ],
+  "list_see_also": [
+    "calculable",
+    "calculation",
+    "calculator"
+  ],
+  "list_browse": [
+    "calamity",
+    "calcite",
+    "calcium",
+    "calculable",
+    "calculate",
+    "calculation",
+    "calculator",
+    "calendar",
+    "calf"
+  ]
+}

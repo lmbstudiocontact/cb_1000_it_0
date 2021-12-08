@@ -1,0 +1,70 @@
+{
+  "english": "each",
+  "phat_am": "iːtʃ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mỗi",
+          "definition": "every (thing, person each) of two or more, considered separately",
+          "world_new": [
+            "person",
+            "separately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Each house in this street has its own garage.",
+              "world_new": [
+                "house",
+                "street",
+                "its",
+                "garage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "mỗi thành viên cá nhân",
+          "definition": "every single one, of two or more",
+          "world_new": [
+            "single"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They each have 50 cents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "mỗi cái riêng rẽ",
+          "definition": "to or for each one; apiece; I gave them an apple each."
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "each other"
+  ],
+  "list_browse": [
+    "dyspepsia",
+    "E",
+    "e-commerce",
+    "e-mail",
+    "each",
+    "each other",
+    "eager",
+    "eagerly",
+    "eagerness"
+  ]
+}

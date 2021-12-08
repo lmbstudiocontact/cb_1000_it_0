@@ -1,0 +1,54 @@
+{
+  "english": "glad",
+  "phat_am": "ɡlӕd",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hài lòng",
+          "definition": "pleased or happy",
+          "world_new": [
+            "pleased",
+            "happy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m very glad that you are here"
+            },
+            {
+              "ex_of_definition": "the glad smiles of the children."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We are glad to say that though terribly severe while it lasted, its duration was mercifully short.",
+    "We would be glad to see much more evidence from different environments and different types of finegrained material.",
+    "I'm particularly glad to see the letters section has returned.",
+    "He is glad to use the opportunity to express his gratitude to this institution.",
+    "I would be glad if you or your readers would help me understand something that has been happening lately in this subject.",
+    "I'm very glad it continues in such good hands.",
+    "It gives him the courage to act, and so he leaps and is glad.",
+    "Likewise, he has no legal or aesthetic reason to be glad at it."
+  ],
+  "list_see_also": [
+    "gladden",
+    "gladly",
+    "gladness",
+    "glad rags"
+  ],
+  "list_browse": [
+    "glacé",
+    "glacial",
+    "glaciated",
+    "glacier",
+    "glad",
+    "glad rags",
+    "gladden",
+    "gladiator",
+    "gladly"
+  ]
+}

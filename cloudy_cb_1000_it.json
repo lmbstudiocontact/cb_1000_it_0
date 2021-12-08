@@ -1,0 +1,60 @@
+{
+  "english": "cloudy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có mây",
+          "definition": "full of, having, or covered with clouds",
+          "world_new": [
+            "full"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is a bit cloudy today.",
+              "world_new": [
+                "bit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẩn đục",
+          "definition": "not clear",
+          "world_new": [
+            "clear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cloudy photograph/memory."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I note what was said about \"cloudy\" glass, which is of some importance.",
+    "They are not to be disposed of by cloudy generalisations or by pejorative epithets.",
+    "The lateral band is composed of round dots, cloudy suffusion, and dark patches occupying irregular depressions in the integument.",
+    "Egg development was monitored twice daily and the incubation solution was replaced as it became cloudy.",
+    "On cloudy days, values were typically 2.0 mm s71.",
+    "Would it not be a good idea if we had a short debate, to clarify this cloudy matter?",
+    "Winter begins dry and rather sunny but becomes progressively wetter and cloudier.",
+    "The climate is cold, cloudy, and windy, with frequent gales."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cloud",
+    "cloudberry",
+    "cloudburst",
+    "cloudless",
+    "cloudy",
+    "clout",
+    "clove",
+    "cloven hoof",
+    "clover"
+  ]
+}

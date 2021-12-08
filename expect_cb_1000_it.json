@@ -1,0 +1,130 @@
+{
+  "english": "expect",
+  "phat_am": "ikˈspekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mong chờ",
+          "definition": "to think of as likely to happen or come",
+          "world_new": [
+            "think",
+            "likely",
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m expecting a letter today",
+              "world_new": [
+                "letter"
+              ]
+            },
+            {
+              "ex_of_definition": "We expect her on tomorrow’s train.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hy vọng",
+          "definition": "to think or believe (that something will happen)",
+          "world_new": [
+            "think",
+            "believe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He expects to be home tomorrow",
+              "world_new": [
+                "home",
+                "tomorrow"
+              ]
+            },
+            {
+              "ex_of_definition": "I expect that he will go",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Will she go too?’ ‘I expect so’ / ‘I don’t expect so’ / ‘I expect not.’"
+            }
+          ]
+        },
+        {
+          "mean_english": "đòi hỏi",
+          "definition": "to require",
+          "world_new": [
+            "require"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They expect high wages for their extremely skilled work",
+              "world_new": [
+                "their",
+                "extremely",
+                "skilled",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "You are expected to tidy your own room.",
+              "world_new": [
+                "tidy",
+                "your",
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho rằng",
+          "definition": "to suppose or assume",
+          "world_new": [
+            "suppose",
+            "assume"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I expect (that) you’re tired.",
+              "world_new": [
+                "I",
+                "tired"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If the nasal vowel was represented as monosegmental, one would expect it to be followed most often by the palatal approximant.",
+    "To the extent that conversations are implicitly expected or planned to co-occur with dinners, coffee breaks, or other scheduled activities, they are also temporally constrained.",
+    "This is as might be expected physically, presumably foretelling the onset of a higher mode as predicted by the airfoil model.",
+    "Clearly, for values of around 1, this cannot be expected because past inflation has almost no predictive power.",
+    "Shareholders expect returns on investments in pharmaceutical and biotechnologic companies.",
+    "We expect returns from agriculture to be greater and fisheries returns to be less under the alternate management plans as compared with the base model.",
+    "Thereby, a continuous supply of urea and amino acids to an open reaction system would be expected to overcome this limitation.",
+    "The unsatisfactory housing of these older people can be expected to have consequences for their physical and psychological well-being."
+  ],
+  "list_see_also": [
+    "expectancy",
+    "expectant",
+    "expectantly",
+    "expectation"
+  ],
+  "list_browse": [
+    "expansive",
+    "expansively",
+    "expansiveness",
+    "expatriate",
+    "expect",
+    "expectancy",
+    "expectant",
+    "expectantly",
+    "expectation"
+  ]
+}

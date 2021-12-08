@@ -1,0 +1,109 @@
+{
+  "english": "hundred",
+  "phat_am": "ˈhandrəd",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "trăm",
+          "definition": "(plural hundred) the number 100",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Ten times ten is a hundred",
+              "world_new": [
+                "times"
+              ]
+            },
+            {
+              "ex_of_definition": "more than one/a hundred"
+            },
+            {
+              "ex_of_definition": "There must be at least six hundred of them here."
+            }
+          ]
+        },
+        {
+          "mean_english": "số một trăm",
+          "definition": "the figure 100.",
+          "world_new": [
+            "figure"
+          ]
+        },
+        {
+          "mean_english": "tuổi một trăm",
+          "definition": "the age of 100",
+          "world_new": [
+            "age"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s over a hundred"
+            },
+            {
+              "ex_of_definition": "a man of a hundred."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàng trăm",
+          "definition": "(plural hundred) a hundred pounds or dollars",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I lost several hundred at the casino last night.",
+              "world_new": [
+                "I",
+                "lost",
+                "casino",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "thuộc số một trăm",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hundred-dollar bill.",
+              "world_new": [
+                "bill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "hundred-",
+    "hundredfold",
+    "hundredth",
+    "hundreds of",
+    "hundredweight"
+  ],
+  "list_browse": [
+    "hunch",
+    "hunchback",
+    "hunchbacked",
+    "hunched up",
+    "hundred",
+    "hundredfold",
+    "hundreds of",
+    "hundredth",
+    "hundredweight"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "going",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ra đi",
+          "definition": "an act of leaving, moving away etc",
+          "world_new": [
+            "act",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the comings and goings of the people in the street.",
+              "world_new": [
+                "people",
+                "street"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc đi lại",
+          "definition": "the conditions under which something is done",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Walking was heavy going because of all the mud.",
+              "world_new": [
+                "heavy",
+                "mud"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thành công",
+          "definition": "successful",
+          "world_new": [
+            "successful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That shop is still a going concern.",
+              "world_new": [
+                "shop",
+                "concern"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đang hoạt động",
+          "definition": "in existence at present",
+          "world_new": [
+            "existence",
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the going rate for proofreading manuscripts?",
+              "world_new": [
+                "rate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "godown",
+    "godsend",
+    "goggle",
+    "goggles",
+    "going",
+    "going-over",
+    "goings-on",
+    "goitre",
+    "gold"
+  ]
+}

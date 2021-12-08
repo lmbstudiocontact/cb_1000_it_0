@@ -1,0 +1,40 @@
+{
+  "english": "broke",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khánh kiệt",
+          "definition": "completely without money",
+          "world_new": [
+            "completely",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m broke till pay day.",
+              "world_new": [
+                "pay",
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "brocade",
+    "broccoli",
+    "brochure",
+    "broil",
+    "broke",
+    "broken",
+    "broken-hearted",
+    "broker",
+    "brolly"
+  ]
+}

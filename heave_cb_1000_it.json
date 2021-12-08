@@ -1,0 +1,123 @@
+{
+  "english": "heave",
+  "phat_am": "hiːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhấc lên",
+          "definition": "to (try to) lift or to pull, with great effort",
+          "world_new": [
+            "lift",
+            "pull",
+            "great",
+            "effort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They heaved with all their strength, but could not move the rock",
+              "world_new": [
+                "their",
+                "strength",
+                "move",
+                "rock"
+              ]
+            },
+            {
+              "ex_of_definition": "They heaved the wardrobe up into the lorry.",
+              "world_new": [
+                "wardrobe",
+                "lorry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ném",
+          "definition": "to throw (something heavy)",
+          "world_new": [
+            "throw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Someone heaved a stone through my window.",
+              "world_new": [
+                "stone",
+                "my",
+                "window"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm nhấp nhô",
+          "definition": "to rise, or rise and fall again several times",
+          "world_new": [
+            "rise",
+            "rise",
+            "fall",
+            "times"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The earthquake made the ground heave.",
+              "world_new": [
+                "earthquake",
+                "ground"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nhấp nhô; sự phập phồng",
+          "definition": "the act of heaving",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave one heave and the rock moved",
+              "world_new": [
+                "rock"
+              ]
+            },
+            {
+              "ex_of_definition": "the heave of the waves."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When that agreement was reached, everybody heaved a sigh of relief and hoped that at last this terrible sugar problem had been solved.",
+    "The countries hove had to be rebuilt.",
+    "Six months later he was heaved out, on other grounds certainly, but it was not an exhibition of loyalty.",
+    "Not being able to effect repairs, the vessel hove to, whilst the propeller was secured.",
+    "Floors with cracks at the centre and junction with walls; heaving and waviness; doming; jamming of doors; door frames disturbed.",
+    "Whatever the actual sum, when the decision was announced the parents of children in independent schools heaved a sigh of relief, but that was not for long.",
+    "In theory, the countries of the third world, with their forests heaving with species, could patent on the same basis.",
+    "A gigantic bubble of carbon dioxide was forming deep in the sand, heaving upward in an enormous blow with a dust whirlpool at its center."
+  ],
+  "list_see_also": [
+    "heave a sigh",
+    "heave to"
+  ],
+  "list_browse": [
+    "heathen",
+    "heather",
+    "heating",
+    "heatwave",
+    "heave",
+    "heave a sigh",
+    "heave to",
+    "heaven",
+    "heaven knows"
+  ]
+}

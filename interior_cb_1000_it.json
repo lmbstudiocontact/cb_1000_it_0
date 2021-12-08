@@ -1,0 +1,88 @@
+{
+  "english": "interior",
+  "phat_am": "inˈtiəriə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bên trong",
+          "definition": "on, of etc, the inside of (something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the interior walls of a building.",
+              "world_new": [
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bên trong",
+          "definition": "the inside of a building etc",
+          "world_new": [
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The interior of the house was very attractive.",
+              "world_new": [
+                "house",
+                "attractive"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nội địa",
+          "definition": "the part of a country away from the coast, borders etc",
+          "world_new": [
+            "part",
+            "country",
+            "coast"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The explorers landed on the coast, and then travelled into the interior.",
+              "world_new": [
+                "coast"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The entropy gap and the square mixing permit the construction of an injective code on the tile interiors.",
+    "Architects continually confront the fact that daylighting conditions within interiors are not easy to describe.",
+    "The notions of boundaries, interiors, and exteriors were dropped and the notion of object and space components is used instead.",
+    "If so, then our analysis of edge-related fire frequency might be conservative, tending to underestimate the distance to which altered fire regimes penetrate into forest interiors.",
+    "In three recent houses, the expansiveness of the structures has increased and the landscape has become more integrated with the interiors, physically and visually.",
+    "The situation could be described as an interaction between different interiors.",
+    "The discussion that follows outlines the interior's connection with 'the social', and its function as a mechanism of psychoanalysis.",
+    "The eclogite is best preserved in the interiors of thick sheets and/or pods."
+  ],
+  "list_see_also": [
+    "interior decoration",
+    "interior decorator",
+    "interior design",
+    "interior designer"
+  ],
+  "list_browse": [
+    "interface",
+    "interfere",
+    "interference",
+    "interfering",
+    "interior",
+    "interior decoration",
+    "interior decorator",
+    "interior design",
+    "interior designer"
+  ]
+}

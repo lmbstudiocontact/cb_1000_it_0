@@ -1,0 +1,65 @@
+{
+  "english": "derive",
+  "phat_am": "diˈraiv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xuất phát từ",
+          "definition": "to come or develop from",
+          "world_new": [
+            "develop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The word ‘psychology’ derives from Greek."
+            }
+          ]
+        },
+        {
+          "mean_english": "có nguồn gốc từ",
+          "definition": "to draw or take from (a source or origin)",
+          "world_new": [
+            "draw",
+            "source"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We derived comfort from his presence.",
+              "world_new": [
+                "comfort",
+                "presence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In both cases the historical actor becomes a subject, his conceptual world derives from his position in a structural relationship only.",
+    "They found that receptive-field parameters derived from edge contrast reversal were similar to those obtained using sinusoidal stimuli.",
+    "Again the form of the equation has no physical interpretation for the mechanism, but serves merely to derive the relationship.",
+    "To conduct such work, information derived from single census-type listings is not sufficient.",
+    "A qualitative argument is derived to discriminate between oscillatory and stationary onset of instability in the general case.",
+    "Production of transgenic goats by pronuclear microinjection of in vitro produced zygotes derived from oocytes recovered by laparoscopy.",
+    "Neither of these inputs suffice to explain the largest surrounds, which most likely derive from feedback from extrastriate visual areas.",
+    "Viable offspring derived from fetal and adult mammalian cells."
+  ],
+  "list_see_also": [
+    "derivation",
+    "derivative"
+  ],
+  "list_browse": [
+    "derisive",
+    "derisory",
+    "derivation",
+    "derivative",
+    "derive",
+    "dermatologist",
+    "dermatology",
+    "derogatory",
+    "derrick"
+  ]
+}

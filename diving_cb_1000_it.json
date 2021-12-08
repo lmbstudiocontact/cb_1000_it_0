@@ -1,0 +1,69 @@
+{
+  "english": "diving",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lặn",
+          "definition": "the sport or activity of jumping into water with your head first and your arms stretched out in front of you",
+          "world_new": [
+            "sport",
+            "activity",
+            "water",
+            "your",
+            "head",
+            "your",
+            "arms",
+            "front"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a diving competition.",
+              "world_new": [
+                "competition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi lặn",
+          "definition": "the activity of swimming underwater using special equipment to help you breathe",
+          "world_new": [
+            "activity",
+            "swimming",
+            "underwater",
+            "special",
+            "equipment",
+            "help",
+            "breathe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going diving in Thailand"
+            },
+            {
+              "ex_of_definition": "(also adjective) a diving suit.",
+              "world_new": [
+                "suit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dividers",
+    "divination",
+    "divine",
+    "diviner",
+    "diving",
+    "diving board",
+    "divining",
+    "divinity",
+    "divisible"
+  ]
+}

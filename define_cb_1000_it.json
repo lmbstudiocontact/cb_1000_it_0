@@ -1,0 +1,54 @@
+{
+  "english": "define",
+  "phat_am": "diˈfain",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "định nghĩa",
+          "definition": "to fix or state the exact meaning of",
+          "world_new": [
+            "fix",
+            "state",
+            "exact",
+            "meaning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Words are defined in a dictionary.",
+              "world_new": [
+                "dictionary"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "How this is defined is unique to the individual.",
+    "The express method of determining the damage threshold can be defined as follows.",
+    "Winter was defined as from week 40 in one year to week 10 in the next.",
+    "Furthermore, two more classes, a temporal class interval and an additional bitemporal interval class, are defined in order to capture temporal requirements.",
+    "The tool for defining this framework is meta-modelling.",
+    "An estimate of the margin required when defining blocks around the prostate.",
+    "In section 2, we explain the basic idea of our data-parallel evaluation mechanism for recursively defined data.",
+    "An abstraction for this machine is defined with an implementation of a signature that we will describe piece by piece."
+  ],
+  "list_see_also": [
+    "definable",
+    "definition"
+  ],
+  "list_browse": [
+    "deficiency",
+    "deficient",
+    "deficit",
+    "definable",
+    "define",
+    "definite",
+    "definite article",
+    "definitely",
+    "definition"
+  ]
+}

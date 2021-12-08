@@ -1,0 +1,102 @@
+{
+  "english": "distinguish",
+  "phat_am": "diˈstiŋɡwiʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phân biệt",
+          "definition": "(often with from) to mark as different",
+          "world_new": [
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What distinguishes this café from all the others?",
+              "world_new": [
+                "café"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "là dấu hiệu đặc trưng",
+          "definition": "to identify or make out",
+          "world_new": [
+            "identify"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He could just distinguish the figure of a man running away.",
+              "world_new": [
+                "figure",
+                "running"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhận ra",
+          "definition": "(sometimes with between) to recognize a difference",
+          "world_new": [
+            "recognize",
+            "difference"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t distinguish (between) the two types of fish – they both look the same to me.",
+              "world_new": [
+                "I",
+                "fish",
+                "look"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nổi bật",
+          "definition": "to make (oneself) noticed through one’s achievements",
+          "world_new": [
+            "noticed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He distinguished himself at school by winning prizes in several subjects.",
+              "world_new": [
+                "distinguished",
+                "school",
+                "winning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With respect to the secondary domain, we distinguished several fixed structural opportunities as well as fixed and non-fixed personal opportunities.",
+    "More importantly, constitutional experts have found considerable difficulty in distinguishing federal states from unitary ones.",
+    "An important part of our account rests upon distinguishing two types of states : individual-level and stage-level states.",
+    "Two different aspects can be distinguished in the development of the infection : the localized infection and the disseminated infection.",
+    "Psychologists and philosophers have often distinguished between sensation and perception.",
+    "The two 'negative' symptoms which distinguished the two groups at a statistically significant level were 'loss of interest' and 'diminished concentration'.",
+    "The latter are concerned with the global and abstract while the former were distinguished by their concern with the local and particular.",
+    "To retain comparability, respondents with high education were distinguished from those with medium and low levels."
+  ],
+  "list_see_also": [
+    "distinguishable",
+    "distinguished"
+  ],
+  "list_browse": [
+    "distinctive",
+    "distinctively",
+    "distinctly",
+    "distinctness",
+    "distinguish",
+    "distinguishable",
+    "distinguished",
+    "distort",
+    "distortion"
+  ]
+}

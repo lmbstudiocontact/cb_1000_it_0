@@ -1,0 +1,87 @@
+{
+  "english": "convert",
+  "phat_am": "kənˈvəːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chuyển đổi",
+          "definition": "to change from one thing into another",
+          "world_new": [
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has converted his house into four separate flats",
+              "world_new": [
+                "house",
+                "separate"
+              ]
+            },
+            {
+              "ex_of_definition": "This sofa converts into a bed.",
+              "world_new": [
+                "sofa",
+                "bed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cải đạo",
+          "definition": "to change from one religion etc to another",
+          "world_new": [
+            "change",
+            "religion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was converted to Christianity.",
+              "world_new": [
+                "Christianity"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "người cải đạo",
+          "definition": "a person who has been converted to a particular religion etc",
+          "world_new": [
+            "person",
+            "particular",
+            "religion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a convert to Buddhism.",
+              "world_new": [
+                "Buddhism"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "convertible",
+    "convertibility"
+  ],
+  "list_browse": [
+    "conversational",
+    "converse",
+    "conversely",
+    "conversion",
+    "convert",
+    "convertibility",
+    "convertible",
+    "convex",
+    "convexity"
+  ]
+}

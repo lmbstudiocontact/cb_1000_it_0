@@ -1,0 +1,75 @@
+{
+  "english": "awake",
+  "phat_am": "əˈweik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thức giấc",
+          "definition": "to wake from sleep",
+          "world_new": [
+            "wake",
+            "sleep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was awoken by a noise",
+              "world_new": [
+                "noise"
+              ]
+            },
+            {
+              "ex_of_definition": "He awoke suddenly.",
+              "world_new": [
+                "suddenly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thức",
+          "definition": "not asleep",
+          "world_new": [
+            "asleep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is he awake?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Increase of extracellular corticotropin-releasing factor-like immunoreactivity levels in the amygdala of awake rats during restraint stress and ethanol withdrawal as measured by microdialysis.",
+    "In normal awake and slow wave sleep states, the raphe nucleus is releasing serotonin.",
+    "Standing duration was positively correlated with total time awake, giving this possibility some credence.",
+    "Subjects were required to remain seated and awake, with their eyes open throughout the treatment hour.",
+    "Both approaches, however, were too time-consuming to be per formed in awake, fixating owls.",
+    "Sometimes it is not even specified whether the person who saw the vision was awake or asleep.",
+    "This cell was studied over a period of several days in an awake rabbit using methods of extracellular cross-correlation.",
+    "A cognitive definition of dreaming should incorporate the awake recall of dreaming."
+  ],
+  "list_see_also": [
+    "awaken",
+    "awakening"
+  ],
+  "list_browse": [
+    "avoidance",
+    "avow",
+    "avowed",
+    "await",
+    "awake",
+    "awaken",
+    "awakening",
+    "award",
+    "aware"
+  ]
+}

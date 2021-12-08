@@ -1,0 +1,53 @@
+{
+  "english": "bleed",
+  "phat_am": "bliːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chảy máu",
+          "definition": "to lose blood",
+          "world_new": [
+            "lose",
+            "blood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her nose was bleeding badly.",
+              "world_new": [
+                "nose",
+                "bleeding",
+                "badly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On day 8 after infection, mice were anaesthetized and bled as described below.",
+    "The animals are bled after 3 weeks and 7 to10 days after successive boosts.",
+    "The causes of death were bleeding, liver failure or a combination of these two conditions in 58% patients, while 11% died of hepatocellular carcinoma.",
+    "The most frequent complications were bleeding (12), chest reopening for tamponade (8), infection (6), renal failure (12), thromboembolism (3).",
+    "The 18 late deaths were due to reoperation (n=8), myocardial failure (n=6), sudden arrhythmia (n=3), and bleeding varices (n=l).",
+    "A week after the last dose of antigen, jirds were bled from the retro-orbital plexus and immune sera were isolated.",
+    "In spite of these findings, bleeding time is normal from birth.",
+    "The decision regarding need for delivery in the case of bleeding from a placenta praevia depends on the amount of bleeding and the fetal maturity."
+  ],
+  "list_see_also": [
+    "bleeding"
+  ],
+  "list_browse": [
+    "bleach",
+    "bleaching",
+    "bleak",
+    "bleat",
+    "bleed",
+    "bleeding",
+    "bleep",
+    "blemish",
+    "blend"
+  ]
+}

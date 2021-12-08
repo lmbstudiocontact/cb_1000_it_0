@@ -1,0 +1,68 @@
+{
+  "english": "forgive",
+  "phat_am": "fəˈɡiv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tha thứ",
+          "definition": "to stop being angry with (someone who has done something wrong)",
+          "world_new": [
+            "stop",
+            "angry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He forgave her for stealing his watch.",
+              "world_new": [
+                "watch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thứ lỗi",
+          "definition": "to stop being angry about (something that someone has done)",
+          "world_new": [
+            "stop",
+            "angry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He forgave her angry words.",
+              "world_new": [
+                "angry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I hope that one tiny word of reservation may be forgiven.",
+    "Secure adults generally have a favorable, realistic, and coherent representation of self and are flexible, realistic, and forgiving in interpersonal relationships.",
+    "From, the effect on resource extraction per unit of total debt forgiven by the donor is greater now than with debt forgiveness in period one.",
+    "Assurances of leniency and threats of dismissal were complementary ways to control labour and resuscitate authority, since paternalism incorporated the idea of forgiving the 'misdeeds' of labour.",
+    "We should not readily be forgiven if we did not grasp a major opportunity to show our faith in the future.",
+    "Their absence was usually forgiven because of their demanding schedules and research commitments.",
+    "One would be forgiven for thinking that during the war little was happening at the level of gold bullion.",
+    "Occasional omissions like this, however, can be forgiven because the dictionary is otherwise quite complete."
+  ],
+  "list_see_also": [
+    "forgiveness",
+    "forgiving"
+  ],
+  "list_browse": [
+    "forgery",
+    "forget",
+    "forgetful",
+    "forgetfully",
+    "forgive",
+    "forgiveness",
+    "forgiving",
+    "fork",
+    "fork out"
+  ]
+}

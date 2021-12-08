@@ -1,0 +1,57 @@
+{
+  "english": "complimentary",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khen ngợi",
+          "definition": "flattering or praising",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "complimentary remarks."
+            }
+          ]
+        },
+        {
+          "mean_english": "biếu",
+          "definition": "given free",
+          "world_new": [
+            "free"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a complimentary ticket.",
+              "world_new": [
+                "ticket"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Now that these modules have been successfully introduced complimentary e-recruitment systems will be considered and introduced in 2004.",
+    "Complimentary arguments elicited by designers, which are geared to support physical representation are not represented as states.",
+    "Is there a role for networking subgroups, specializing in particular areas, with agreed complimentary objectives ?",
+    "Indeed, given any set of disjoint saddle connections, we may further add disjoint saddle connections so that all complimentary regions are discs and then further subdivide the discs into triangles.",
+    "The complimentary dominant wavelength is given for purples (denoted with the subscript c).",
+    "The behavior of all agents is complimentary in that they assist each other to satisfy the overall objective mentioned.",
+    "They also point out that resistance management programmes must be complimentary to the overall pest management concerns, and that region-wide population dynamics may overwhelm locally practiced resistance management tactics.",
+    "As a result, the complimentary drive wheel must compensate for the disturbance by generating more torque."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "complicate",
+    "complicated",
+    "complication",
+    "compliment",
+    "complimentary",
+    "comply",
+    "component",
+    "compose",
+    "composed"
+  ]
+}

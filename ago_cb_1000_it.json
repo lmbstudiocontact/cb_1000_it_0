@@ -1,0 +1,59 @@
+{
+  "english": "ago",
+  "phat_am": "əˈɡəu",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "trước đây",
+          "definition": "at a certain time in the past",
+          "world_new": [
+            "certain",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We moved house two years ago",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "Long ago, men lived in caves"
+            },
+            {
+              "ex_of_definition": "How long ago did he leave?",
+              "world_new": [
+                "long",
+                "leave"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Since their introduction over 10 years ago, oral contraceptives have gained wide and ever-increasing acceptance as a satisfactory and relatively trouble-free means of fertility control.",
+    "Sonbol wonders that \"today women are fighting an uphill battle to achieve what their sisters already had a hundred years ago\" (p. 80).",
+    "This is especially likely for species that diverged hundreds of millions of years ago, such as vertebrates and invertebrates.",
+    "The showman explained that twenty years ago he collected five pounds a week on average, earning seven or eight shillings from each street performance.",
+    "Some years ago it was difficult to properly evaluate an artistic movement that quite autonomously was in the process of development.",
+    "We are certainly attacking more and more complex conditions, including those considered hopeless not very long ago.",
+    "There have been reports of some localised fumarole activity during the past 100 years, and a new lava flow broke out only 20 years ago.",
+    "I presented this case some years ago to a group of federal trial court judges."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "agitator",
+    "AGM",
+    "agnostic",
+    "agnosticism",
+    "ago",
+    "agog",
+    "agonize",
+    "agonized",
+    "agonizing"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "describe",
+  "phat_am": "diˈskraib",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mô tả",
+          "definition": "to give an account of in words; to tell in words what something or someone is like",
+          "world_new": [
+            "account",
+            "tell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He described what had happened"
+            },
+            {
+              "ex_of_definition": "Would you describe her as beautiful?",
+              "world_new": [
+                "beautiful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho là",
+          "definition": "to say that one is something",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He describes himself as a salesman.",
+              "world_new": [
+                "salesman"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A report of the laboratories work describes the researchers approach and experimentation.",
+    "All but one of the participants described a sense of abandonment after being discharged from active hospital treatment.",
+    "We will use this for describing our type inference algorithm in the next section.",
+    "The next section describes the development and validation of the intervention.",
+    "We have recently described a laboratory demonstration of the replication of membrane vesicles2.",
+    "Their significant advantage is that parsers described in this style are directly executable.",
+    "Entities that support searches have their schemas described in the ontology.",
+    "Alternatively, we can use the simple approach that is described below."
+  ],
+  "list_see_also": [
+    "description"
+  ],
+  "list_browse": [
+    "desalination",
+    "descend",
+    "descendant",
+    "descent",
+    "describe",
+    "description",
+    "desecrate",
+    "desecration",
+    "desert"
+  ]
+}

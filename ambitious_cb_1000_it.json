@@ -1,0 +1,48 @@
+{
+  "english": "ambitious",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tham vọng",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is very ambitious"
+            },
+            {
+              "ex_of_definition": "That plan is too ambitious.",
+              "world_new": [
+                "plan"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In such an ambitious and wide-ranging enterprise, sins of omission and commission are inevitable.",
+    "In their mixture of amateurish incompleteness and ambitious effort, the pages bear witness to a conflict.",
+    "However, as in any ambitious project, it does leave some issues unexplored.",
+    "The book is generous with its data and ambitious in its aims but possibly over-stretched in its methodology.",
+    "Sectional interests were especially powerful, and conquest was driven forward by ambitious colonels, civil servants and professional patriots.",
+    "As with the earlier volumes, this is an ambitious undertaking.",
+    "His is an ambitious interdisciplinary endeavour which seeks to bring together the insights of evolutionary biology, ethics, theology, and the social scientific study of religions.",
+    "However, the ambitious targets and deadlines seem to suggest that there is an expectation that problems will be put right very quickly, if not overnight."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ambiguity",
+    "ambiguous",
+    "ambiguously",
+    "ambition",
+    "ambitious",
+    "ambitiously",
+    "ambitiousness",
+    "ambivalence",
+    "ambivalent"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "english": "appreciate",
+  "phat_am": "əˈpriːʃieit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cảm kích",
+          "definition": "to be grateful for (something)",
+          "world_new": [
+            "grateful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I appreciate all your hard work.",
+              "world_new": [
+                "I",
+                "your",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh giá cao",
+          "definition": "to value (someone or something) highly",
+          "world_new": [
+            "value",
+            "highly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The work that housewives do is very often not appreciated.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hiểu",
+          "definition": "understand; to be aware of",
+          "world_new": [
+            "aware"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I appreciate your difficulties, but I cannot help.",
+              "world_new": [
+                "I",
+                "your",
+                "I",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lên giá",
+          "definition": "to increase in value",
+          "world_new": [
+            "increase",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My house has appreciated (in value) considerably over the last ten years.",
+              "world_new": [
+                "house",
+                "considerably"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He then dismisses natural-law theory with the objection that it fails to appreciate the fallenness of human nature.",
+    "If there were some doubts at the outset, however, they seem to have evaporated once farmers appreciated the advantages of cooperative arrangements.",
+    "They will only be removed if growers appreciate the significance of compaction and exercise greater patience in organizing their planting schedule.",
+    "It also reports on how the students appreciated access to a large number of authentic, relevant examples.",
+    "Failure to appreciate such differences can lead to misunderstandings, confusion and even offence.",
+    "The detailed and helpful comments of two anonymous referees are greatly appreciated.",
+    "The linchamientos cannot be understood without appreciating this sense of desperation.",
+    "Not all readers will appreciate its usage and there are gender-free alternatives in ever y case."
+  ],
+  "list_see_also": [
+    "appreciable",
+    "appreciably",
+    "appreciation",
+    "appreciative",
+    "appreciatively"
+  ],
+  "list_browse": [
+    "appraisal",
+    "appraise",
+    "appreciable",
+    "appreciably",
+    "appreciate",
+    "appreciation",
+    "appreciative",
+    "appreciatively",
+    "apprehend"
+  ]
+}

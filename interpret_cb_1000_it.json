@@ -1,0 +1,91 @@
+{
+  "english": "interpret",
+  "phat_am": "inˈtəːprit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phiên dịch",
+          "definition": "to translate a speaker’s words, while he is speaking, into the language of his hearers",
+          "world_new": [
+            "translate",
+            "speaking",
+            "language"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spoke to the audience in French and she interpreted.",
+              "world_new": [
+                "spoke",
+                "audience",
+                "French"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giải nghĩa",
+          "definition": "to explain the meaning of",
+          "world_new": [
+            "explain",
+            "meaning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How do you interpret these lines of the poem?",
+              "world_new": [
+                "lines",
+                "poem"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thể hiện",
+          "definition": "to show or bring out the meaning of (eg a piece of music) in one’s performance of it",
+          "world_new": [
+            "bring",
+            "meaning",
+            "piece",
+            "performance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sonata was skilfully interpreted by the pianist.",
+              "world_new": [
+                "skilfully",
+                "pianist"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If an answer to an inquiry about price is produced and interpreted as an offer, the price question itself is a solicitation of an offer.",
+    "Science, like art, is a way of interpreting the world by shaping abstract mediums.",
+    "Resistance here is interpreted in a surprisingly limited way, setting up the dismissal of the other activities from the resistance category.",
+    "The fourth level involves a question which cannot be interpreted, meaning that no asking point or question type can be determined.",
+    "In both disciplines, the fragmentary records are interpreted with a measure of uncer tainty.",
+    "The educational level may also be interpreted as a proxy for the environmental awareness of the respondent.",
+    "The latter they interpreted as a ladder for stepping on rather than a ladder with steps.",
+    "Such an observation also cautions against interpreting the impressiveness of a structure simply in terms of its labor requirement."
+  ],
+  "list_see_also": [
+    "interpretation",
+    "interpreter"
+  ],
+  "list_browse": [
+    "internationally",
+    "Internet",
+    "internment",
+    "internode",
+    "interpret",
+    "interpretation",
+    "interpreter",
+    "interrogate",
+    "interrogation"
+  ]
+}

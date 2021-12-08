@@ -1,0 +1,74 @@
+{
+  "english": "contain",
+  "phat_am": "kənˈtein",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chứa đựng",
+          "definition": "to keep or have inside",
+          "world_new": [
+            "keep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This box contains a pair of shoes",
+              "world_new": [
+                "box",
+                "pair"
+              ]
+            },
+            {
+              "ex_of_definition": "How much milk does this jug contain?",
+              "world_new": [
+                "milk",
+                "jug"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiềm chế",
+          "definition": "to control",
+          "world_new": [
+            "control"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He could hardly contain his excitement.",
+              "world_new": [
+                "hardly",
+                "excitement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The percussive group itself contains both acoustic and synthetic sounds.",
+    "Chapter 6 contains a grand description of the dressedatom viewpoint.",
+    "A signature body is well-formed if and only if it contains only well-formed specifications.",
+    "The book contains 16 chapters, 2 appendixes, a glossary, subject and name indexes, and literature references.",
+    "A sentence containing only is then taken to assert that the base proposition is true and none of the alternatives.",
+    "Up to now, the only accretion ice containing mica-clay sediments allowed the recovery of a few bacterial phylotypes.",
+    "Much of acrolectal speech is colloquial and often contains nonstandard features.",
+    "We show two cases, where a -redex contains other redexes, and where a d -redex contains other redexes."
+  ],
+  "list_see_also": [
+    "container"
+  ],
+  "list_browse": [
+    "contact",
+    "contact lens",
+    "contagion",
+    "contagious",
+    "contain",
+    "container",
+    "contaminate",
+    "contamination",
+    "contemplate"
+  ]
+}

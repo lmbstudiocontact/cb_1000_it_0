@@ -1,0 +1,60 @@
+{
+  "english": "addition",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tính cộng",
+          "definition": "the act of adding",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is not good at addition."
+            }
+          ]
+        },
+        {
+          "mean_english": "người hoặc vật thêm vào",
+          "definition": "something added",
+          "world_new": [
+            "added"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’ve had an addition to the family.",
+              "world_new": [
+                "family"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, for an intensive cropping system, external sources of decomposed organic matter addition would be a better option.",
+    "In addition, we recovered other embryos after storage of up to 18 months in liquid nitrogen to provide information on mutation during storage.",
+    "In addition, children and non-citizens are represented in a democracy even though they do not have the right to vote.",
+    "In addition, with the introduction of robotic assembly, substantial changes are required in the assembly methods, assembly tools, assembly system designs and product design.",
+    "This trend was never observed in the data, and addition of a bipolar cell coupling parameter to the equations reinforced this a priori notion.",
+    "Approximately 3 kg of fresh litter obtained from the removal-treatment plots and the surrounding area was added to the addition-treatment plots.",
+    "Only the 6-digit load reduced writing quality in addition to fluency.",
+    "Addition of minocycline to cultures reduced but did not completely inhibit activation of this pathway."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "addict",
+    "addicted",
+    "addiction",
+    "addictive",
+    "addition",
+    "additional",
+    "additive",
+    "address",
+    "addressee"
+  ]
+}

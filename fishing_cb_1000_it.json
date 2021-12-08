@@ -1,0 +1,41 @@
+{
+  "english": "fishing",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "câu cá",
+          "definition": "the sport or business of catching fish",
+          "world_new": [
+            "sport",
+            "business",
+            "catching",
+            "fish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re going fishing next weekend.",
+              "world_new": [
+                "weekend"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fish merchant",
+    "fish out",
+    "fishball",
+    "fisherman",
+    "fishing",
+    "fishing line",
+    "fishing rod",
+    "fishmonger",
+    "fishy"
+  ]
+}

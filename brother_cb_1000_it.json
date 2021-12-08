@@ -1,0 +1,83 @@
+{
+  "english": "brother",
+  "phat_am": "ˈbraðə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "anh, em trai",
+          "definition": "the title given to a male child to describe his relationship to the other children of his parents",
+          "world_new": [
+            "title",
+            "male",
+            "child",
+            "describe",
+            "relationship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have two older brothers.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bạn đồng sự",
+          "definition": "a fellow member of any group (also adjective)",
+          "world_new": [
+            "fellow",
+            "member",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "brother officers."
+            }
+          ]
+        },
+        {
+          "mean_english": "đạo hữu",
+          "definition": "(plural also brethrenˈbreθrən) a member of a religious group",
+          "world_new": [
+            "member",
+            "religious",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The brothers of the order prayed together",
+              "world_new": [
+                "order"
+              ]
+            },
+            {
+              "ex_of_definition": "The brethren met daily.",
+              "world_new": [
+                "daily"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "brotherhood",
+    "brotherly",
+    "brother-in-law"
+  ],
+  "list_browse": [
+    "brook",
+    "broom",
+    "broomstick",
+    "brothel",
+    "brother",
+    "brother-in-law",
+    "brotherhood",
+    "brotherly",
+    "brow"
+  ]
+}

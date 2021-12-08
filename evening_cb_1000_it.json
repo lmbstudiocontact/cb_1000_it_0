@@ -1,0 +1,88 @@
+{
+  "english": "evening",
+  "phat_am": "iːvniŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "buổi tối",
+          "definition": "the part of the day between the afternoon and the night",
+          "world_new": [
+            "part",
+            "day",
+            "afternoon",
+            "night"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He leaves the house in the morning and returns in the evening",
+              "world_new": [
+                "house",
+                "morning"
+              ]
+            },
+            {
+              "ex_of_definition": "summer evenings",
+              "world_new": [
+                "summer"
+              ]
+            },
+            {
+              "ex_of_definition": "tomorrow evening",
+              "world_new": [
+                "tomorrow"
+              ]
+            },
+            {
+              "ex_of_definition": "on Tuesday evening",
+              "world_new": [
+                "Tuesday"
+              ]
+            },
+            {
+              "ex_of_definition": "early evening"
+            },
+            {
+              "ex_of_definition": "(also adjective) the evening performance.",
+              "world_new": [
+                "performance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lúc xế chiều",
+          "definition": "the last part (of one’s life etc)",
+          "world_new": [
+            "part",
+            "life"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "in the evening of her life.",
+              "world_new": [
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "evening class",
+    "evening dress"
+  ],
+  "list_browse": [
+    "even out",
+    "even so",
+    "even though",
+    "even up",
+    "evening",
+    "evening class",
+    "evening dress",
+    "evenly",
+    "evenness"
+  ]
+}

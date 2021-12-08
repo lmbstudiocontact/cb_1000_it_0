@@ -1,0 +1,63 @@
+{
+  "english": "cling",
+  "phat_am": "kliŋ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bám chặt vào",
+          "definition": "(usually with to) to stick (to); to grip tightly",
+          "world_new": [
+            "stick",
+            "grip"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mud clung to her shoes",
+              "world_new": [
+                "mud"
+              ]
+            },
+            {
+              "ex_of_definition": "She clung to her husband as he said goodbye",
+              "world_new": [
+                "husband",
+                "goodbye"
+              ]
+            },
+            {
+              "ex_of_definition": "He clings to an impossible hope",
+              "world_new": [
+                "impossible",
+                "hope"
+              ]
+            },
+            {
+              "ex_of_definition": "The boat clung to (= stayed close to) the coastline.",
+              "world_new": [
+                "boat",
+                "close",
+                "coastline"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "clingfilm"
+  ],
+  "list_browse": [
+    "climb",
+    "climber",
+    "climbing",
+    "clinch",
+    "cling",
+    "clingfilm",
+    "clinic",
+    "clinical",
+    "clink"
+  ]
+}

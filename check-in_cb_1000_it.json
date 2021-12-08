@@ -1,0 +1,92 @@
+{
+  "english": "check-in",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quầy đăng ký",
+          "definition": "the place where passengers show travel documents at an airport or seaport",
+          "world_new": [
+            "place",
+            "travel",
+            "airport",
+            "seaport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) the check-in desk/counter."
+            }
+          ]
+        },
+        {
+          "mean_english": "thủ tục kiểm tra",
+          "definition": "the process of checking in at an airport etc",
+          "world_new": [
+            "process",
+            "airport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The opening and closing times for check-in and boarding can vary by airport.",
+              "world_new": [
+                "opening",
+                "times",
+                "vary",
+                "airport"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "phrasal verb",
+      "list_definition": [
+        {
+          "mean_english": "việc đăng ký",
+          "definition": "to register at a hotel as a guest or at an airport as a passenger",
+          "world_new": [
+            "register",
+            "hotel",
+            "guest",
+            "airport",
+            "passenger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We checked in last night.",
+              "world_new": [
+                "checked",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the first place, the number of people preferring to use these check-in facilities has declined over the years, both proportionately and absolutely.",
+    "Currently, the final check-in time is 20 minutes before the departure for each ferry.",
+    "At the other end they will have to get their luggage from the bus to the check-in point.",
+    "The check-in-points were crowded and there were long queues.",
+    "They told him that their check-in staff could not become immigration officers.",
+    "Neither the staff nor the facilities now exist to provide check-in facilities for the spring and the summer.",
+    "The airlines warn passengers against carrying inflammable substances in their baggage, by various means including statements in time-tables, pamphlets and tickets, and notices at check-in-points.",
+    "Some of us decided not to accept this proposal and made our way to the check-in desk for the original flight, which was then closed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cheat",
+    "check",
+    "check out",
+    "check up (on)",
+    "check-in",
+    "check-up",
+    "checkbook",
+    "checked",
+    "checkers"
+  ]
+}

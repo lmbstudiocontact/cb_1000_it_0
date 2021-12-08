@@ -1,0 +1,90 @@
+{
+  "english": "eight",
+  "phat_am": "eit",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "số tám",
+          "definition": "the number or figure 8",
+          "world_new": [
+            "number",
+            "figure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Four and four are/is/make eight."
+            }
+          ]
+        },
+        {
+          "mean_english": "tám tuổi",
+          "definition": "the age of 8",
+          "world_new": [
+            "age"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The book is aimed at children of eight and over.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đội tám người trong chiếc thuyền chèo thi",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did the Cambridge eight win?",
+              "world_new": [
+                "win"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "có tám",
+          "definition": "having eight (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an eight-sided figure.",
+              "world_new": [
+                "figure"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "eight-",
+    "eighth",
+    "eight-year-old",
+    "figure of eight"
+  ],
+  "list_browse": [
+    "egoist",
+    "egoistic",
+    "eh",
+    "eiderdown",
+    "eight",
+    "eight-year-old",
+    "eighteen",
+    "eighteen-year-old",
+    "eighteenth"
+  ]
+}

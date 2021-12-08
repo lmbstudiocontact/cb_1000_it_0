@@ -1,0 +1,57 @@
+{
+  "english": "among",
+  "phat_am": "əˈmaŋ(st)",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "ở giữa",
+          "definition": "in the middle of",
+          "world_new": [
+            "middle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I could see a small house among the trees.",
+              "world_new": [
+                "I",
+                "see",
+                "small",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chia phần",
+          "definition": "in shares or parts to each person (in a group etc)",
+          "world_new": [
+            "person",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Divide the chocolate amongst you.",
+              "world_new": [
+                "chocolate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "amnesty",
+    "amniotic sac",
+    "amoeba",
+    "amok",
+    "among",
+    "amoral",
+    "amorous",
+    "amorphous",
+    "amount"
+  ]
+}

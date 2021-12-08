@@ -1,0 +1,79 @@
+{
+  "english": "difficult",
+  "phat_am": "ˈdifikəlt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khó khăn",
+          "definition": "hard to do or understand; not easy",
+          "world_new": [
+            "easy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a difficult sum",
+              "world_new": [
+                "sum"
+              ]
+            },
+            {
+              "ex_of_definition": "a difficult task",
+              "world_new": [
+                "task"
+              ]
+            },
+            {
+              "ex_of_definition": "It is difficult to know what to do for the best.",
+              "world_new": [
+                "know",
+                "best"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khó tính",
+          "definition": "hard to deal with or needing to be treated etc in a special way",
+          "world_new": [
+            "deal",
+            "special"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a difficult child who often misbehaves.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Furthermore, for immunological analysis it is difficult to exclude the possibility that the parasites carry antibody derived from the host.",
+    "Without such information it is difficult to determine accurately which category a particular word falls into.",
+    "Designing robots that can respond has proved extremely difficult and progress has been slow.",
+    "If the spread between foldons is not greater than the spread within, their discrimination will be difficult.",
+    "The true extend of cross subsidies is often difficult to measure.",
+    "The necessity of identity is more difficult to reject.",
+    "Evidence for learningbased change is usually more difficult to collect.",
+    "He is difficult to dismiss as just an irrationalist."
+  ],
+  "list_see_also": [
+    "difficulty"
+  ],
+  "list_browse": [
+    "difference",
+    "different",
+    "differentiate",
+    "differentiation",
+    "difficult",
+    "difficulty",
+    "diffidence",
+    "diffident",
+    "diffidently"
+  ]
+}

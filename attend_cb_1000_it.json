@@ -1,0 +1,114 @@
+{
+  "english": "attend",
+  "phat_am": "əˈtend",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tham gia",
+          "definition": "to go to or be present at",
+          "world_new": [
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She attended the meeting",
+              "world_new": [
+                "meeting"
+              ]
+            },
+            {
+              "ex_of_definition": "He will attend school till he is sixteen.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chú ý",
+          "definition": "(with to) formal to listen or give attention to",
+          "world_new": [
+            "listen",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Attend carefully to what the teacher is saying!",
+              "world_new": [
+                "carefully",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giải quyết",
+          "definition": "to deal with",
+          "world_new": [
+            "deal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll attend to that problem tomorrow.",
+              "world_new": [
+                "problem",
+                "tomorrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chăm sóc",
+          "definition": "to look after; to help or serve",
+          "world_new": [
+            "look",
+            "help",
+            "serve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two doctors attended her all through her illness",
+              "world_new": [
+                "illness"
+              ]
+            },
+            {
+              "ex_of_definition": "The queen was attended by four ladies-in-waiting.",
+              "world_new": [
+                "queen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The remainder were either not contacted or were unable to give any definite reason for not attending.",
+    "I attended both symposia and found both those and the book extremely interesting.",
+    "Pensioners attending these activities were generally healthy, mobile, and came from diverse socio-economic backgrounds.",
+    "Their rejection of qualia, however, is less persuasive; as is their view that we see only what we are attending to.",
+    "All children in this sample attended special education preschools and received either speech and/or physical therapy.",
+    "In addition, all children attended regular classrooms, although 12% of the sample was in classrooms with younger classmates because of grade retention.",
+    "Even by the second meeting most sessions were halved - only 75 people attended in one committee.",
+    "A thousand women, not all newlyweds, attended at least once."
+  ],
+  "list_see_also": [
+    "attendance",
+    "attendant",
+    "in attendance"
+  ],
+  "list_browse": [
+    "attain",
+    "attainment",
+    "attempt",
+    "attempted",
+    "attend",
+    "attendance",
+    "attendant",
+    "attention",
+    "attentive"
+  ]
+}

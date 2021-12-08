@@ -1,0 +1,82 @@
+{
+  "english": "her",
+  "phat_am": "həː",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "nó, cô ấy, bà ấy, chị ấy…",
+          "definition": "(used as the object of a verb or preposition) a female person or animal already spoken about",
+          "world_new": [
+            "object",
+            "verb",
+            "female",
+            "person",
+            "animal",
+            "spoken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll ask my mother when I see her",
+              "world_new": [
+                "ask",
+                "my",
+                "mother",
+                "I",
+                "see"
+              ]
+            },
+            {
+              "ex_of_definition": "He came with her."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "của nó, của cô ấy, của bà ấy, của chị ấy…",
+          "definition": "belonging to such a person or animal",
+          "world_new": [
+            "person",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My mother bought the neighbour’s car, so it’s her car now",
+              "world_new": [
+                "mother",
+                "car",
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "a cat and her kittens.",
+              "world_new": [
+                "cat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "hers",
+    "herself"
+  ],
+  "list_browse": [
+    "henceforth",
+    "henchman",
+    "henpecked",
+    "hepatitis",
+    "her",
+    "herald",
+    "heraldic",
+    "heraldry",
+    "herb"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "english": "frank",
+  "phat_am": "frӕŋk",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thành thật",
+          "definition": "saying or showing openly what is in one’s mind; honest",
+          "world_new": [
+            "openly",
+            "honest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a frank discussion",
+              "world_new": [
+                "discussion"
+              ]
+            },
+            {
+              "ex_of_definition": "a frank reply.",
+              "world_new": [
+                "reply"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng dấu hay dán tem trên (một lá thư…) để chỉ rằng bưu phí đã được thanh toán",
+          "definition": "to mark a letter by machine to show that postage has been paid",
+          "world_new": [
+            "mark",
+            "letter",
+            "machine",
+            "postage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These letters have not yet been franked.",
+              "world_new": [
+                "yet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "frankly"
+  ],
+  "list_browse": [
+    "framework",
+    "franc",
+    "franchise",
+    "Franco-",
+    "frank",
+    "frankfurter",
+    "frankly",
+    "frantic",
+    "frantically"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "english": "brown",
+  "phat_am": "braun",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nâu",
+          "definition": "of a dark colour/color between red and yellow",
+          "world_new": [
+            "dark",
+            "red",
+            "yellow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "brown paint",
+              "world_new": [
+                "paint"
+              ]
+            },
+            {
+              "ex_of_definition": "Her eyes are brown."
+            }
+          ]
+        },
+        {
+          "mean_english": "rám nắng",
+          "definition": "suntanned",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was very brown after her holiday in Greece.",
+              "world_new": [
+                "holiday"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "màu nâu",
+          "definition": "(any shade of) a colour/color similar to toasted bread, tanned skin, coffee etc.",
+          "world_new": [
+            "shade",
+            "similar",
+            "toasted",
+            "bread",
+            "tanned",
+            "skin",
+            "coffee"
+          ]
+        },
+        {
+          "mean_english": "vật có màu nâu",
+          "definition": "something (eg paint, polish etc) brown in colour/color.",
+          "world_new": [
+            "paint",
+            "polish"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhuộm nâu",
+          "definition": "to make or become brown",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Brown the meat in a pan",
+              "world_new": [
+                "meat"
+              ]
+            },
+            {
+              "ex_of_definition": "Her face had been browned by the sun.",
+              "world_new": [
+                "face",
+                "sun"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She said that nobody listens to what the railway-men say, that the railway workers are \"browned off\", and so on.",
+    "Mesonotum : integument and scales dark brown, the scales rather narrow.",
+    "They were \"browned off\" and were only there because they had to be.",
+    "Farmers also selected brown-seeded tef, but for home consumption.",
+    "They share the colourful appearance of those groups with blues and browns predominating.",
+    "The species tend towards dull grays and browns in their appearance.",
+    "Mesonotal integument dark brown, with a pair of submedian paler lines, with dark brown, small, narrow curved scales.",
+    "Many of the students are browned off with hostel accommodation."
+  ],
+  "list_see_also": [
+    "browned off"
+  ],
+  "list_browse": [
+    "brother-in-law",
+    "brotherhood",
+    "brotherly",
+    "brow",
+    "brown",
+    "browned off",
+    "brownie",
+    "browse",
+    "browser"
+  ]
+}

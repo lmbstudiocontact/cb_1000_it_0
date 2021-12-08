@@ -1,0 +1,69 @@
+{
+  "english": "conclude",
+  "phat_am": "kənˈkluːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kết thúc",
+          "definition": "to come or bring to an end",
+          "world_new": [
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her speech concluded the meeting",
+              "world_new": [
+                "speech",
+                "meeting"
+              ]
+            },
+            {
+              "ex_of_definition": "He concluded by thanking everyone."
+            }
+          ]
+        },
+        {
+          "mean_english": "kết luận",
+          "definition": "to come to believe",
+          "world_new": [
+            "believe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We concluded that you weren’t coming."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "From this it could be concluded that the admissible membership problem has been 'solved'.",
+    "Turning to the portrait itself for evidence to support 'the royal vaccination' theory, the argument will be concluded.",
+    "Thus, it may be concluded that the training influenced the subjects' declarative knowledge, which also led to the development of their procedural knowledge.",
+    "A summary of the current state of the evidence is presented, concluding that positive evidence is now very limited.",
+    "The review concludes that there is a trade-off between internal validity and ecological validity.",
+    "The paper concludes by considering the implications of the findings from this investigation for distance language course and assessment design.",
+    "All in all, the author concludes that if the potential of dig ital media is to be fully utilised, pedagogy has to be improved.",
+    "Violence, deprivation and depersonalization, he concluded, characterize these autobiographical accounts."
+  ],
+  "list_see_also": [
+    "conclusion",
+    "conclusive",
+    "conclusively",
+    "conclusiveness"
+  ],
+  "list_browse": [
+    "concise",
+    "concisely",
+    "conciseness",
+    "conclave",
+    "conclude",
+    "conclusion",
+    "conclusive",
+    "conclusively",
+    "conclusiveness"
+  ]
+}

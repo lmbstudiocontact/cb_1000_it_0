@@ -1,0 +1,207 @@
+{
+  "english": "end",
+  "phat_am": "end",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuối cùng",
+          "definition": "the last or farthest part of the length of something",
+          "world_new": [
+            "part",
+            "length"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the house at the end of the road",
+              "world_new": [
+                "house",
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "both ends of the room",
+              "world_new": [
+                "room"
+              ]
+            },
+            {
+              "ex_of_definition": "Put the tables end to end (= with the end of one touching the end of another)",
+              "world_new": [
+                "touching"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) We live in the end house.",
+              "world_new": [
+                "live",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự kết thúc",
+          "definition": "the finish or conclusion",
+          "world_new": [
+            "finish",
+            "conclusion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the end of the week",
+              "world_new": [
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "The talks have come to an end"
+            },
+            {
+              "ex_of_definition": "The affair is at an end",
+              "world_new": [
+                "affair"
+              ]
+            },
+            {
+              "ex_of_definition": "He is at the end of his strength",
+              "world_new": [
+                "strength"
+              ]
+            },
+            {
+              "ex_of_definition": "They fought bravely to the end",
+              "world_new": [
+                "bravely"
+              ]
+            },
+            {
+              "ex_of_definition": "If she wins the prize, we’ll never hear the end of it (= she will often talk about it).",
+              "world_new": [
+                "prize",
+                "hear",
+                "talk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái chết",
+          "definition": "death",
+          "world_new": [
+            "death"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers met their end bravely.",
+              "world_new": [
+                "their",
+                "bravely"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mục đích",
+          "definition": "an aim",
+          "world_new": [
+            "aim"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What end do you have in view?",
+              "world_new": [
+                "view"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầu mẩu",
+          "definition": "a small piece left over",
+          "world_new": [
+            "small",
+            "piece",
+            "left"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cigarette ends.",
+              "world_new": [
+                "cigarette"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kết thúc",
+          "definition": "to bring or come to an end",
+          "world_new": [
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The scheme ended in disaster",
+              "world_new": [
+                "scheme",
+                "disaster"
+              ]
+            },
+            {
+              "ex_of_definition": "How does the play end?",
+              "world_new": [
+                "play"
+              ]
+            },
+            {
+              "ex_of_definition": "How should I end (off) this letter?",
+              "world_new": [
+                "I",
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At the other end, we cannot say that we know something unless we believe in it.",
+    "This paper was written at the end of 1990.",
+    "In the end, the difficulty is one of comparability.",
+    "The zero plural avoids the problem of having two sibilants in quick succession at the end of the words, and coincidentally maintains the classical tradition.",
+    "Finally, mortality is found to be highest towards the end of the war.",
+    "Acknowledgments should be made at the end of the text in a separate section.",
+    "The ending moment of pride confirms this possibility.",
+    "And the gift exchange continues; it does not end."
+  ],
+  "list_see_also": [
+    "ending",
+    "endless",
+    "at a loose end",
+    "end up",
+    "in the end",
+    "make (both) ends meet",
+    "no end (of)",
+    "on end",
+    "put an end to",
+    "the end"
+  ],
+  "list_browse": [
+    "encroach",
+    "encroachment",
+    "encyclopedia",
+    "encyclopedic",
+    "end",
+    "end up",
+    "endanger",
+    "endangered",
+    "endear"
+  ]
+}

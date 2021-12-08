@@ -1,0 +1,89 @@
+{
+  "english": "admit",
+  "phat_am": "ədˈmit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thừa nhận",
+          "definition": "to say that one accepts as true",
+          "world_new": [
+            "true"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He admitted (that) he was wrong.",
+              "world_new": [
+                "wrong"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho vào",
+          "definition": "to allow to enter",
+          "world_new": [
+            "allow",
+            "enter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This ticket admits one person.",
+              "world_new": [
+                "ticket",
+                "person"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chở đi viện",
+          "definition": "to take someone to hospital",
+          "world_new": [
+            "hospital"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The people involved in the traffic accident were admitted to (the) hospital.",
+              "world_new": [
+                "people",
+                "involved",
+                "traffic",
+                "accident",
+                "hospital"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Rather, we should admit that the ties are somewhat different in different contexts.",
+    "Influenza-related hospitalizations areas would also have been admitted to the two hospitals mentioned.",
+    "As in the case of weak substitutivity, this is not enough to conclude that the calculus does not admit cut - elimination at all.",
+    "The functor syntax admits functors of many variables, and functor composition.",
+    "These differences contributed to the formation of a great ideological divide that admitted no compromise, and that soon generated a spiral of political violence.",
+    "The transplant team directs the care of its patients regardless of the unit to which they are admitted.",
+    "Seventy-eight per cent admitted that they would be more empathetic towards patients, with greater sensitivity to their psychological distress, in the future.",
+    "For stationary propagation, these equations admit solitontype localized solutions."
+  ],
+  "list_see_also": [
+    "admissible",
+    "admission",
+    "admittance",
+    "admittedly"
+  ],
+  "list_browse": [
+    "admiring",
+    "admiringly",
+    "admissible",
+    "admission",
+    "admit",
+    "admittance",
+    "admittedly",
+    "admonish",
+    "admonishment"
+  ]
+}

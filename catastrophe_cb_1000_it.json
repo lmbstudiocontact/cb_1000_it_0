@@ -1,0 +1,60 @@
+{
+  "english": "catastrophe",
+  "phat_am": "kəˈtӕstrəfi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thảm họa",
+          "definition": "a sudden great disaster",
+          "world_new": [
+            "sudden",
+            "great",
+            "disaster"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "earthquakes and other natural catastrophes",
+              "world_new": [
+                "natural"
+              ]
+            },
+            {
+              "ex_of_definition": "Her brother’s death was a catastrophe for the family.",
+              "world_new": [
+                "death",
+                "family"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The archaeology of geological catastrophes.",
+    "The first relates to our assumption of responsibility in the event of these catastrophes.",
+    "Structurally, this required the transformation of the model from a 'safety net', providing interventions after clinical catastrophes, to a model focusing on health promotion and disease prevention.",
+    "The history of human development, especially in the industrial era, has left true environmental catastrophes behind.",
+    "There is no doubt that the increases in bladder cancer and in some other cancers—skin cancers in sweeps and in mule spinners—were catastrophes.",
+    "Catastrophes do not occur every year—if they did, they would not be catastrophes.",
+    "Lack of oscillations means the onset of catastrophes.",
+    "A location for the collection and protection of such information for banks would not necessarily cover major catastrophes, for example."
+  ],
+  "list_see_also": [
+    "catastrophic",
+    "catastrophically"
+  ],
+  "list_browse": [
+    "catamaran",
+    "catapult",
+    "cataract",
+    "catarrh",
+    "catastrophe",
+    "catastrophic",
+    "catastrophically",
+    "catcall",
+    "catch"
+  ]
+}

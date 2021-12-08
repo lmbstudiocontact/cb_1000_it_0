@@ -1,0 +1,54 @@
+{
+  "english": "instead",
+  "phat_am": "inˈsted",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "thay vì",
+          "definition": "as a substitute; in place of something or someone",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t like coffee. Could I please have tea instead?",
+              "world_new": [
+                "I",
+                "coffee",
+                "I",
+                "please",
+                "tea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A third weakness in presentation is that information is sometimes given diffusely instead of in one section or chapter, thereby reducing effective communication of ideas.",
+    "Instead, the treatise provides a manual for the design of optimal interest rate rules.",
+    "Instead, however, the author seems to have gone out of his way to avoid telling any such story.",
+    "Another simplificationis used instead, based on the following qualitative argument.",
+    "The gender switch produces humor, but it does not disrupt or reconfigure gender relations or hierarchies; instead, it temporarily reverses them.",
+    "Instead, he was saying that the structural properties of the different languages have this effect.",
+    "Instead, important individuals played essential roles, and their talent and authority was reported to be crucial to the building's success.",
+    "Instead, the story is of group elites and long-term trends, with a different focus and different tempo."
+  ],
+  "list_see_also": [
+    "instead of"
+  ],
+  "list_browse": [
+    "instant",
+    "instantaneous",
+    "instantaneously",
+    "instantly",
+    "instead",
+    "instead of",
+    "instep",
+    "instigate",
+    "instigation"
+  ]
+}

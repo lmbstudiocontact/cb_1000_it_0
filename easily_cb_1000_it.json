@@ -1,0 +1,82 @@
+{
+  "english": "easily",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "một cách dễ dàng",
+          "definition": "without difficulty",
+          "world_new": [
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She won the race easily.",
+              "world_new": [
+                "race"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rõ ràng",
+          "definition": "by far",
+          "world_new": [
+            "far"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is easily the best book I’ve read this year.",
+              "world_new": [
+                "best",
+                "book",
+                "read",
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rất có thể",
+          "definition": "very probably",
+          "world_new": [
+            "probably"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It may easily rain tomorrow.",
+              "world_new": [
+                "rain",
+                "tomorrow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Interest rates and income risk are important because they can be influenced easily by government policies.",
+    "Still, though their true nature may remain a mystery, both the squinted out cans and the relations between them are easily observed.",
+    "The anxiety to build one's ' reputation ' easily takes the form of an effort to out-do others.",
+    "Because of the declarative specification of resource dependencies, the analysis engine deployer is able to easily discover what resources are required by an analysis engine.",
+    "Obviously these observations are ad hoc, and they are not easily coded as a new factor group.",
+    "We first prove the adequacy with respect to the observational preorder, the other equivalences will follow easily.",
+    "As discussed earlier, this problem can be solved easily by providing in m-piro support for one-to-one declarations.",
+    "In fact one easily checks the following theorem, which states that this is true in general."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "earwig",
+    "ease",
+    "easel",
+    "easier said than done",
+    "easily",
+    "easiness",
+    "east",
+    "eastbound",
+    "Eastender"
+  ]
+}

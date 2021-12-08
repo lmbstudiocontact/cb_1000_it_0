@@ -1,0 +1,52 @@
+{
+  "english": "half-time",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giờ nghỉ giữa hiệp",
+          "definition": "a short rest between two halves of a game (of football etc)",
+          "world_new": [
+            "short",
+            "rest",
+            "game",
+            "football"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The players got a talk from the manager at half-time.",
+              "world_new": [
+                "talk",
+                "manager"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We inherited programmes all right—there were five-year programmes, 10-year programmes, rolling programmes, and programmes for the half-time results.",
+    "The match was abandoned (=stopped before it was finished) at half-time because of the poor weather conditions.",
+    "Many of the people have been working only half-time, and in calculating compensation half-time is the basis on which it has been reckoned.",
+    "The proposal is not to take the children away for half-time, but for 320 hours a year.",
+    "We got it back after a year—at half-time—but we did not make a big fuss because we knew that it would return shortly.",
+    "Attendance was defined as taking more than one academic course or attendance in a training program at least half-time.",
+    "However, it is a little like reporting a rugby match that one has left at half-time.",
+    "We argued whether it was to be functional or nonfunctional, full-time, half-time, and all the rest of it."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "half-heartedness",
+    "half-holiday",
+    "half-hourly",
+    "half-term",
+    "half-time",
+    "half-way",
+    "half-wit",
+    "half-witted",
+    "half-yearly"
+  ]
+}

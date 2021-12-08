@@ -1,0 +1,60 @@
+{
+  "english": "but",
+  "phat_am": "bat",
+  "list_english": [
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "nhưng mà",
+          "definition": "used to show a contrast between two or more things",
+          "world_new": [
+            "contrast"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John was there, but Peter was not."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "trừ ra",
+          "definition": "except (for)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "No-one but me seems to like the idea",
+              "world_new": [
+                "idea"
+              ]
+            },
+            {
+              "ex_of_definition": "Bardwell Road is the next road but one on the left-hand side.",
+              "world_new": [
+                "road",
+                "left-hand",
+                "side"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "businessman",
+    "bust",
+    "bustle",
+    "busy",
+    "but",
+    "butcher",
+    "butler",
+    "butt",
+    "butt in"
+  ]
+}

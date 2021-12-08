@@ -1,0 +1,73 @@
+{
+  "english": "job",
+  "phat_am": "dʒob",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "việc làm",
+          "definition": "a person’s daily work or employment",
+          "world_new": [
+            "daily",
+            "work",
+            "employment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a job as a bank clerk",
+              "world_new": [
+                "bank",
+                "clerk"
+              ]
+            },
+            {
+              "ex_of_definition": "Some of the unemployed men have been out of a job for four years.",
+              "world_new": [
+                "unemployed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc",
+          "definition": "a piece of work or a task",
+          "world_new": [
+            "piece",
+            "work",
+            "task"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have several jobs to do before going to bed.",
+              "world_new": [
+                "I",
+                "bed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "jobless",
+    "job seeker",
+    "give up as a bad job",
+    "a good job",
+    "have a job",
+    "just the job",
+    "make the best of a bad job"
+  ],
+  "list_browse": [
+    "jingle",
+    "jinx",
+    "jittery",
+    "Jnr",
+    "job",
+    "job seeker",
+    "jobless",
+    "jockey",
+    "jodhpurs"
+  ]
+}

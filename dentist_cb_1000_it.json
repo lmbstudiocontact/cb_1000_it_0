@@ -1,0 +1,59 @@
+{
+  "english": "dentist",
+  "phat_am": "ˈdentist",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nha sỹ",
+          "definition": "a person who cares for diseases etc of the teeth, by filling or removing them etc",
+          "world_new": [
+            "person",
+            "filling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you made an appointment with the dentist yet?",
+              "world_new": [
+                "appointment",
+                "yet"
+              ]
+            },
+            {
+              "ex_of_definition": "I hate going to the dentist.",
+              "world_new": [
+                "I",
+                "hate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Families of pts with congenital heart disease have to be instructed in die importance of prophylaxis and should alert physicians and dentists who care for the child.",
+    "Facing this table was a chair, like those used by dentists.",
+    "We are in regular contact with dentists and their representatives on a wide range of issues.",
+    "Corporate bodies are the associations of sickness funds, physicians, and dentists.",
+    "Corporate bodies comprise the associations of sickness funds, physicians, and dentists.",
+    "Visual impairment on dentists related to occupational mercury exposure.",
+    "A total of 7 and 10 percent of the dentists and hygienists, respectively, used that alternative.",
+    "The alternatives considered are to pay dentists on a sessional fee basis (to mitigate the treadmill effect) or to revise the fee scales to provide incentives for preventive work."
+  ],
+  "list_see_also": [
+    "dentistry"
+  ],
+  "list_browse": [
+    "densely",
+    "density",
+    "dent",
+    "dental",
+    "dentist",
+    "dentistry",
+    "dentures",
+    "denunciation",
+    "deny"
+  ]
+}

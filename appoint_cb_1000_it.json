@@ -1,0 +1,80 @@
+{
+  "english": "appoint",
+  "phat_am": "əˈpoint",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bổ nhiệm",
+          "definition": "to give (a person) a job or position",
+          "world_new": [
+            "job",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They appointed him manager",
+              "world_new": [
+                "appointed",
+                "manager"
+              ]
+            },
+            {
+              "ex_of_definition": "They have appointed a new manager.",
+              "world_new": [
+                "appointed",
+                "manager"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "định thời gian",
+          "definition": "to fix or agree on (a time for something)",
+          "world_new": [
+            "fix",
+            "agree",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Has a day been appointed yet for the meeting?",
+              "world_new": [
+                "day",
+                "appointed",
+                "yet",
+                "meeting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Preparatory offices were set up for four additional institutes, and directors and deputy directors were appointed.",
+    "The court will have the power to make decisions on behalf of these individuals or appoint a manager to make the decisions.",
+    "The assemblies would set development criteria and keep watch over elected and appointed government officials.",
+    "He had certainly seen with his own eyes how few of his appointed judges actually took part in the trial.",
+    "But government-appointed bureaucrats appointed to serve at the regional, circle and arrondissment levels still controlled local government.",
+    "Furthermore, in reality farmers had little voice in managing or appointing the management team of their community's irrigation system.",
+    "This income was managed by local councils, still appointed directly by the regime until the end of the 1970s.",
+    "On the appointed day the room filled with people and a dog."
+  ],
+  "list_see_also": [
+    "appointed",
+    "appointment"
+  ],
+  "list_browse": [
+    "application",
+    "applied",
+    "apply",
+    "apply oneself/one’s mind",
+    "appoint",
+    "appointed",
+    "appointment",
+    "apportion",
+    "appraisal"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "english": "how",
+  "phat_am": "hau",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "như thế nào",
+          "definition": "in what way",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How do you make chilli con carne?",
+              "world_new": [
+                "chilli",
+                "con"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tới mức độ nào",
+          "definition": "to what extent",
+          "world_new": [
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How do you like my new hat?",
+              "world_new": [
+                "my",
+                "hat"
+              ]
+            },
+            {
+              "ex_of_definition": "How far is Paris from London?",
+              "world_new": [
+                "far"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng phương tiện gì",
+          "definition": "by what means",
+          "world_new": [
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve no idea how he came here.",
+              "world_new": [
+                "idea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình trạng sức khoẻ; hoàn cảnh thế nào",
+          "definition": "in what condition",
+          "world_new": [
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How are you today?"
+            },
+            {
+              "ex_of_definition": "How do I look?",
+              "world_new": [
+                "I",
+                "look"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vì lí do gì",
+          "definition": "for what reason",
+          "world_new": [
+            "reason"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How is it that I am the last to know about this?",
+              "world_new": [
+                "I",
+                "know"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In a way, it was a manifesto - a demonstration of how things could be done differently.",
+    "How are service robots for professional use doing?",
+    "That is, he chooses what, when, and how much to produce.",
+    "How can you be friends with such a one?",
+    "How long will this continue to be so?",
+    "But it does indicate how many things an edition of letters can be.",
+    "How could they be the same pieces if they were not fugues?",
+    "How could the desire for social connection not be there in an infant?"
+  ],
+  "list_see_also": [
+    "however",
+    "how about",
+    "how come",
+    "how do you do?"
+  ],
+  "list_browse": [
+    "housing estate",
+    "hovel",
+    "hover",
+    "hovercraft",
+    "how",
+    "how about",
+    "how come",
+    "how do you do?",
+    "however"
+  ]
+}

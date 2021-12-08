@@ -1,0 +1,71 @@
+{
+  "english": "defend",
+  "phat_am": "diˈfend",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bảo vệ",
+          "definition": "to guard or protect against attack",
+          "world_new": [
+            "guard",
+            "protect",
+            "attack"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers defended the castle",
+              "world_new": [
+                "castle"
+              ]
+            },
+            {
+              "ex_of_definition": "I am prepared to defend my opinions.",
+              "world_new": [
+                "I",
+                "prepared",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bênh vực",
+          "definition": "to conduct the defence/defense of (a person) in a law court.",
+          "world_new": [
+            "conduct",
+            "law",
+            "court"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The authors went to great lengths in defending this thesis.",
+    "He was as aggressive as the poet when it came to defending territory.",
+    "Even if they can, the abilities of defending their sovereignties are not equal!",
+    "Although the thesis is very plausible, it is not at all easy to see how it might be defended.",
+    "He had his own philosophy of life and social order, and propounded, promoted and defended the ideology of this dispensation.",
+    "By defending liberty and not explicitly rejecting equality, however, they ended up sounding very much like liberals.",
+    "Future interests are better defended when longterm effects of public decisions are visualised.",
+    "Nineteenth-century legislators, judges, and commentators defended associations not as alternatives to a legal-constitutional state, but as constitutive components of it."
+  ],
+  "list_see_also": [
+    "defendant",
+    "defender",
+    "defensive"
+  ],
+  "list_browse": [
+    "defection",
+    "defective",
+    "defence",
+    "defenceless",
+    "defend",
+    "defendant",
+    "defender",
+    "defensive",
+    "defer"
+  ]
+}

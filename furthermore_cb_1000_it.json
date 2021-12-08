@@ -1,0 +1,52 @@
+{
+  "english": "furthermore",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hơn nữa, vả lại",
+          "definition": "in addition (to what has been said)",
+          "world_new": [
+            "addition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Furthermore, I should like to point out that we have an urgent deadline to meet.",
+              "world_new": [
+                "I",
+                "point",
+                "urgent",
+                "deadline",
+                "meet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Furthermore, such flows cannot be easily distinguished from turbulent flows by qualitative observations.",
+    "Furthermore, holographic growth seems a useful model of the way in which the visual system builds up its representation of regularities.",
+    "Furthermore, the communication places, like can, become open places.",
+    "Furthermore, different types of defeasible information may also interfere with each other during the reasoning.",
+    "Furthermore, the way in which this threshold is applied also affects the number and nature of political parties gaining representation.",
+    "Furthermore, the type of structured volunteerism targeting older adults, in which recipients become helpers, has policy implications.",
+    "Furthermore, even if teachers base questions on their practical experience they can only ask questions about issues of which they have knowledge.",
+    "Furthermore, shape can be easily perceived and does not require experience with the object, unlike function or other non-perceptual attributes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "furry",
+    "further",
+    "further education",
+    "furtherance",
+    "furthermore",
+    "furthest",
+    "furtive",
+    "fury",
+    "fuse"
+  ]
+}

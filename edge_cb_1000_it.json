@@ -1,0 +1,154 @@
+{
+  "english": "edge",
+  "phat_am": "edʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bờ; cạnh",
+          "definition": "the part farthest from the middle of something; a border",
+          "world_new": [
+            "part",
+            "middle",
+            "border"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t put that cup so near the edge of the table – it will fall off",
+              "world_new": [
+                "cup",
+                "table",
+                "fall"
+              ]
+            },
+            {
+              "ex_of_definition": "the edge of the lake",
+              "world_new": [
+                "lake"
+              ]
+            },
+            {
+              "ex_of_definition": "We went down to the river and sat by the water’s edge.",
+              "world_new": [
+                "river"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lưỡi",
+          "definition": "the cutting side of something sharp, eg a knife or weapon",
+          "world_new": [
+            "cutting",
+            "side",
+            "sharp",
+            "knife",
+            "weapon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The edge of that kitchen knife is extremely sharp.",
+              "world_new": [
+                "kitchen",
+                "knife",
+                "extremely",
+                "sharp"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm cho mất",
+          "definition": "keenness; sharpness",
+          "world_new": [
+            "sharpness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The chocolate took the edge off his hunger.",
+              "world_new": [
+                "chocolate",
+                "hunger"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "viền; làm gờ cho",
+          "definition": "to form a border to",
+          "world_new": [
+            "form",
+            "border"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a handkerchief edged with lace.",
+              "world_new": [
+                "handkerchief",
+                "lace"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dịch dần vào",
+          "definition": "to move or push little by little",
+          "world_new": [
+            "move",
+            "push"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He edged his chair nearer to her",
+              "world_new": [
+                "chair"
+              ]
+            },
+            {
+              "ex_of_definition": "She edged her way through the crowd.",
+              "world_new": [
+                "crowd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Indeed, there is a definite path (with probability 1) corresponding to the edge e(1, 2).",
+    "The two players alternately take new edges, one edge per move.",
+    "Thus, in a non-vacuum condition the cover-glass will contact the surface of solar cell at one edge at first.",
+    "Otherwise, it has at least one edge, say e, in which it self-intersects.",
+    "They found that receptive-field parameters derived from edge contrast reversal were similar to those obtained using sinusoidal stimuli.",
+    "He also sharpens the edge of their need for psychological self-assertion.",
+    "Then every graph presentation contains an infinite set of pairwise edge-disjoint double paths.",
+    "Note, however, that our numerical bounds frequently get better if multiple edges are replaced by a single equivalent edge."
+  ],
+  "list_see_also": [
+    "edging",
+    "edgy",
+    "edgily",
+    "edginess",
+    "edgeways",
+    "have the edge on/over",
+    "on edge"
+  ],
+  "list_browse": [
+    "ectoplasm",
+    "ecumenical",
+    "eczema",
+    "eddy",
+    "edge",
+    "edgeways",
+    "edgily",
+    "edginess",
+    "edging"
+  ]
+}

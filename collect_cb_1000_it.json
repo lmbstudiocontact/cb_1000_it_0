@@ -1,0 +1,81 @@
+{
+  "english": "collect",
+  "phat_am": "kəˈlekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tụ tập; sưu tập",
+          "definition": "to bring or come together; to gather",
+          "world_new": [
+            "bring",
+            "gather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People are collecting in front of the house",
+              "world_new": [
+                "front",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "I collect stamps",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m collecting (money) for cancer research",
+              "world_new": [
+                "cancer",
+                "research"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s trying to collect his thoughts.",
+              "world_new": [
+                "trying"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đón",
+          "definition": "to call for and take away",
+          "world_new": [
+            "call"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She collects the children from school each day.",
+              "world_new": [
+                "school",
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "collected",
+    "collection",
+    "collective",
+    "collectively",
+    "collector"
+  ],
+  "list_browse": [
+    "collarbone",
+    "collateral",
+    "collateral damage",
+    "colleague",
+    "collect",
+    "collected",
+    "collection",
+    "collective",
+    "collectively"
+  ]
+}

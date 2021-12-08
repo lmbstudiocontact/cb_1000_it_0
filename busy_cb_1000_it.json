@@ -1,0 +1,99 @@
+{
+  "english": "busy",
+  "phat_am": "ˈbizi",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bận rộn",
+          "definition": "having a lot (of work etc) to do",
+          "world_new": [
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Looking after two small children keeps me very busy.",
+              "world_new": [
+                "small"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhộn nhịp",
+          "definition": "full of traffic, people, activity etc",
+          "world_new": [
+            "full",
+            "traffic",
+            "people",
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The roads are busy"
+            },
+            {
+              "ex_of_definition": "Christmas is a busy time of year for many businesses.",
+              "world_new": [
+                "Christmas",
+                "time",
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đang bận",
+          "definition": "(of a telephone line) engaged",
+          "world_new": [
+            "telephone",
+            "engaged"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All the lines to New York are busy.",
+              "world_new": [
+                "lines"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bận rộn với cái gì",
+          "definition": "(sometimes with with) to occupy (oneself) with",
+          "world_new": [
+            "occupy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She busied herself preparing the meal.",
+              "world_new": [
+                "meal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "busily"
+  ],
+  "list_browse": [
+    "businesslike",
+    "businessman",
+    "bust",
+    "bustle",
+    "busy",
+    "but",
+    "butcher",
+    "butler",
+    "butt"
+  ]
+}

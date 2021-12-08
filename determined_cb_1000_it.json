@@ -1,0 +1,75 @@
+{
+  "english": "determined",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "quyết định",
+          "definition": "having one’s mind made up",
+          "world_new": [
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is determined to succeed.",
+              "world_new": [
+                "succeed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quyết tâm",
+          "definition": "stubborn",
+          "world_new": [
+            "stubborn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s very determined."
+            }
+          ]
+        },
+        {
+          "mean_english": "được xác định",
+          "definition": "fixed or settled",
+          "world_new": [
+            "fixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our route has already been determined.",
+              "world_new": [
+                "route"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unlike natural kind terms, the reference of colour terms is determined by observation, with the caveat that this be under normal conditions.",
+    "Prior to all contrast 0 response experiments, the center of the receptive field was first determined with a 100-mm spot.",
+    "The shock transit time for a given target thickness was determined from the peak of the laser signal.",
+    "If the answer was no, the age of the last live birth (surviving child) was determined.",
+    "In these instances, then, the entailments of sentences with spatial to phrases are determined by the meaning of their verbs.",
+    "The location of sulci could nonetheless be determined by referring to the photographs taken during each stage of the flatmounting process.",
+    "These paths for the robot can be determined easily by expanding our analysis to more cases.",
+    "The mass of the plume slab is determined by the amount of material ejected from the target when thermalized by the electron beam."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "deteriorate",
+    "deterioration",
+    "determination",
+    "determine",
+    "determined",
+    "determiner",
+    "deterrent",
+    "detest",
+    "detestable"
+  ]
+}

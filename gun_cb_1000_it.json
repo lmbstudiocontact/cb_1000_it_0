@@ -1,0 +1,45 @@
+{
+  "english": "gun",
+  "phat_am": "ɡan",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súng",
+          "definition": "any weapon which fires bullets or shells",
+          "world_new": [
+            "weapon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fired a gun at the burglar.",
+              "world_new": [
+                "burglar"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "gunboat",
+    "gunfire",
+    "gunman",
+    "gunpowder",
+    "gunshot",
+    "stick to one’s guns"
+  ],
+  "list_browse": [
+    "gum",
+    "gumboil",
+    "gumminess",
+    "gummy",
+    "gun",
+    "gunboat",
+    "gunfire",
+    "gunge",
+    "gungy"
+  ]
+}

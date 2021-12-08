@@ -1,0 +1,51 @@
+{
+  "english": "constitute",
+  "phat_am": "ˈkonstitjuːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tạo thành",
+          "definition": "to form; to make up; to be",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Nuclear waste constitutes a serious danger.",
+              "world_new": [
+                "waste",
+                "serious",
+                "danger"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each disk represents the set of sentences constituting a language.",
+    "Unfortunately, the closing section of the book, subheaded ' economic diversity and development ', constitutes a missed opportunity.",
+    "Emphasis is placed on the international system, which is considered as constituting a complex network made up of various actors.",
+    "The multiple recyclings of riddims, with some qualifications, constitutes a remarkable instance of this sort of phenomenon.",
+    "Spatial distinction, in effect, constitutes the main characteristic of the ' holy'.",
+    "The next level reflects interpersonal relations mediated by the activity itself and is constituted by the historical and cultural backgrounds of the members.",
+    "Seeing is not constituted by activation of neural representations.",
+    "The family constitutes a central institution in the social network of most individuals, and plays an important role in the distribution system."
+  ],
+  "list_see_also": [
+    "constitution",
+    "constitutional",
+    "constitutionally"
+  ],
+  "list_browse": [
+    "constipated",
+    "constipation",
+    "constituency",
+    "constituent",
+    "constitute",
+    "constitution",
+    "constitutional",
+    "constitutionally",
+    "constrain"
+  ]
+}

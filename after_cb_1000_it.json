@@ -1,0 +1,187 @@
+{
+  "english": "after",
+  "phat_am": "ˈaːftə",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "sau",
+          "definition": "later in time or place than",
+          "world_new": [
+            "time",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After 5 o’clock, we were free to go home.",
+              "world_new": [
+                "o’clock",
+                "free",
+                "home"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp sau",
+          "definition": "following often indicating repetition",
+          "world_new": [
+            "following"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had a lot of problems – it was one thing after another"
+            },
+            {
+              "ex_of_definition": "Night after night, the dogs’ barking kept us awake.",
+              "world_new": [
+                "night",
+                "awake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phía sau",
+          "definition": "behind",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Shut the door after you!",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "theo đuổi",
+          "definition": "in search or pursuit of",
+          "world_new": [
+            "search",
+            "pursuit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ran after the bus.",
+              "world_new": [
+                "bus"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sau cùng",
+          "definition": "considering",
+          "world_new": [
+            "considering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After all I’ve done, you’d think he’d thank me",
+              "world_new": [
+                "think",
+                "thank"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s disappointing to fail after all that work.",
+              "world_new": [
+                "disappointing",
+                "fail",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quá",
+          "definition": "(American in telling the time) past",
+          "world_new": [
+            "telling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s a quarter after ten.",
+              "world_new": [
+                "quarter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "sau đó",
+          "definition": "later in time or place",
+          "world_new": [
+            "time",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They arrived soon after.",
+              "world_new": [
+                "soon"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "sau khi",
+          "definition": "later than the time when",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After she died, we moved house.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After all, abductive reasoning is reasoning in a direction reverse to logical implication.",
+    "Humans are mostly contaminated after being bitten by rabid animals among which, the dog is the most important vector and reservoir of the disease.",
+    "The outcome was favourable for the girl after 15 days in hospital.",
+    "The number of households below the threshold after housing costs fell by 1.5 million from 13.9 to 12.4 million between 1996/7 and 2001/2.",
+    "One should not over-interpret the fluctuations in primary education's share after 1986.",
+    "Plants were harvested after 3 months and eggs collected.",
+    "After the trial had finished, the 'objects of study', two male drug addicts, were to be detoxified with the help of methadone.",
+    "After 1919, and especially from 1926, central government provided subsidies for local authority building, in return for control over house design, size and location."
+  ],
+  "list_see_also": [
+    "after-effect",
+    "aftermath",
+    "aftershave",
+    "aftertaste",
+    "afterthought",
+    "afterwards",
+    "after all",
+    "be after"
+  ],
+  "list_browse": [
+    "afraid",
+    "afresh",
+    "African American",
+    "Afro-",
+    "after",
+    "after a fashion",
+    "after all",
+    "after-effect",
+    "aftermath"
+  ]
+}

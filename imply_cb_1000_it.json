@@ -1,0 +1,53 @@
+{
+  "english": "imply",
+  "phat_am": "imˈplai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ám chỉ",
+          "definition": "to suggest or hint without actually stating",
+          "world_new": [
+            "suggest",
+            "hint",
+            "actually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you implying that I am a liar?",
+              "world_new": [
+                "I",
+                "liar"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In describing earthwork surveys as 'largely sterile' we are not implying any lack of meaning.",
+    "The definition mentions neither perfect friendship nor something which implies perfect friendship.",
+    "As implied by the typical concerns expressed in the above quotes, it is also an issue of practical significance.",
+    "Clearly this is not what was implied in the discussion of the consequences of damage to the various brain regions implicated in planning.",
+    "He is made of thicker stuff, it is implied, and blood is, of course, thicker than water.",
+    "The law holds that the owner has implied that the merchant is the owner or has authority over them.",
+    "The southern diet implied a grave calorific deficit.",
+    "Certainly, it was not as simple as all this; village identity did not take hold as quickly as might seem implied here."
+  ],
+  "list_see_also": [
+    "implication"
+  ],
+  "list_browse": [
+    "implicit",
+    "implicitly",
+    "implore",
+    "imploringly",
+    "imply",
+    "impolite",
+    "impolitely",
+    "impoliteness",
+    "import"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "five",
+  "phat_am": "faiv",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "số năm",
+          "definition": "the number or figure 5.",
+          "world_new": [
+            "number",
+            "figure"
+          ]
+        },
+        {
+          "mean_english": "năm tuổi",
+          "definition": "the age of 5.",
+          "world_new": [
+            "age"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "thuộc số năm",
+          "definition": "having five (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a five-storey building.",
+              "world_new": [
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "five-",
+    "fiver",
+    "five-year-old"
+  ],
+  "list_browse": [
+    "fit out",
+    "fitness",
+    "fitter",
+    "fitting",
+    "five",
+    "five-year-old",
+    "fiver",
+    "fix",
+    "fix (someone) up with (something)"
+  ]
+}

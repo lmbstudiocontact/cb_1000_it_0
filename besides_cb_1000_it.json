@@ -1,0 +1,69 @@
+{
+  "english": "besides",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "ngoài ra",
+          "definition": "in addition to",
+          "world_new": [
+            "addition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is anyone coming besides John?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hơn nữa",
+          "definition": "also",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These shoes are expensive – besides, they’re too small",
+              "world_new": [
+                "expensive",
+                "small"
+              ]
+            },
+            {
+              "ex_of_definition": "She has three sons and an adopted one besides.",
+              "world_new": [
+                "adopted"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Besides disorderly conduct, the police increasingly arrested young people for theft.",
+    "Besides these, aneurysms are seen in the transition from muscular to elastic segments in such arteries as the celiac and mesenteric.",
+    "Besides music appreciation and singing, girls also scored higher responding means than boys for playing the recorder and other instruments.",
+    "Besides discussing standard features, also the problem of specifying input and output displays is discussed.",
+    "Besides the pleasure and pride derived from parades, conference sessions gave delegates the opportunity to share ideas and to further linkages between communities.",
+    "Besides this \"knowing what\", a user's \"knowing how\" can also play an important role in adapting systems to user needs.",
+    "Besides, though widespread, geography constrained the trade points to be located less evenly than consumption.",
+    "Besides knowledge, he must have the pedagogical skills for teaching the language."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "berth",
+    "beseech",
+    "beset",
+    "beside",
+    "besides",
+    "besiege",
+    "best",
+    "best man",
+    "bestow"
+  ]
+}

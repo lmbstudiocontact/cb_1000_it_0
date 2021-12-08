@@ -1,0 +1,71 @@
+{
+  "english": "afford",
+  "phat_am": "əˈfoːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đủ khả năng làm gì",
+          "definition": "(usually with can, could) to be able to spend money, time etc on or for something",
+          "world_new": [
+            "spend",
+            "money",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t afford (to buy) a new car.",
+              "world_new": [
+                "I",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có đủ khả năng làm gì",
+          "definition": "(usually with can, could) to be able to do (something) without causing oneself trouble, difficulty etc",
+          "world_new": [
+            "trouble",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She can’t afford to be rude to her employer in case she gets fired.",
+              "world_new": [
+                "rude",
+                "employer",
+                "case"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There's a question of how much market we can afford, without destroying the social ties that make the market possible.",
+    "There really seems little point in affording these peripheral figures a platform.",
+    "For workers as \"cell proprietors\" were to be afforded crucial domains of discretion, albeit ones traversed by tensions and potential conflicts.",
+    "This theory does, in certain respects, afford advantages for divine control as opposed to both free-will theism and simple foreknowledge.",
+    "Information on this vaccine is given to all families attending the clinic, but is limited to those who can afford to purchase the vaccine.",
+    "But historians of psychology surely cannot afford to ignore either form of reflexive practice.",
+    "The third goal is related to the second: analysis/synthesis should afford musically interesting transformations and control.",
+    "Using only the most rigorous design, on the other hand, ignores the probative importance of replication and corroboration that multiple studies afford."
+  ],
+  "list_see_also": [
+    "affordable"
+  ],
+  "list_browse": [
+    "afflict",
+    "affliction",
+    "affluence",
+    "affluent",
+    "afford",
+    "affordable",
+    "afforest",
+    "afforestation",
+    "affront"
+  ]
+}

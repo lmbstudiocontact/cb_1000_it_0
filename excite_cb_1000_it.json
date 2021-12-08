@@ -1,0 +1,69 @@
+{
+  "english": "excite",
+  "phat_am": "ikˈsait",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kích động",
+          "definition": "to cause or rouse strong feelings of expectation, happiness etc in",
+          "world_new": [
+            "cause",
+            "rouse",
+            "strong",
+            "expectation",
+            "happiness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children were excited at the thought of the party.",
+              "world_new": [
+                "excited",
+                "thought",
+                "party"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kích thích",
+          "definition": "to cause or rouse (feelings, emotions etc)",
+          "world_new": [
+            "cause",
+            "rouse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The book did not excite my interest.",
+              "world_new": [
+                "book",
+                "my",
+                "interest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "excitable",
+    "excitability",
+    "excited",
+    "excitedly",
+    "excitement",
+    "exciting"
+  ],
+  "list_browse": [
+    "excise",
+    "excision",
+    "excitability",
+    "excitable",
+    "excite",
+    "excited",
+    "excitedly",
+    "excitement",
+    "exciting"
+  ]
+}

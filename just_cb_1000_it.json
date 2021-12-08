@@ -1,0 +1,279 @@
+{
+  "english": "just",
+  "phat_am": "dʒast",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "công bằng",
+          "definition": "right and fair, not favouring/favoring one more than another",
+          "world_new": [
+            "right",
+            "fair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fair and just decision.",
+              "world_new": [
+                "fair",
+                "decision"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hợp lý",
+          "definition": "reasonable; based on one’s rights",
+          "world_new": [
+            "rights"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He certainly has a just claim to the money.",
+              "world_new": [
+                "certainly",
+                "claim",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xứng đáng",
+          "definition": "deserved",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He got his just reward when he crashed the stolen car and broke his leg.",
+              "world_new": [
+                "reward",
+                "car",
+                "broke",
+                "leg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "đúng",
+          "definition": "(often with as) exactly or precisely",
+          "world_new": [
+            "exactly",
+            "precisely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This penknife is just what I needed",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "He was behaving just as if nothing had happened"
+            },
+            {
+              "ex_of_definition": "The house was just as I’d remembered it.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khá là",
+          "definition": "(with as) equally",
+          "world_new": [
+            "equally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This dress is just as nice as that one.",
+              "world_new": [
+                "dress",
+                "nice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vừa mới",
+          "definition": "very lately or recently",
+          "world_new": [
+            "lately",
+            "recently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has just gone out of the house.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "định",
+          "definition": "on the point of; in the process of",
+          "world_new": [
+            "point",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is just coming through the door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đúng lúc",
+          "definition": "at the particular moment",
+          "world_new": [
+            "particular",
+            "moment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The telephone rang just as I was leaving.",
+              "world_new": [
+                "telephone",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vừa đủ",
+          "definition": "(often with only) barely",
+          "world_new": [
+            "barely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have only just enough milk to last till Friday",
+              "world_new": [
+                "milk",
+                "Friday"
+              ]
+            },
+            {
+              "ex_of_definition": "I just managed to escape",
+              "world_new": [
+                "I",
+                "escape"
+              ]
+            },
+            {
+              "ex_of_definition": "You came just in time.",
+              "world_new": [
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ",
+          "definition": "only; merely",
+          "world_new": [
+            "merely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They waited for six hours just to get a glimpse of the Queen",
+              "world_new": [
+                "glimpse"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Where are you going?’ ‘Just to the post office’"
+            },
+            {
+              "ex_of_definition": "Could you wait just a minute?",
+              "world_new": [
+                "wait",
+                "minute"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ (dùng trong câu mệnh lệnh)",
+          "definition": "used for emphasis, eg with commands",
+          "world_new": [
+            "emphasis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Just look at that mess!",
+              "world_new": [
+                "look",
+                "mess"
+              ]
+            },
+            {
+              "ex_of_definition": "That just isn’t true!",
+              "world_new": [
+                "true"
+              ]
+            },
+            {
+              "ex_of_definition": "I just don’t know what to do.",
+              "world_new": [
+                "I",
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thật sự",
+          "definition": "absolutely",
+          "world_new": [
+            "absolutely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The weather is just marvellous.",
+              "world_new": [
+                "weather",
+                "marvellous"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Or to be told the usage one has just produced is wrong?",
+    "Yet just like its processual precedent, it has developed from theoretical avant-garde to academic establishment.",
+    "We show the proof for just one case.",
+    "We are of the opinion that this is just the main thermodynamic difference between the \"cold\" ablation and the organic material ablation.",
+    "The motor is mounted on the end-effector just ahead of the welding torch and covers a ninety degree arc in front of the torch.",
+    "In a good theoretical formulation, households are just a large sector of the economy.",
+    "The construction of such a probability space is just a straightforward standard construction.",
+    "It's just as things come up you modify them."
+  ],
+  "list_see_also": [
+    "justly",
+    "justness"
+  ],
+  "list_browse": [
+    "jurisdiction",
+    "jurisprudence",
+    "juror",
+    "jury",
+    "just",
+    "just about",
+    "just now",
+    "just the job",
+    "just then"
+  ]
+}

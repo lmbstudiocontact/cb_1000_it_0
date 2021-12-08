@@ -1,0 +1,49 @@
+{
+  "english": "begin",
+  "phat_am": "biˈɡin",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắt đầu",
+          "definition": "to come or bring, into being, to start",
+          "world_new": [
+            "bring",
+            "start"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He began to talk",
+              "world_new": [
+                "talk"
+              ]
+            },
+            {
+              "ex_of_definition": "The meeting began early.",
+              "world_new": [
+                "meeting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "beginning",
+    "beginner",
+    "to begin with"
+  ],
+  "list_browse": [
+    "beg someone’s pardon",
+    "beg to differ",
+    "beggar",
+    "beggar description",
+    "begin",
+    "beginner",
+    "beginning",
+    "begonia",
+    "begrudge"
+  ]
+}

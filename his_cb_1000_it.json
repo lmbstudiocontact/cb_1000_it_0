@@ -1,0 +1,52 @@
+{
+  "english": "his",
+  "phat_am": "hiz",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "của nó; của anh ấy",
+          "definition": "belonging to a male person already spoken about",
+          "world_new": [
+            "male",
+            "person",
+            "spoken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John says it’s his book",
+              "world_new": [
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "He says the book is his",
+              "world_new": [
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "No, his is on the table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hippopotamus",
+    "hire",
+    "hire-purchase",
+    "hirer",
+    "his",
+    "his etc days are numbered",
+    "his/her etc face fell",
+    "Hispanic",
+    "hiss"
+  ]
+}

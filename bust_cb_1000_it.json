@@ -1,0 +1,114 @@
+{
+  "english": "bust",
+  "phat_am": "bast",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngực phụ nữ",
+          "definition": "a woman’s chest",
+          "world_new": [
+            "chest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a very small bust.",
+              "world_new": [
+                "small"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tượng bán thân",
+          "definition": "a sculpture of a person’s head and shoulders",
+          "world_new": [
+            "sculpture",
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bust of Julius Caesar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ập vào bắt giữ",
+          "definition": "to arrest someone",
+          "world_new": [
+            "arrest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two drug dealers were busted in a police raid.",
+              "world_new": [
+                "drug",
+                "police",
+                "raid"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đập vỡ",
+          "definition": "to break something",
+          "world_new": [
+            "break"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The firemen busted the door open.",
+              "world_new": [
+                "door",
+                "open"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hư hỏng",
+          "definition": "broken; not working",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The zip is bust",
+              "world_new": [
+                "zip"
+              ]
+            },
+            {
+              "ex_of_definition": "Try that phone. This one is bust.",
+              "world_new": [
+                "phone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "get busted"
+  ],
+  "list_browse": [
+    "busily",
+    "business",
+    "businesslike",
+    "businessman",
+    "bust",
+    "bustle",
+    "busy",
+    "but",
+    "butcher"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "harm",
+  "phat_am": "haːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tổn hại",
+          "definition": "damage; injury; distress",
+          "world_new": [
+            "distress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll make sure you come to no harm",
+              "world_new": [
+                "sure"
+              ]
+            },
+            {
+              "ex_of_definition": "He meant no harm"
+            },
+            {
+              "ex_of_definition": "It’ll do you no harm to go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gây hại",
+          "definition": "to cause (a person) harm",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s no need to be frightened – he won’t harm you.",
+              "world_new": [
+                "frightened"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "From this work, a more complex picture emerges about the developmental trajectories of children harmed both early and later in life.",
+    "Nevertheless, and perhaps surprisingly, the central liberty principle admits censorship of certain extraordinary types of expression which necessarily harm others.",
+    "The principle of beneficence requires that persons not only be protected from harm, but also that steps be taken to ensure their well-being.",
+    "The magnitude of possible harm would be sufficient to trigger protections.",
+    "Even if ' verb ' is taken here as a shorthand for ' argument-taker ', it may be thought that no harm is done, because prototypical argument-takers are verbs.",
+    "How the state might carry out this task without simply protecting persons from harm is unclear, though.",
+    "But, apart from that, it also directly and immediately harms her by reducing her control of the purely self-regarding portion of her life.",
+    "On the other side of the equation is the thought that an individual can be harmed by being brought into existence."
+  ],
+  "list_see_also": [
+    "harmful",
+    "harmless",
+    "harmlessly",
+    "harmlessness",
+    "out of harm’s way"
+  ],
+  "list_browse": [
+    "hardy",
+    "hare",
+    "harem",
+    "hark!",
+    "harm",
+    "harmful",
+    "harmless",
+    "harmlessly",
+    "harmlessness"
+  ]
+}

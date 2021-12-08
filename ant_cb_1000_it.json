@@ -1,0 +1,55 @@
+{
+  "english": "ant",
+  "phat_am": "ӕnt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con kiến",
+          "definition": "a type of small insect, related to bees, wasps etc, thought of as hard-working",
+          "world_new": [
+            "type",
+            "small",
+            "insect",
+            "related",
+            "thought"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nest of ants.",
+              "world_new": [
+                "nest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Do leaf-cutting ant nests make 'bottom-up' gaps in neotropical rain forests?",
+    "There was no detectable difference in the percentage of deer mice that ingested ants at the fox pen site and campground site.",
+    "However, tiny ant species that fed on the rice on the spot had to be sampled at the baits.",
+    "During the day, some ants regularly walked all over inflorescence at all stages and even entered inside open spathes.",
+    "Extensive studies in the surrounding forest by the authors confirmed that epiphytes occur only occasionally on ant and termite substrate other than ant gardens.",
+    "Why are leaf-cutting ants more common in early secondary forests than in old-growth tropical forests?",
+    "Raiding and other outstanding phenomena in the behavior of army ants.",
+    "Attempts were made to determine if other behaviour differences, aside from the ' host assembly ' phenomena, occurred between infected and noninfected ants."
+  ],
+  "list_see_also": [
+    "anteater",
+    "anthill"
+  ],
+  "list_browse": [
+    "answer for",
+    "answerable",
+    "answering machine",
+    "answerphone",
+    "ant",
+    "antacid",
+    "antagonism",
+    "antagonist",
+    "antagonistic"
+  ]
+}

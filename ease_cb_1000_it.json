@@ -1,0 +1,161 @@
+{
+  "english": "ease",
+  "phat_am": "iːz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự dễ chịu",
+          "definition": "freedom from pain or from worry or hard work",
+          "world_new": [
+            "freedom",
+            "pain",
+            "worry",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lifetime of ease.",
+              "world_new": [
+                "lifetime"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự dễ dàng",
+          "definition": "freedom from difficulty",
+          "world_new": [
+            "freedom",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He passed his exam with ease."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thoải mái",
+          "definition": "naturalness",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were impressed by her ease of manner.",
+              "world_new": [
+                "manner"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm dịu",
+          "definition": "to free from pain, trouble or anxiety",
+          "world_new": [
+            "free",
+            "pain",
+            "trouble",
+            "anxiety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A hot bath eased his tired limbs.",
+              "world_new": [
+                "hot",
+                "bath",
+                "tired"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dịu đi",
+          "definition": "(often with off) to make or become less strong, less severe, less fast ease",
+          "world_new": [
+            "become",
+            "strong",
+            "severe",
+            "fast"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pain has eased (off)",
+              "world_new": [
+                "pain"
+              ]
+            },
+            {
+              "ex_of_definition": "The driver eased off as he approached the town.",
+              "world_new": [
+                "driver",
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "di chuyển thận trọng",
+          "definition": "to move (something heavy or awkward) gently or gradually in or out of position",
+          "world_new": [
+            "move",
+            "heavy",
+            "gently",
+            "gradually",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They eased the wardrobe carefully up the narrow staircase.",
+              "world_new": [
+                "wardrobe",
+                "carefully",
+                "narrow",
+                "staircase"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We note as well that in absolute terms double imitation led to only modest improvement ; it eased but did not erase children's limitations.",
+    "In other words, they were self-paying, a fact which eased their steady proliferation throughout the countryside in the nineteenth century.",
+    "The global budget was eased to some extent in 1987, which has led to relative cost increases since that time.",
+    "They have deep compassion for the suffering of the dying and want to contribute in easing their pain.",
+    "Finally, the ambiguity of universal service eased eligibility extension and benefit expansion.",
+    "A semblance of conformity with the imperial constitution also eased the task of rallying princes to his project.",
+    "Due to the axial escape of fuel, a partial hole-closure is eased, this resulting in spark trapping.",
+    "However, the danger in this is that 'sustainable' architecture becomes an aesthetic typology, which superficially eases guilt and leads people into satisfactorily assuming that they have now 'done their bit'."
+  ],
+  "list_see_also": [
+    "easily",
+    "easiness",
+    "easy",
+    "easy chair",
+    "easy-going",
+    "easy listening",
+    "at ease",
+    "easier said than done",
+    "go easy on",
+    "stand at ease",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "earthly",
+    "earthquake",
+    "earthworm",
+    "earwig",
+    "ease",
+    "easel",
+    "easier said than done",
+    "easily",
+    "easiness"
+  ]
+}

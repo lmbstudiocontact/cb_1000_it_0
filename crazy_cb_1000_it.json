@@ -1,0 +1,56 @@
+{
+  "english": "crazy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "điên dại",
+          "definition": "insane",
+          "world_new": [
+            "insane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He must be going crazy"
+            },
+            {
+              "ex_of_definition": "a crazy idea.",
+              "world_new": [
+                "idea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quá say mê",
+          "definition": "very enthusiastic",
+          "world_new": [
+            "enthusiastic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s crazy about her boyfriend.",
+              "world_new": [
+                "boyfriend"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "crayon",
+    "craze",
+    "crazily",
+    "craziness",
+    "crazy",
+    "creak",
+    "creakiness",
+    "creaky",
+    "cream"
+  ]
+}

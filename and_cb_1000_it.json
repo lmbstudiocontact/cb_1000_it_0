@@ -1,0 +1,97 @@
+{
+  "english": "and",
+  "phat_am": "ənd",
+  "list_english": [
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "và",
+          "definition": "joining two statements, pieces of information etc",
+          "world_new": [
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I opened the door and went inside",
+              "world_new": [
+                "I",
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "The hat was blue and red",
+              "world_new": [
+                "hat",
+                "blue",
+                "red"
+              ]
+            },
+            {
+              "ex_of_definition": "a mother and child.",
+              "world_new": [
+                "mother",
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cộng với",
+          "definition": "in addition to",
+          "world_new": [
+            "addition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "2 and 2 makes 4."
+            }
+          ]
+        },
+        {
+          "mean_english": "kết quả là",
+          "definition": "as a result of which",
+          "world_new": [
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Try hard and you will succeed.",
+              "world_new": [
+                "succeed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng thay ’to’",
+          "definition": "used instead of ’to’ with a verb",
+          "world_new": [
+            "instead",
+            "verb"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do try and come!",
+              "world_new": [
+                "try"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "anchor",
+    "anchorage",
+    "anchovy",
+    "ancient",
+    "and",
+    "and so on/forth",
+    "(and) to spare",
+    "android",
+    "anecdotal"
+  ]
+}

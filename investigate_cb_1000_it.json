@@ -1,0 +1,54 @@
+{
+  "english": "investigate",
+  "phat_am": "inˈvestiɡeit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "điều tra",
+          "definition": "to examine or inquire into carefully",
+          "world_new": [
+            "examine",
+            "inquire",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police are investigating the crime",
+              "world_new": [
+                "police",
+                "crime"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In particular, problems of coexistence and exclusion of competing species have been theoretically investigated using models based on partial and ordinary differential equations.",
+    "Here we investigate an idealised problem where the rigid bottom is replaced by a layer with a damping mechanism.",
+    "We review research investigating the roles played by these variables in studies of choice from our laboratory.",
+    "A second common feature of qualitative research is the emphasis upon the description of the setting being investigated.",
+    "We generalize the notion of reversible systems in symbolic dynamics, and investigate their properties.",
+    "Various aspects of the interaction of relativistically intense pulses with preformed plasmas and solid targets were investigated in the experiments.",
+    "To investigate these hypotheses, we defined a number of regions that have been identified as part of the social brain network in adults.",
+    "The impact of singing on children's psychological state and well-being was investigated with a participant population of 76 pre-pubertal children."
+  ],
+  "list_see_also": [
+    "investigation",
+    "investigator"
+  ],
+  "list_browse": [
+    "invert",
+    "invertebrate",
+    "inverted commas",
+    "invest",
+    "investigate",
+    "investigation",
+    "investigator",
+    "investiture",
+    "investment"
+  ]
+}

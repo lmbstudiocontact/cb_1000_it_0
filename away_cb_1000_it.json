@@ -1,0 +1,123 @@
+{
+  "english": "away",
+  "phat_am": "əˈwei",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "xa",
+          "definition": "to or at a distance from the person speaking or the person or thing spoken about",
+          "world_new": [
+            "distance",
+            "person",
+            "speaking",
+            "person",
+            "spoken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lives three miles away (from the town)"
+            },
+            {
+              "ex_of_definition": "Go away!"
+            },
+            {
+              "ex_of_definition": "Take it away!"
+            }
+          ]
+        },
+        {
+          "mean_english": "tránh xa",
+          "definition": "in the opposite direction",
+          "world_new": [
+            "opposite",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She turned away so that he would not see her tears.",
+              "world_new": [
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mất",
+          "definition": "(gradually) into nothing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The noise died away.",
+              "world_new": [
+                "noise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "liên tục",
+          "definition": "continuously",
+          "world_new": [
+            "continuously"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They worked away until dark.",
+              "world_new": [
+                "dark"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bên sân đối phương",
+          "definition": "(of a football match etc) not on the home ground",
+          "world_new": [
+            "football",
+            "match",
+            "home",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The team is playing away this weekend",
+              "world_new": [
+                "team",
+                "weekend"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) an away match.",
+              "world_new": [
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There would be no cut aways.",
+    "5 can be explained away by appealing to faithfulness.",
+    "Instead of gimmicky little give-aways, we will remove savings taxation at a stroke below the higher rate.",
+    "In addition, they may protect their patients by steer ing them away f rom unproved, expensive, or dangerous therapies.",
+    "Buried away in them are some interesting vignettes.",
+    "The knock-on effect of this is that premises which are currently treated as take-aways can, overnight, turn into a pub—provided they can obtain a liquor licence.",
+    "Instead, it has been thought better to study cognitive processes in a vacuum away from this ill-defined and difficult to control, confounding variable.",
+    "Last year's tax give-aways meant nothing to the unemployed in my constituency, but the social security squeeze made a great deal of difference to them."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "award",
+    "aware",
+    "awareness",
+    "awash",
+    "away",
+    "awe",
+    "awe-inspiring",
+    "awestruck",
+    "awful"
+  ]
+}

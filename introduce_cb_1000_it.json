@@ -1,0 +1,117 @@
+{
+  "english": "introduce",
+  "phat_am": "intrəˈdjuːs",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giới thiệu",
+          "definition": "(often with to) to make (people) known by name to each other",
+          "world_new": [
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He introduced the guests (to each other)"
+            },
+            {
+              "ex_of_definition": "Let me introduce you to my mother",
+              "world_new": [
+                "my",
+                "mother"
+              ]
+            },
+            {
+              "ex_of_definition": "May I introduce myself? I’m John Brown.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đưa vào",
+          "definition": "(often with into) to bring in (something new)",
+          "world_new": [
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Grey squirrels were introduced into Britain from Canada"
+            },
+            {
+              "ex_of_definition": "Why did you introduce such a boring subject (into the conversation)?",
+              "world_new": [
+                "boring",
+                "subject"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đệ trình",
+          "definition": "to propose or put forward",
+          "world_new": [
+            "propose",
+            "forward"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He introduced a bill in Parliament for the abolition of income tax.",
+              "world_new": [
+                "bill",
+                "abolition",
+                "income",
+                "tax"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm quen với",
+          "definition": "(with to) to cause (a person) to get to know (a subject etc)",
+          "world_new": [
+            "cause",
+            "know",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Children are introduced to algebra at about the age of eleven.",
+              "world_new": [
+                "algebra",
+                "age"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At this point the knight introduces the second part of his ploy.",
+    "Since regular suffixes may follow certain unstressable suffixes, a loop must be introduced, as shown below.",
+    "The article examines the use of time adverbials by advanced adult learners, whereby the temporal forms are introduced in a progressively systematic way.",
+    "One woman introduced me to her brother, who at first responded to my name with a blank stare.",
+    "The evidence therefore strongly suggests that both species were introduced before 1919, rather than as a result of more recent activities on the island.",
+    "Individual self-harvesters introduced up to 25 new species, but the majority introduced between 6 and 15.",
+    "Cooperative p-contact interactions are introduced for this homopolymer force as well here.",
+    "My previously introduced list of categories is not thereby infringed."
+  ],
+  "list_see_also": [
+    "introduction",
+    "introductory"
+  ],
+  "list_browse": [
+    "intricate",
+    "intricately",
+    "intrigue",
+    "intriguing",
+    "introduce",
+    "introduction",
+    "introductory",
+    "introspective",
+    "introvert"
+  ]
+}

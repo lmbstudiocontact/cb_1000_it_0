@@ -1,0 +1,143 @@
+{
+  "english": "east",
+  "phat_am": "iːst",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hướng đông",
+          "definition": "the direction from which the sun rises, or any part of the earth lying in that direction",
+          "world_new": [
+            "direction",
+            "sun",
+            "part",
+            "earth",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wind is blowing from the east",
+              "world_new": [
+                "wind"
+              ]
+            },
+            {
+              "ex_of_definition": "The village is to the east of Cambridge",
+              "world_new": [
+                "village"
+              ]
+            },
+            {
+              "ex_of_definition": "a small town in the east of England.",
+              "world_new": [
+                "small",
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng đông trên la bàn",
+          "definition": "(also E) one of the four main points of the compass",
+          "world_new": [
+            "main",
+            "points",
+            "compass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took a direction 10 E of N / east of north.",
+              "world_new": [
+                "direction",
+                "E",
+                "N",
+                "north"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ở hướng phía đông",
+          "definition": "in the east",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the east coast.",
+              "world_new": [
+                "coast"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "từ phía đông",
+          "definition": "from the direction of the east",
+          "world_new": [
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an east wind.",
+              "world_new": [
+                "wind"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "về hướng đông",
+          "definition": "towards the east",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house faces east.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The mountains steeply rise from the sea on the west side, and from the vast lowland on the east side.",
+    "The granite occupies the northern parts, whereas in the south the massif is composed of gabbro in the west and leucogabbro in the east.",
+    "Moving north-south, one is directed towards the fireplaces [1 and 22]; moving east-west, one is directed toward the exterior landscape.",
+    "Rivers meander across this lowland from the west to the east.",
+    "This process was set to continue, and it was settled that these larger buildings should run mostly in an east-west direction.",
+    "Adjacent to active border faults to the east and west, sheet- and debris flow-dominated alluvial boulder conglomerates accumulated.",
+    "The structure was anchored in the south-east and south-west corners to start construction.",
+    "Despite this, historians continue to attribute the emergence of new forms of governance to a clash of cultures between east and west."
+  ],
+  "list_see_also": [
+    "eastbound",
+    "easterly",
+    "eastern",
+    "easternmost",
+    "eastward",
+    "eastward(s)",
+    "the East",
+    "Eastender"
+  ],
+  "list_browse": [
+    "easel",
+    "easier said than done",
+    "easily",
+    "easiness",
+    "east",
+    "eastbound",
+    "Eastender",
+    "Easter",
+    "Easter egg"
+  ]
+}

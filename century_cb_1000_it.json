@@ -1,0 +1,64 @@
+{
+  "english": "century",
+  "phat_am": "ˈsentʃəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thế kỷ",
+          "definition": "a (period of a) hundred years",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the 19th century"
+            },
+            {
+              "ex_of_definition": "The family have owned the house for more than a century.",
+              "world_new": [
+                "family",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỷ số 100 lần chạy của một đối thủ cầm chày trong một lượt chơi",
+          "definition": "in cricket, a hundred runs",
+          "world_new": [
+            "cricket"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has just made his second century this year.",
+              "world_new": [
+                "year"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is easy to feel the power of this scheme at the latter end of the twentieth century in a disintegrating society.",
+    "Looking back over the twentieth century it is easy to see how extensively the modern era has been permeated by the notion of celebrity.",
+    "This research project became one of the main endeavors within the neurosciences in the first decades of the twentieth century.",
+    "Indigenous political resistance teaches us how to rethink politics for the twenty-first century, and social anthropology has a role to play in this project.",
+    "Rather, the well-informed person of the final years of the twentieth century is expected to know how to argue from biology.",
+    "The name has survived the demise of the political power with which it was originally identified by almost three centuries.",
+    "It is not, however, the experimentalist impulse of a radicalized pragmatism that stands to blame for the atrocities and absurdities of the twentieth century.",
+    "Ultimately the genre survives in the twenty-first century primarily in our university choruses and local choral societies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "centrifugal",
+    "centrifuge",
+    "centripetal",
+    "centrist",
+    "century",
+    "CEO",
+    "cephalopod",
+    "cephalothorax",
+    "ceramic"
+  ]
+}

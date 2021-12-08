@@ -1,0 +1,128 @@
+{
+  "english": "bit",
+  "phat_am": "bit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miếng; mẩu",
+          "definition": "a small piece",
+          "world_new": [
+            "small",
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bit of cheese.",
+              "world_new": [
+                "cheese"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đoạn ngắn",
+          "definition": "a piece of any size",
+          "world_new": [
+            "piece",
+            "size"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bit of advice.",
+              "world_new": [
+                "advice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một lát",
+          "definition": "a short time",
+          "world_new": [
+            "short",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Wait a bit longer."
+            }
+          ]
+        },
+        {
+          "mean_english": "con số nhị phân",
+          "definition": "the smallest unit of memory",
+          "world_new": [
+            "unit",
+            "memory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a 64-bit memory interface.",
+              "world_new": [
+                "memory",
+                "interface"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàm thiếc ngựa",
+          "definition": "the part of a bridle which a horse holds in its mouth",
+          "world_new": [
+            "part",
+            "bridle",
+            "horse",
+            "its",
+            "mouth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You use the bit to control forward motion and to steer the horse.",
+              "world_new": [
+                "control",
+                "forward",
+                "motion",
+                "steer",
+                "horse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One encodes the positions and values of the nonzero coefficients as bit strings by standard devices (run-length coding and so forth).",
+    "The market-driven nature of news leaves some stories uncovered, many people uninformed, and most journalists a bit frustrated and unsatisfied.",
+    "To one input of the detector we direct the optical bits channel which exits the crystal after the logic operation.",
+    "In the current investigation, being of the second type, things look a bit different.",
+    "This is related to the fact that with one-bit mutations, one always ends up in the nearest local equilibrium.",
+    "He can also check that the results of the other measurements are sufficiently random (that is, not significantly correlated with the corresponding bits from xs).",
+    "Since the image synthesizer has a 7-bit resolution for the spatial phase, it permitted gratings to be displayed at 128 distinct phases.",
+    "Those practices provide bits of information of a partial, prima facie contradictory, and antecedently unsystematized nature."
+  ],
+  "list_see_also": [
+    "bitty",
+    "bit by bit",
+    "do one’s bit",
+    "in"
+  ],
+  "list_browse": [
+    "bisexual",
+    "bisexuality",
+    "bishop",
+    "bison",
+    "bit",
+    "bit by bit",
+    "bitch",
+    "bitchy",
+    "bite"
+  ]
+}

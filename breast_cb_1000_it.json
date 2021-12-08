@@ -1,0 +1,82 @@
+{
+  "english": "breast",
+  "phat_am": "brest",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vú",
+          "definition": "either of a woman’s two milk-producing glands on the front of the upper body.",
+          "world_new": [
+            "front",
+            "upper",
+            "body"
+          ]
+        },
+        {
+          "mean_english": "ngực",
+          "definition": "the front of a body between the neck and belly",
+          "world_new": [
+            "front",
+            "body",
+            "neck",
+            "belly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He clutched the child to his breast",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "This recipe needs three chicken breasts.",
+              "world_new": [
+                "recipe",
+                "chicken"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đối diện",
+          "definition": "to face or oppose",
+          "world_new": [
+            "face",
+            "oppose"
+          ]
+        },
+        {
+          "mean_english": "lên đến đỉnh…",
+          "definition": "to come to the top of",
+          "world_new": [
+            "top"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "breastbone",
+    "breastfeed",
+    "breastfed",
+    "breaststroke"
+  ],
+  "list_browse": [
+    "breakfast time",
+    "breakneck",
+    "breakthrough",
+    "breakwater",
+    "breast",
+    "breastbone",
+    "breastfed",
+    "breastfeed",
+    "breaststroke"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "him",
+  "phat_am": "him",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "nó, ông ấy, anh ấy",
+          "definition": "(used as the object of a verb or preposition) a male person or animal already spoken about",
+          "world_new": [
+            "object",
+            "verb",
+            "male",
+            "person",
+            "animal",
+            "spoken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I saw him yesterday",
+              "world_new": [
+                "I",
+                "saw",
+                "yesterday"
+              ]
+            },
+            {
+              "ex_of_definition": "I gave him a book",
+              "world_new": [
+                "I",
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "I came with him.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "himself"
+  ],
+  "list_browse": [
+    "hillock",
+    "hillside",
+    "hilly",
+    "hilt",
+    "him",
+    "himself",
+    "hind",
+    "hinder",
+    "hindquarters"
+  ]
+}

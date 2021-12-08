@@ -1,0 +1,61 @@
+{
+  "english": "arise",
+  "phat_am": "əˈraiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xuất hiện",
+          "definition": "to come into being",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These problems have arisen as a result of your carelessness",
+              "world_new": [
+                "result",
+                "your",
+                "carelessness"
+              ]
+            },
+            {
+              "ex_of_definition": "Are there any matters arising from our earlier discussion?",
+              "world_new": [
+                "our",
+                "discussion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sống lại",
+          "definition": "to get up or stand up.",
+          "world_new": [
+            "stand"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Instead of having arisen through co-evolution, we conclude that the communities of trematodes of epinephelines have developed through repeated independent cases of host-switching.",
+    "The pure recruiting agent was an entrepreneur who arose in response to missing markets for labour for largescale recruitment purposes.",
+    "The public health nurses told that, recently, a new problem had arisen.",
+    "A commentary places it in the larger context of mid-sixteenth-century agitations and attempts to identify the locality from which it arose.",
+    "On the one hand, they arose from the fight by disability campaigners for civil rights and social justice.",
+    "The second volume, however, has arisen out of a wider interdisciplinary discussion.",
+    "Many of the preschool teachers and child minders stressed the social connections that arose through music.",
+    "Indeed, where innovation is involved, this appears more often to result from errors in copying rather than that advantageous new variants in behaviour have arisen."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "aria",
+    "arid",
+    "aridity",
+    "Aries",
+    "arise",
+    "aristocracy",
+    "aristocrat",
+    "aristocratic",
+    "aristocratically"
+  ]
+}

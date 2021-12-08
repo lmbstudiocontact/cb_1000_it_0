@@ -1,0 +1,76 @@
+{
+  "english": "curb",
+  "phat_am": "kəːb",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự kiềm chế",
+          "definition": "something which restrains or controls",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll have to put a curb on his enthusiasm.",
+              "world_new": [
+                "enthusiasm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lề đường",
+          "definition": "a kerb.",
+          "world_new": [
+            "kerb"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hạn chế",
+          "definition": "to hold back, restrain or control",
+          "world_new": [
+            "hold",
+            "restrain",
+            "control"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must curb your spending.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a result, the real interest rate will rise, which in turn will curb the rise in aggregate demand.",
+    "The application of control measures that curb human infection in endemic areas depends critically on the detection of infected people.",
+    "Environmental policy, fostered by international agreements, gives a better explanation why pollution curbs downward at high income levels.",
+    "Initially it was an economic institution designed to curb the power of plutocrats who were manipulating medicinal drug markets in their favor.",
+    "Apart from official attempts to curb the institution and its actions, partisan control over the institution is therefore an additional risk.",
+    "The paper also offers suggestions on extra disclosures that might help in curbing earnings management.",
+    "Introduction of a license limitation scheme was proposed to curb the excessive effort in the fishery.",
+    "A number of governments were reluctant to accept this curb on patentability."
+  ],
+  "list_see_also": [
+    "curbstone"
+  ],
+  "list_browse": [
+    "curable",
+    "curate",
+    "curative",
+    "curator",
+    "curb",
+    "curbstone",
+    "curd",
+    "curdle",
+    "cure"
+  ]
+}

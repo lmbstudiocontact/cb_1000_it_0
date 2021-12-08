@@ -1,0 +1,77 @@
+{
+  "english": "invent",
+  "phat_am": "inˈvent",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phát minh",
+          "definition": "to be the first person to make or use (eg a machine, method etc)",
+          "world_new": [
+            "person",
+            "machine",
+            "method"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who invented the microscope?",
+              "world_new": [
+                "microscope"
+              ]
+            },
+            {
+              "ex_of_definition": "When was printing invented?",
+              "world_new": [
+                "printing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tìm ra",
+          "definition": "to make up or think of (eg an excuse or story)",
+          "world_new": [
+            "think",
+            "excuse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll have to invent some excuse for not going with him.",
+              "world_new": [
+                "excuse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The human mind, straining to interpret elusive detail at the limit of perception, invented narrow linear features that are simply not there.",
+    "The maps are invented ones, but the majority are detailed enough to resemble the real thing.",
+    "One could say that mechanical production set itself in opposition to something, and invented craft - making without machines.",
+    "Neither way are pupils being helped to get better at inventing their own music.",
+    "In other words, it is not plausible that these individuals should have invented so similar stories at different times and places.",
+    "In this view, phages could be considered as a powerful way of inventing new genes potentially beneficial to their hosts.",
+    "After all, the laws of war existed in some form long before the idea of the modern multilateral treaty had been invented.",
+    "They invented the notion of the \"profession\" as an occupation done for the salus publica, the public welfare."
+  ],
+  "list_see_also": [
+    "invention",
+    "inventive",
+    "inventiveness",
+    "inventor"
+  ],
+  "list_browse": [
+    "invaluable",
+    "invariable",
+    "invariably",
+    "invasion",
+    "invent",
+    "invention",
+    "inventive",
+    "inventiveness",
+    "inventor"
+  ]
+}

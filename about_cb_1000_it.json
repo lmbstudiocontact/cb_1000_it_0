@@ -1,0 +1,155 @@
+{
+  "english": "about",
+  "phat_am": "əˈbaut",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "về chủ đề",
+          "definition": "on the subject of",
+          "world_new": [
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We talked about our plans",
+              "world_new": [
+                "our"
+              ]
+            },
+            {
+              "ex_of_definition": "What’s the book about?",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "khoảng",
+          "definition": "(sometimes round about) near (in place, time, size etc)",
+          "world_new": [
+            "place",
+            "time",
+            "size"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The nearest town is about five miles away",
+              "world_new": [
+                "town"
+              ]
+            },
+            {
+              "ex_of_definition": "The meeting took place at (round) about six o’clock",
+              "world_new": [
+                "meeting",
+                "place",
+                "o’clock"
+              ]
+            },
+            {
+              "ex_of_definition": "The box is just about big enough.",
+              "world_new": [
+                "box",
+                "big"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xung quanh",
+          "definition": "in different directions; here and there",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children were running about (the garden)",
+              "world_new": [
+                "running"
+              ]
+            },
+            {
+              "ex_of_definition": "She was rushing about the house trying to find her car keys.",
+              "world_new": [
+                "house",
+                "trying",
+                "find",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đâu đó",
+          "definition": "in or on some part (of a place etc)",
+          "world_new": [
+            "part",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ll find him somewhere about (the office).",
+              "world_new": [
+                "find",
+                "somewhere"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quanh",
+          "definition": "around or surrounding",
+          "world_new": [
+            "surrounding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wore a coat about her shoulders",
+              "world_new": [
+                "coat"
+              ]
+            },
+            {
+              "ex_of_definition": "He lay with his clothes scattered about.",
+              "world_new": [
+                "lay",
+                "clothes",
+                "scattered"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The information is not only used for extreme illnesses, but also for information about how to treat colds, or cuts and bruises.",
+    "Although most of what is known about the acquisition of salmonellosis comes from investigations of outbreaks, approximately 90 % of cases are sporadic [1].",
+    "In these days the word \"maintenance\" covers quite a lot: apparently you can double the size of your roads, have dual-carriageways, round abouts and so forth.",
+    "The main result about model families is the following.",
+    "Arguments about women's provision for other women, in their own and distinctive sphere, provided the main successful route.",
+    "In fact, the number of patients seen for gastroenteritis and for rotavirus gastroenteritis both increased by about 25 % (data not showed).",
+    "One explanation is that the debate concerning the ownership of specialist health care came about partly at the same time as the patient's rights debate.",
+    "We should also note what this survey is not about."
+  ],
+  "list_see_also": [
+    "about-face",
+    "be about to"
+  ],
+  "list_browse": [
+    "abort",
+    "abortion",
+    "abortive",
+    "abound",
+    "about",
+    "about-face",
+    "above",
+    "above all",
+    "above board"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "accompany",
+  "phat_am": "əˈkampəni",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi cùng",
+          "definition": "to go with (someone or something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He accompanied her to the door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đệm nhạc",
+          "definition": "to play a musical instrument to go along with (a singer etc)",
+          "world_new": [
+            "play",
+            "musical",
+            "instrument",
+            "singer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She accompanied him on the cello.",
+              "world_new": [
+                "cello"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi kèm",
+          "definition": "to happen, exist, or appear with something else",
+          "world_new": [
+            "happen",
+            "exist",
+            "appear",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His speech was accompanied by loud cheering from the crowd.",
+              "world_new": [
+                "speech",
+                "loud",
+                "crowd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Applications should document fulfilment of the above criteria and should be accompanied by 10 copies of the paper.",
+    "See infra notes 48-50 and accompanying text.",
+    "As a result, each finished tool is inevitably accompanied by a number of flakes and other pieces of debris.",
+    "Although ticktransmitted tularemia is said to be accompanied by an eschar and lymphadenopathy (' ulceroglandular '), it may be that such a presentation varies locally.",
+    "The second major fault in the work emerges in this section : factual inaccuracies accompanied by careless scholarship.",
+    "In two others, transfer of cords was accompanied with insertion of a ring.",
+    "The texts accompanying the images are well written and informative.",
+    "The actor accompanies his song with standard religious gestures, thus making his performance even more ambiguous."
+  ],
+  "list_see_also": [
+    "accompaniment",
+    "accompanist"
+  ],
+  "list_browse": [
+    "accommodating",
+    "accommodation",
+    "accompaniment",
+    "accompanist",
+    "accompany",
+    "accomplice",
+    "accomplish",
+    "accomplished",
+    "accomplishment"
+  ]
+}

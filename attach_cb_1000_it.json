@@ -1,0 +1,46 @@
+{
+  "english": "attach",
+  "phat_am": "əˈtӕtʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gắn",
+          "definition": "to fasten or join",
+          "world_new": [
+            "fasten",
+            "join"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I attached a label to my bag.",
+              "world_new": [
+                "I",
+                "attached",
+                "label",
+                "my",
+                "bag"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "attached",
+    "attachment"
+  ],
+  "list_browse": [
+    "atrociously",
+    "atrociousness",
+    "atrocity",
+    "atrophy",
+    "attach",
+    "attached",
+    "attachment",
+    "attack",
+    "attacker"
+  ]
+}

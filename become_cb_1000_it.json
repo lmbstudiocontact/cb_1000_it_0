@@ -1,0 +1,105 @@
+{
+  "english": "become",
+  "phat_am": "biˈkam",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trở nên",
+          "definition": "to come or grow to be",
+          "world_new": [
+            "grow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her coat has become badly torn",
+              "world_new": [
+                "coat",
+                "badly"
+              ]
+            },
+            {
+              "ex_of_definition": "She has become even more beautiful.",
+              "world_new": [
+                "even",
+                "beautiful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trở thành",
+          "definition": "to qualify or take a job as",
+          "world_new": [
+            "qualify",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She became a doctor.",
+              "world_new": [
+                "doctor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xảy đến",
+          "definition": "(with of) to happen to",
+          "world_new": [
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What became of her son?",
+              "world_new": [
+                "son"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thích hợp",
+          "definition": "to suit",
+          "world_new": [
+            "suit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That dress really becomes her.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In such a context, income assessment becomes something of a challenge.",
+    "In the adult worm, this papilla becomes dome-shaped with a small central stoma.",
+    "Intensive care units became omnipresent, and they epitomized the technolog ical explosion in medic ine.",
+    "Worsteds became the flavour of the year in 1622.",
+    "Shaming and humiliation then became tools of policy or a vehicle of private psychosis.",
+    "Furthermore, the surface area that becomes buried from solvent exposure upon association is smaller than in more tightly packed sequence-specific complexes.",
+    "What might have been a vice became a virtue.",
+    "The question thus becomes why parties in power seek the goal."
+  ],
+  "list_see_also": [
+    "becoming",
+    "becomingly"
+  ],
+  "list_browse": [
+    "because",
+    "because of",
+    "beck",
+    "beckon",
+    "become",
+    "becoming",
+    "becomingly",
+    "bed",
+    "bed and breakfast"
+  ]
+}

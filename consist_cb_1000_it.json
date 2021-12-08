@@ -1,0 +1,41 @@
+{
+  "english": "consist",
+  "phat_am": "kənˈsist",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gồm",
+          "definition": "(with of) to be composed or made up",
+          "world_new": [
+            "composed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house consists of six rooms.",
+              "world_new": [
+                "house",
+                "rooms"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "consistency"
+  ],
+  "list_browse": [
+    "consideration",
+    "considering",
+    "consign",
+    "consignment",
+    "consist",
+    "consistency",
+    "consistent",
+    "consistently",
+    "consolation"
+  ]
+}

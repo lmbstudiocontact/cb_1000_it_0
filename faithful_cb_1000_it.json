@@ -1,0 +1,60 @@
+{
+  "english": "faithful",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trung thành; chung thuỷ",
+          "definition": "loyal and true; not changing",
+          "world_new": [
+            "loyal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a faithful friend",
+              "world_new": [
+                "friend"
+              ]
+            },
+            {
+              "ex_of_definition": "He was faithful to his promise.",
+              "world_new": [
+                "promise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trung thực",
+          "definition": "true or exact",
+          "world_new": [
+            "true",
+            "exact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a faithful account of what had happened.",
+              "world_new": [
+                "account"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fairy",
+    "fairy story",
+    "fairy tale",
+    "faith",
+    "faithful",
+    "faithfully",
+    "faithfulness",
+    "faithless",
+    "faithlessness"
+  ]
+}

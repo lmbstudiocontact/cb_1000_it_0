@@ -1,0 +1,48 @@
+{
+  "english": "flee",
+  "phat_am": "fliː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chạy hoặc tránh xe, chạy thoát",
+          "definition": "to run away (from danger)",
+          "world_new": [
+            "run"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fled the danger.",
+              "world_new": [
+                "danger"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He was surprised that the population had fled.",
+    "They expected that those who fled would be unemployed and dependent on soup kitchens.",
+    "What makes it \"global\" beyond aiming at fleeing the country and seeking any future beyond the national borders?",
+    "Shut out and denied, this violence fled in two directions: into the future, and into the landscape.",
+    "Thousands were prosecuted and fined, many died, and some fled abroad.",
+    "Most often, the captives resisted, and they and their oppressors negotiated a modus vivendi ; when this broke down or proved impossible, the captives fled.",
+    "One million soldiers and half a million civilians fled.",
+    "Eventually most of the population from the different villages, expecting to be attacked, either fled or assembled in the ravines to offer some kind of resistance."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "flea market",
+    "fleck",
+    "flecked",
+    "fledgling",
+    "flee",
+    "fleece",
+    "fleecy",
+    "fleet",
+    "flesh"
+  ]
+}

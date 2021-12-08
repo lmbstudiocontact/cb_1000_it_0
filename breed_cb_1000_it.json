@@ -1,0 +1,85 @@
+{
+  "english": "breed",
+  "phat_am": "briːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sinh sản",
+          "definition": "to produce young",
+          "world_new": [
+            "produce",
+            "young"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rabbits breed and grow quickly.",
+              "world_new": [
+                "grow",
+                "quickly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây giống",
+          "definition": "to keep animals for the purpose of breeding young",
+          "world_new": [
+            "keep",
+            "purpose",
+            "breeding",
+            "young"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I breed dogs and sell them as pets.",
+              "world_new": [
+                "I",
+                "sell"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nòi giống",
+          "definition": "a type, variety or species (of animal)",
+          "world_new": [
+            "type",
+            "variety",
+            "species"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rare breed of dog.",
+              "world_new": [
+                "rare",
+                "dog"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "bred",
+    "breeding"
+  ],
+  "list_browse": [
+    "breathlessness",
+    "bred",
+    "breech",
+    "breeches",
+    "breed",
+    "breeding",
+    "breeze",
+    "breezy",
+    "breve"
+  ]
+}

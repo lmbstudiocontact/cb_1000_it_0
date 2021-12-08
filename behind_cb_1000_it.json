@@ -1,0 +1,138 @@
+{
+  "english": "behind",
+  "phat_am": "biˈhaind",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "đằng sau",
+          "definition": "at or towards the back of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hid behind the door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "còn lại sau",
+          "definition": "remaining after",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tourists often leave their litter behind them.",
+              "world_new": [
+                "leave",
+                "their",
+                "litter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ủng hộ",
+          "definition": "in support",
+          "world_new": [
+            "support"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re right behind him on this point.",
+              "world_new": [
+                "right",
+                "point"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "ở đằng sau",
+          "definition": "at the back",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog was following behind.",
+              "world_new": [
+                "dog",
+                "following"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "muộn; chậm",
+          "definition": "(also behindhand-hӕnd) not up to date",
+          "world_new": [
+            "date"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Andy was getting behind with his work.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chậm trễ",
+          "definition": "remaining",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He accidentally left his book behind",
+              "world_new": [
+                "accidentally",
+                "left",
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "We stayed behind after the party.",
+              "world_new": [
+                "party"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mông đít",
+          "definition": "the buttocks",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She felt like giving him a kick in the behind.",
+              "world_new": [
+                "felt",
+                "kick"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "behind someone’s back"
+  ],
+  "list_browse": [
+    "beguilingly",
+    "behalf",
+    "behave",
+    "behaviour",
+    "behind",
+    "behind someone’s back",
+    "behind the scenes",
+    "behold",
+    "beige"
+  ]
+}

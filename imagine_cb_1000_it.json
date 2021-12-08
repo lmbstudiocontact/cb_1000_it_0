@@ -1,0 +1,92 @@
+{
+  "english": "imagine",
+  "phat_am": "iˈmӕdʒin",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tưởng tượng",
+          "definition": "to form a mental picture of (something)",
+          "world_new": [
+            "form",
+            "mental",
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can imagine how you felt.",
+              "world_new": [
+                "I",
+                "felt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tưởng rằng",
+          "definition": "to see or hear etc (something which is not true or does not exist)",
+          "world_new": [
+            "see",
+            "hear",
+            "true"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Children often imagine that there are frightening animals under their beds",
+              "world_new": [
+                "frightening",
+                "their"
+              ]
+            },
+            {
+              "ex_of_definition": "You’re just imagining things!"
+            }
+          ]
+        },
+        {
+          "mean_english": "ngỡ rằng",
+          "definition": "to think; to suppose",
+          "world_new": [
+            "suppose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I imagine (that) he will be late.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The prisoner who imagines his cell to be a meadow will soon run into a brick wall if he tries to live out his construction.",
+    "In fact his ideas on the nature of nations and democracy had been established whilst imagining the future of the empire, not its end.",
+    "They have imagined objects or items in the extensions represented as points in multidimensional space.",
+    "People who had never imagined discussing it seriously at home were now bombarded in the media by constant public debating of the issue.",
+    "A place can be used in new spatial practices (some of them perhaps not imagined until long after it was built) as can any tool.",
+    "Thirdly is the corresponding hypothesis that the rune-like letters are imagined to be carved into the mast.",
+    "In this devastating love song, the principals are once again imagined as seafarers, navigating the treacherous waters of drugs and depression.",
+    "The governess's presence made the middle-class family's social replication of itself possible; imagining her as only supplemental mitigated its dependence on such an aristocratic holdover."
+  ],
+  "list_see_also": [
+    "imaginable",
+    "imaginary",
+    "imagination",
+    "imaginative"
+  ],
+  "list_browse": [
+    "imaginable",
+    "imaginary",
+    "imagination",
+    "imaginative",
+    "imagine",
+    "imam",
+    "imbalance",
+    "imbecile",
+    "imbecility"
+  ]
+}

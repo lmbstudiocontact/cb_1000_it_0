@@ -1,0 +1,128 @@
+{
+  "english": "enough",
+  "phat_am": "iˈnaf",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đủ",
+          "definition": "in the number or quantity etc needed",
+          "world_new": [
+            "number",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you enough money to pay for the books?",
+              "world_new": [
+                "money",
+                "pay"
+              ]
+            },
+            {
+              "ex_of_definition": "food enough for everyone.",
+              "world_new": [
+                "food"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "đủ",
+          "definition": "the amount needed",
+          "world_new": [
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has had enough to eat",
+              "world_new": [
+                "eat"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve had enough of her rudeness.",
+              "world_new": [
+                "rudeness"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "đủ",
+          "definition": "to the degree needed",
+          "world_new": [
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is it hot enough?",
+              "world_new": [
+                "hot"
+              ]
+            },
+            {
+              "ex_of_definition": "He swam well enough to pass the test.",
+              "world_new": [
+                "pass",
+                "test"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một cách công bằng; điều lạ là",
+          "definition": "one must admit; you must agree",
+          "world_new": [
+            "agree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s pretty enough, but not beautiful",
+              "world_new": [
+                "pretty",
+                "beautiful"
+              ]
+            },
+            {
+              "ex_of_definition": "Oddly enough, it isn’t raining."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The reasons for this delay are clear enough.",
+    "On the other hand, one expects that, for h small enough, one should approach the true solution (3).",
+    "If credit relationships are rich enough, money is not necessary to achieve good allocations.",
+    "They consist of hardware and software systems powerful enough to create realtime effects with no appreciable time delay.",
+    "There is intelligence enough, and some br illiance too, in this new era of medic ine.",
+    "Put differently: violation of a constraint from below the cut-off is not severe enough to eliminate a candidate from being an output.",
+    "However, is that enough to say that they were experiencing the same phases at the same time?",
+    "In this case neither of the pre-existing senses is general enough to subsume the other."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ennui",
+    "enormity",
+    "enormous",
+    "enormousness",
+    "enough",
+    "enrage",
+    "enrapture",
+    "enrich",
+    "enrol"
+  ]
+}

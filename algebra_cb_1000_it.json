@@ -1,0 +1,57 @@
+{
+  "english": "algebra",
+  "phat_am": "ˈӕldʒibrə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đại số học",
+          "definition": "a method of calculating using letters and signs to represent numbers",
+          "world_new": [
+            "method",
+            "represent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The study of algebra is of great importance to our understanding of the natural world.",
+              "world_new": [
+                "study",
+                "great",
+                "importance",
+                "our",
+                "understanding",
+                "natural",
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Equational type algebras are one-sorted algebras equipped with a typing relation that provides a discipline for the use of the operations.",
+    "Term-equivalent algebras have the same universes, but the similarity types may differ.",
+    "On the semantic level, different kinds of algebras and structures are possible, such as partial or continuous algebras, or models of firstorder logic.",
+    "For example, all limits and all filtered colimits of iterative algebras are iterative.",
+    "Do infants learn grammar with algebra or statistics.",
+    "This paper initiates the study of a process algebra based on atomic actions that are assigned resources, and that supports true concurrency.",
+    "Models of unified algebra specifications are join semi-lattices, equipped with a distinguished subset of individuals, together with monotone functions.",
+    "Elementary linear algebra tells us that this is problematic."
+  ],
+  "list_see_also": [
+    "algebraic"
+  ],
+  "list_browse": [
+    "alert",
+    "alertly",
+    "alertness",
+    "algae",
+    "algebra",
+    "algebraic",
+    "alias",
+    "alibi",
+    "alien"
+  ]
+}

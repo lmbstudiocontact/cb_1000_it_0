@@ -1,0 +1,63 @@
+{
+  "english": "forest",
+  "phat_am": "ˈforist",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rừng",
+          "definition": "(a large piece of) land covered with trees.",
+          "world_new": [
+            "large",
+            "piece",
+            "land"
+          ]
+        },
+        {
+          "mean_english": "rừng để săn bắn",
+          "definition": "an area of land in which animals, especially deer, are kept",
+          "world_new": [
+            "area",
+            "land",
+            "deer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a deer forest.",
+              "world_new": [
+                "deer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In particular, we have examined impacts at the landscape- and stand-scales for rain forests with contrasting management histories.",
+    "Secondary forests were used as habitats only for a limited subset of bats, representing less than 20% of the total species reported.",
+    "As previously mentioned, there are many examples of exotic species found in disturbed tropical forests, and a dearth of such examples from undisturbed tropical forests.",
+    "Mountain forests were extensively burned and more than 500 houses were lost.",
+    "However, in dry forests, light reaching the understorey varies enormously through the annual cycle due to seasonality in leaf fall and leaf flushing.",
+    "However, there is a lack of studies in subtropical forests on community phenology and on the identification of important resources.",
+    "Different kinds of mangrove forests provide different goods and services.",
+    "The project causes submergence of about 2800 hectares of tropical forests, two tribal settlements and stretches of cultivated land of non-tribal settlers."
+  ],
+  "list_see_also": [
+    "forested",
+    "forester",
+    "forestry"
+  ],
+  "list_browse": [
+    "foresee",
+    "foreseeable",
+    "foresight",
+    "foreskin",
+    "forest",
+    "forested",
+    "forester",
+    "forestry",
+    "foretaste"
+  ]
+}

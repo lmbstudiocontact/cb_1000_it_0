@@ -1,0 +1,89 @@
+{
+  "english": "employ",
+  "phat_am": "imˈploi",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tuyển dụng",
+          "definition": "to give (especially paid) work to",
+          "world_new": [
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He employs three keyboarders"
+            },
+            {
+              "ex_of_definition": "She is employed as a teacher.",
+              "world_new": [
+                "employed",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiếm thời gian",
+          "definition": "to occupy the time or attention of",
+          "world_new": [
+            "occupy",
+            "time",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was busily employed (in) writing letters.",
+              "world_new": [
+                "busily",
+                "employed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tận dụng",
+          "definition": "to make use of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should employ your time better.",
+              "world_new": [
+                "your",
+                "time",
+                "better"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, some of the studies were poorly reported, or employed a weak intervention or evaluation design.",
+    "They employed an auditory grammaticality judgment task in which participants were asked to determine whether a sentence presented to them was grammatical or not.",
+    "The approach employs a supply-side description of changes in aggregate output.",
+    "All three algorithms enforce convergence by employing a branching scheme.",
+    "However, these methods are either rarely employed when they should be in psychiatry, or are likely to be of limited use.",
+    "The 'care-speak ' mode of communication employed by care workers supports the everyday patterns of care.",
+    "By employing user-fr iendly computer software, the students produced a promotional video of substantial real-life value and of near-professional audiovisual quality.",
+    "Just what that organized practice, and what activities figurative expressions may be employed to perform in conversation, is the focus of this inquiry."
+  ],
+  "list_see_also": [
+    "employed",
+    "employee",
+    "employer",
+    "employment"
+  ],
+  "list_browse": [
+    "emphysema",
+    "empire",
+    "empirical",
+    "empirically",
+    "employ",
+    "employed",
+    "employee",
+    "employer",
+    "employment"
+  ]
+}

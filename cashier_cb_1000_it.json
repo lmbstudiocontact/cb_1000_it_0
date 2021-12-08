@@ -1,0 +1,81 @@
+{
+  "english": "cashier",
+  "phat_am": "kӕˈʃiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhân viên thu ngân",
+          "definition": "a person who receives and pays out money (eg in a bank), works at a cash register etc",
+          "world_new": [
+            "person",
+            "money",
+            "works",
+            "cash",
+            "register"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bank cashier",
+              "world_new": [
+                "bank"
+              ]
+            },
+            {
+              "ex_of_definition": "a cashier in a supermarket.",
+              "world_new": [
+                "supermarket"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cách chức",
+          "definition": "to dismiss (a military officer) from a post in disgrace",
+          "world_new": [
+            "dismiss",
+            "military",
+            "disgrace"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The officer was cashiered for drug crimes.",
+              "world_new": [
+                "officer",
+                "drug"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Because of his distinguished record, he was not cashiered—he was simply quietly given the opportunity to resign, whereas almost any other officer in the same circumstances would have been cashiered.",
+    "We are therefore covering sales staff, petrol station cashiers, milk roundsmen etc.",
+    "Law centres have considerable experience of this, especially in relation to petrol station cashiers who face harsh deductions.",
+    "I suppose that it would mean that a cashier's department would be needed; it would mean accounts being sent out; it would mean quite a bit of administration.",
+    "The report further states that computers, printers, financial forms and stationery will be changed and new equipment for cashiers, vending machines and car parks required.",
+    "What happens to the officer who is cashiered?",
+    "I think both of them made too much of the position of the officer who was cashiered as compared with the position of the man who was dismissed.",
+    "Probably it just put in the bottom drawer of a desk along with the head cashier's sandwiches."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cash register",
+    "cash-and-carry",
+    "cashback",
+    "cashew",
+    "cashier",
+    "cashmere",
+    "casino",
+    "cask",
+    "casket"
+  ]
+}

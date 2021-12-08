@@ -1,0 +1,38 @@
+{
+  "english": "coating",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lớp phủ",
+          "definition": "(a) covering",
+          "world_new": [
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The biscuits have a chocolate coating.",
+              "world_new": [
+                "chocolate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "coastguard",
+    "coastline",
+    "coat",
+    "coat of arms",
+    "coating",
+    "coax",
+    "cob",
+    "cobalt",
+    "cobble"
+  ]
+}

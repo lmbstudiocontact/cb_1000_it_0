@@ -1,0 +1,70 @@
+{
+  "english": "careful",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cẩn thận",
+          "definition": "taking care; being cautious",
+          "world_new": [
+            "cautious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Be careful when you cross the street",
+              "world_new": [
+                "cross",
+                "street"
+              ]
+            },
+            {
+              "ex_of_definition": "a careful driver.",
+              "world_new": [
+                "driver"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kỹ lưỡng",
+          "definition": "thorough",
+          "world_new": [
+            "thorough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a careful search.",
+              "world_new": [
+                "search"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This involved a careful but not always conscious negotiation of positions and the framing of both co-operative and oppositional strategies.",
+    "Consequently, careful cardiac and peripheral vascular examination should be undertaken in older syncopal patients.",
+    "In political science, the task is more difficult, and requires either comparative analysis or the careful use of counterfactual scenarios.",
+    "Perhaps this can be a good thing, encouraging more careful listening.",
+    "This is one of the best, most rewarding essays in the collection, one that repays careful reading.",
+    "Future editions of still unpublished works, and careful studies of already published writings, hopefully will make a comprehensive account of this subject possible.",
+    "These variations in techniques probably represent areas where standards of care are yet to be established by careful collection of data.",
+    "Careful observation and description of tropical forest change provides the material from which specific hypotheses must be formulated and examined."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "care for",
+    "care of",
+    "career",
+    "carefree",
+    "careful",
+    "carefully",
+    "carefulness",
+    "’caregiver",
+    "careless"
+  ]
+}

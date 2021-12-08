@@ -1,0 +1,129 @@
+{
+  "english": "let",
+  "phat_am": "let",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho phép",
+          "definition": "to allow or permit",
+          "world_new": [
+            "allow",
+            "permit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She refused to let her children go out in the rain",
+              "world_new": [
+                "rain"
+              ]
+            },
+            {
+              "ex_of_definition": "Let me see your drawing.",
+              "world_new": [
+                "see",
+                "your",
+                "drawing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây ra",
+          "definition": "to cause to",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I will let you know how much it costs.",
+              "world_new": [
+                "I",
+                "know",
+                "costs"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng để ra lệnh hoặc gợi ý",
+          "definition": "used for giving orders or suggestions",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If they will not work, let them starve",
+              "world_new": [
+                "work",
+                "starve"
+              ]
+            },
+            {
+              "ex_of_definition": "Let’s (= let us) leave right away!",
+              "world_new": [
+                "leave",
+                "right"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho thuê",
+          "definition": "to give the use of (a house etc) in return for payment",
+          "world_new": [
+            "house",
+            "return",
+            "payment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lets his house to visitors in the summer.",
+              "world_new": [
+                "house",
+                "summer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He was never going to find peace for letting them threaten him into it.",
+    "Let her at least not be a kept mistress.",
+    "His approach to psychopathology was sceptical and philosophical; and he never created his own school of psychiatric, let alone psychopathological, teaching.",
+    "The let in construct is the corresponding destructor.",
+    "Let the query be of the form :- p(u) with u being of type nat.",
+    "Let v be a line vector of ones.",
+    "Accepting the purely syntactic part of this extremely simple analysis, let us consider the semantics of the sentence.",
+    "He refuses to give his experiences over to the historian and let him examine them according to the rules of scientific discourse."
+  ],
+  "list_see_also": [
+    "let alone",
+    "let (someone or something) alone/be",
+    "let down",
+    "let fall",
+    "let go (of)",
+    "let in/out",
+    "let in for",
+    "let in on",
+    "let off",
+    "let up",
+    ""
+  ],
+  "list_browse": [
+    "lessen",
+    "lesser",
+    "lesson",
+    "lest",
+    "let",
+    "let (someone or something) alone/be",
+    "let (something) pass",
+    "let alone",
+    "let down"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "blood",
+  "phat_am": "blad",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máu",
+          "definition": "the red fluid pumped through the body by the heart",
+          "world_new": [
+            "red",
+            "fluid",
+            "body",
+            "heart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Blood poured from the wound in his side.",
+              "world_new": [
+                "wound",
+                "side"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "bloodless",
+    "bloody",
+    "blood cell",
+    "bloodcurdling",
+    "blood donor",
+    "blood group/type",
+    "blood-poisoning",
+    "blood pressure",
+    "bloodshed",
+    "bloodshot",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "blogging",
+    "bloke",
+    "blond",
+    "blonde",
+    "blood",
+    "blood cell",
+    "blood donor",
+    "blood group/type",
+    "blood pressure"
+  ]
+}

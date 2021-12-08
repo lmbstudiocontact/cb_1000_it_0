@@ -1,0 +1,99 @@
+{
+  "english": "hardly",
+  "phat_am": "ˈhaːdli",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hầu như không",
+          "definition": "almost no, none, never etc",
+          "world_new": [
+            "almost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hardly anybody goes to that club nowadays",
+              "world_new": [
+                "club",
+                "nowadays"
+              ]
+            },
+            {
+              "ex_of_definition": "I hardly ever go out.",
+              "world_new": [
+                "I",
+                "ever"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hầu như không",
+          "definition": "only just; almost not",
+          "world_new": [
+            "almost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My feet are so sore, I can hardly walk",
+              "world_new": [
+                "sore",
+                "I",
+                "walk"
+              ]
+            },
+            {
+              "ex_of_definition": "I had hardly got on my bicycle when I got a puncture.",
+              "world_new": [
+                "I",
+                "my",
+                "bicycle",
+                "I",
+                "puncture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khó có thể",
+          "definition": "probably not",
+          "world_new": [
+            "probably"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s hardly likely to forgive you after what you said about him.",
+              "world_new": [
+                "likely",
+                "forgive"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The conclusion of the paper is that it is hardly possible to explain the similarities in the contact patterns with the help of macro-sociolinguistic factors.",
+    "He could hardly have expounded his position more clearly: quite bluntly, any plans to abolish music are described as vain.",
+    "The relationships among economic stress, marital conflict, parental psychological symptoms, and quality of parenting have been extensively reported and hardly need review here.",
+    "Again, there was hardly any growth till week 30, and then a very rapid incline between weeks 30 and 40.",
+    "Their conclusion is, however, hardly general, as the authors themselves admit.",
+    "Arguments that justify preserving millions of species just because some may become important at some unknown point in the future are hardly convincing.",
+    "If the interlocutors understand each other, we can hardly fault their language.",
+    "Minor specialities as pediatric cardiac surgery, in particular, remain hardly known at all."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hardback",
+    "hardcover",
+    "harden",
+    "hardiness",
+    "hardly",
+    "hardness",
+    "hardship",
+    "hardware",
+    "hardy"
+  ]
+}

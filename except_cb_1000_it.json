@@ -1,0 +1,63 @@
+{
+  "english": "except",
+  "phat_am": "ikˈsept",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "ngoại trừ",
+          "definition": "leaving out; not including",
+          "world_new": [
+            "including"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’re all here except Peter"
+            },
+            {
+              "ex_of_definition": "Your essay was good except that it was too long.",
+              "world_new": [
+                "essay",
+                "long"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trừ ra",
+          "definition": "to leave out or exclude.",
+          "world_new": [
+            "leave",
+            "exclude"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "excepted",
+    "excepting",
+    "exception",
+    "exceptional",
+    "exceptionally",
+    "except for",
+    "take exception to/at"
+  ],
+  "list_browse": [
+    "excellence",
+    "Excellency",
+    "excellent",
+    "excellently",
+    "except",
+    "except for",
+    "excepted",
+    "excepting",
+    "exception"
+  ]
+}

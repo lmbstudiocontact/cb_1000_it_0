@@ -1,0 +1,98 @@
+{
+  "english": "desert",
+  "phat_am": "diˈzəːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bỏ đi",
+          "definition": "to go away from and leave without help etc; to leave or abandon",
+          "world_new": [
+            "leave",
+            "help",
+            "leave",
+            "abandon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Why did you desert us?"
+            }
+          ]
+        },
+        {
+          "mean_english": "đào ngũ",
+          "definition": "to run away, usually from the army",
+          "world_new": [
+            "run",
+            "army"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was shot for trying to desert.",
+              "world_new": [
+                "shot",
+                "trying"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sa mạc",
+          "definition": "an area of barren country, usually hot, dry and sandy, where there is very little rain",
+          "world_new": [
+            "area",
+            "barren",
+            "country",
+            "hot",
+            "dry",
+            "sandy",
+            "rain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Parts of the country are like a desert",
+              "world_new": [
+                "country"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) desert plants."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They sit on the least viable chunk of desert and scrub that exists.",
+    "The path has been deserted since the logging in the late 1960s and is now only occasionally used by researchers and visitors.",
+    "Moreover, measuring the extent of a person's desert of punishment requires addressing difficult epistemological questions about excusing and mitigating circumstances.",
+    "Ordinary citizens, as voters, would desert centrist parties and transfer their allegiance to the extremes.",
+    "Determining whether the epistemological argument's assumptions about desert are in fact correct would take us far afield.",
+    "Only at this point does the loggia reveal itself to the right, and through it a 50-mile vista of the desert below.",
+    "Such accumulations are observed in certain desert environments on earth.",
+    "Numerous farms and entire villages were deserted in the fourteenth and fifteenth centuries, and not one single market town was founded between 1350 and 1400."
+  ],
+  "list_see_also": [
+    "deserted",
+    "deserter",
+    "desertion"
+  ],
+  "list_browse": [
+    "describe",
+    "description",
+    "desecrate",
+    "desecration",
+    "desert",
+    "desert island",
+    "deserted",
+    "deserter",
+    "desertion"
+  ]
+}

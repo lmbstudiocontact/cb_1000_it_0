@@ -1,0 +1,93 @@
+{
+  "english": "inspect",
+  "phat_am": "inˈspekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kiểm tra",
+          "definition": "to look at, or examine, carefully or formally",
+          "world_new": [
+            "look",
+            "examine",
+            "carefully",
+            "formally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The detective inspected the bloodstains on the carpet.",
+              "world_new": [
+                "detective",
+                "carpet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thanh tra",
+          "definition": "to visit (eg a restaurant or school) officially, to make sure that it is properly run",
+          "world_new": [
+            "visit",
+            "restaurant",
+            "officially",
+            "sure",
+            "properly",
+            "run"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cafés must be regularly inspected to find out if they are kept clean.",
+              "world_new": [
+                "regularly",
+                "find",
+                "clean"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "duyệt",
+          "definition": "to look at (troops etc) ceremonially",
+          "world_new": [
+            "look",
+            "ceremonially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Queen will inspect the regiment.",
+              "world_new": [
+                "regiment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The model can be knowledge that is inspected and analysed by humans or a system that is embedded in an optimization system.",
+    "This article considers some of the general motivation for the assumption that entertaining mental images involves inspecting a picture-like object.",
+    "After the introduction and the interview, the pharmacy was inspected by using of these indicators.",
+    "In the model, there are three loops for inspecting the outcome of processes.",
+    "To ensure uniform imbibition and pretreatment, seeds were inspected and mixed daily for the first 2 weeks and thereafter on a weekly basis.",
+    "In this case we aurally inspected the stimuli to ensure that no audible distortions had occurred as a result of the rate manipulations.",
+    "Thus, it is necessary to inspect the finned exchanger tubing in boiler with intelligent robots.",
+    "By inspecting these variables, the wrapper can retrieve and decode the incoming request."
+  ],
+  "list_see_also": [
+    "inspection",
+    "inspector"
+  ],
+  "list_browse": [
+    "insolvency",
+    "insolvent",
+    "insomnia",
+    "insomniac",
+    "inspect",
+    "inspection",
+    "inspector",
+    "inspiration",
+    "inspire"
+  ]
+}

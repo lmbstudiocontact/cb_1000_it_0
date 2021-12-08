@@ -1,0 +1,35 @@
+{
+  "english": "beautifully",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "đẹp",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a beautifully decorated room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "beater",
+    "beating",
+    "beautician",
+    "beautiful",
+    "beautifully",
+    "beautify",
+    "beauty",
+    "beauty queen",
+    "beauty salon"
+  ]
+}

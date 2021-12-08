@@ -1,0 +1,438 @@
+{
+  "english": "do",
+  "phat_am": "duː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trợ động từ",
+          "definition": "used with a more important verb in questions and negative statements",
+          "world_new": [
+            "important",
+            "verb",
+            "negative"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you smoke?",
+              "world_new": [
+                "smoke"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t know where he lives.",
+              "world_new": [
+                "I",
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhấn mạnh hành động",
+          "definition": "used with a more important verb for emphasis",
+          "world_new": [
+            "important",
+            "verb",
+            "emphasis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I did buy a ticket but I must have lost it",
+              "world_new": [
+                "I",
+                "buy",
+                "ticket",
+                "I",
+                "lost"
+              ]
+            },
+            {
+              "ex_of_definition": "Do sit down",
+              "world_new": [
+                "sit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trả lời ngắn",
+          "definition": "used to avoid repeating a verb which comes immediately before",
+          "world_new": [
+            "avoid",
+            "verb",
+            "immediately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I thought she wouldn’t come, but she did.",
+              "world_new": [
+                "I",
+                "thought"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "câu hỏi láy đuôi",
+          "definition": "used to make question tags",
+          "world_new": [
+            "question"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lives in New York, doesn’t she?"
+            }
+          ]
+        },
+        {
+          "mean_english": "sau seldom, rarely, little để nhấn mạnh",
+          "definition": "used with a more important verb after seldom, rarely and little",
+          "world_new": [
+            "important",
+            "verb"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Little did he know what was in store for him.",
+              "world_new": [
+                "know",
+                "store"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thực hiện",
+          "definition": "to carry out or perform",
+          "world_new": [
+            "carry",
+            "perform"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What shall I do?",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "That was a terrible thing to do.",
+              "world_new": [
+                "terrible"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn thành",
+          "definition": "to manage to finish or complete",
+          "world_new": [
+            "manage",
+            "finish",
+            "complete"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When you’ve done that, you can start on this",
+              "world_new": [
+                "start"
+              ]
+            },
+            {
+              "ex_of_definition": "We did a hundred kilometres in an hour.",
+              "world_new": [
+                "hour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm",
+          "definition": "to perform an activity concerning something",
+          "world_new": [
+            "perform",
+            "activity",
+            "concerning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve still got to do the washing",
+              "world_new": [
+                "washing"
+              ]
+            },
+            {
+              "ex_of_definition": "We need to do the garden – it’s becoming overgrown.",
+              "world_new": [
+                "garden",
+                "becoming",
+                "overgrown"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phù hợp",
+          "definition": "to be enough or suitable for a purpose",
+          "world_new": [
+            "suitable",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will this piece of fish do two of us?",
+              "world_new": [
+                "piece",
+                "fish"
+              ]
+            },
+            {
+              "ex_of_definition": "That’ll do nicely",
+              "world_new": [
+                "nicely"
+              ]
+            },
+            {
+              "ex_of_definition": "Do you want me to look for a blue one or will a pink one do?",
+              "world_new": [
+                "want",
+                "look",
+                "blue",
+                "pink"
+              ]
+            },
+            {
+              "ex_of_definition": "Will next Saturday do for our next meeting?",
+              "world_new": [
+                "Saturday",
+                "our",
+                "meeting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghiên cứu",
+          "definition": "to work at or study",
+          "world_new": [
+            "work",
+            "study"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s doing sums"
+            },
+            {
+              "ex_of_definition": "He’s at university doing science.",
+              "world_new": [
+                "university",
+                "science"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chăm lo",
+          "definition": "to manage or prosper",
+          "world_new": [
+            "manage",
+            "prosper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How’s your wife doing?",
+              "world_new": [
+                "your",
+                "wife"
+              ]
+            },
+            {
+              "ex_of_definition": "My son is doing well at school.",
+              "world_new": [
+                "son",
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sắp xếp",
+          "definition": "to put in order or arrange",
+          "world_new": [
+            "order",
+            "arrange"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s doing her hair.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hành động",
+          "definition": "to act or behave",
+          "world_new": [
+            "act",
+            "behave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Why don’t you do as we do?"
+            }
+          ]
+        },
+        {
+          "mean_english": "bày tỏ",
+          "definition": "to give or show",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The whole town gathered to do him honour.",
+              "world_new": [
+                "whole",
+                "town",
+                "honour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây ra",
+          "definition": "to cause",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What damage did the storm do?",
+              "world_new": [
+                "damage",
+                "storm"
+              ]
+            },
+            {
+              "ex_of_definition": "It won’t do him any harm.",
+              "world_new": [
+                "harm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tới xem xét",
+          "definition": "to see everything and visit everything in",
+          "world_new": [
+            "see",
+            "visit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They tried to do London in four days."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bữa tiệc liên hoan",
+          "definition": "an affair or a festivity, especially a party",
+          "world_new": [
+            "affair",
+            "festivity",
+            "party"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The school is having a do for Christmas.",
+              "world_new": [
+                "school",
+                "Christmas"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "đối xử công bằng",
+          "definition": "to treat fairly or properly",
+          "world_new": [
+            "treat",
+            "fairly",
+            "properly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It would not be doing him justice to call him lazy when he’s so ill.",
+              "world_new": [
+                "justice",
+                "call",
+                "lazy",
+                "ill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm đúng khả năng",
+          "definition": "to fulfil/fulfill the highest possibilities of; to get the best results from; to show fully or fairly",
+          "world_new": [
+            "best",
+            "fully",
+            "fairly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was so tired that I didn’t do myself justice in the exam.",
+              "world_new": [
+                "I",
+                "tired",
+                "I",
+                "justice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "doer",
+    "doings",
+    "done",
+    "do-it-yourself",
+    "to-do",
+    "I/he etc could be doing with / could do with",
+    "do away with",
+    "do for",
+    "done for",
+    "done in",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "dizziness",
+    "dizzy",
+    "DJ",
+    "DNA",
+    "do",
+    "do (someone) a good turn",
+    "do (someone) an injustice",
+    "do (someone) proud",
+    "do (someone) wrong"
+  ]
+}

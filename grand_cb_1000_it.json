@@ -1,0 +1,110 @@
+{
+  "english": "grand",
+  "phat_am": "ɡrӕnd",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tráng lệ",
+          "definition": "splendid; magnificent",
+          "world_new": [
+            "magnificent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a grand procession.",
+              "world_new": [
+                "procession"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dáng tôn quý",
+          "definition": "proud",
+          "world_new": [
+            "proud"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gives herself grand airs."
+            }
+          ]
+        },
+        {
+          "mean_english": "rất đẹp",
+          "definition": "very pleasant",
+          "world_new": [
+            "pleasant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We spent a grand day at the seaside.",
+              "world_new": [
+                "spent",
+                "day",
+                "seaside"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được kính trọng",
+          "definition": "highly respected",
+          "world_new": [
+            "highly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a grand old man.",
+              "world_new": [
+                "old"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "số một ngàn",
+          "definition": "a slang term for $1,000 or 1,000",
+          "world_new": [
+            "slang",
+            "term"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I paid five grand for that car.",
+              "world_new": [
+                "I",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "grand finale",
+    "grand jury",
+    "grand piano",
+    "grandstand",
+    "grand total"
+  ],
+  "list_browse": [
+    "grammatically",
+    "gramophone",
+    "gran",
+    "granary",
+    "grand",
+    "grand finale",
+    "grand jury",
+    "grand piano",
+    "grand total"
+  ]
+}

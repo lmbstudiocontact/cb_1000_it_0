@@ -1,0 +1,100 @@
+{
+  "english": "attempt",
+  "phat_am": "əˈtempt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cố gắng",
+          "definition": "to try",
+          "world_new": [
+            "try"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He attempted to reach the dying man, but did not succeed",
+              "world_new": [
+                "attempted",
+                "reach",
+                "succeed"
+              ]
+            },
+            {
+              "ex_of_definition": "He did not attempt the last question in the exam.",
+              "world_new": [
+                "question"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nỗ lực",
+          "definition": "a try",
+          "world_new": [
+            "try"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They failed in their attempt to climb Everest",
+              "world_new": [
+                "their",
+                "climb"
+              ]
+            },
+            {
+              "ex_of_definition": "She made no attempt to run away.",
+              "world_new": [
+                "run"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tấn công",
+          "definition": "an attack",
+          "world_new": [
+            "attack"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They made an attempt on his life, but he survived.",
+              "world_new": [
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He attempted to create architecture directly out of what he called 'nature's organic structural thoughts'.",
+    "Two students directly compared technical problems with the process of analysis in their attempts to apply analytical methods in solving technical problems.",
+    "It was an attempt to get his support for their plans so far as they themselves understood them.",
+    "The oboe, on the other hand, offers very little for the eye, though some players attempt to compensate for this with grand gestures.",
+    "As with any book that attempts to be a number of things, there will inevitably be some level of redundancy.",
+    "Yet the attempt to account for the value of happiness in purely hedonic terms seems to miss something.",
+    "Others pointed out that young people took tremendous risks attempting to help out their families.",
+    "The attempts by nationalist activists to use soccer as an organizational and symbolic platform again prove the political potential of soccer."
+  ],
+  "list_see_also": [
+    "attempted"
+  ],
+  "list_browse": [
+    "attack",
+    "attacker",
+    "attain",
+    "attainment",
+    "attempt",
+    "attempted",
+    "attend",
+    "attendance",
+    "attendant"
+  ]
+}

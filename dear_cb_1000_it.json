@@ -1,0 +1,145 @@
+{
+  "english": "dear",
+  "phat_am": "diə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đắt đỏ",
+          "definition": "high in price",
+          "world_new": [
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The prices in that shop are rather dear.",
+              "world_new": [
+                "shop",
+                "rather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáng yêu",
+          "definition": "very lovable",
+          "world_new": [
+            "lovable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is such a dear little boy.",
+              "world_new": [
+                "boy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rất được quý trọng",
+          "definition": "(with to) much loved",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is very dear to me."
+            }
+          ]
+        },
+        {
+          "mean_english": "kính thưa",
+          "definition": "used as a polite way of addressing someone, especially in a letter",
+          "world_new": [
+            "polite",
+            "letter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dear Sir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đáng yêu",
+          "definition": "a person who is lovable or charming",
+          "world_new": [
+            "person",
+            "lovable",
+            "charming"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is such a dear!"
+            }
+          ]
+        },
+        {
+          "mean_english": "người yêu quý",
+          "definition": "a person who is loved or liked (especially used to address someone)",
+          "world_new": [
+            "person",
+            "address"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Come in, dear."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "thể hiện sự nuối tiếc",
+          "definition": "mild expressions of regret, sorrow, pity etc",
+          "world_new": [
+            "mild",
+            "regret",
+            "sorrow",
+            "pity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Oh dear! I’ve forgotten my key.",
+              "world_new": [
+                "my",
+                "key"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Is she not every bit as dear and good as he ?",
+    "Dearing recommended, first, the continuation of means-tested maintenance grants in order to ease access for students from a low-income background.",
+    "Dearing identified a funding gap of £8 billion.",
+    "Many of those lessons, like the ten here, may come at a dear price.",
+    "I am ready to redeem her favour with the last drop of my dearest blood.",
+    "She was all in a flutter, the poor old dear!",
+    "In many developing countries, the ketogenic diet is expensive because dairy fats and meat are dearer than grain, fruit and vegetables.",
+    "There is a similar ambivalence about a dear elderly lady."
+  ],
+  "list_see_also": [
+    "dearly",
+    "dear"
+  ],
+  "list_browse": [
+    "deal with",
+    "dealer",
+    "dealing",
+    "dean",
+    "dear",
+    "dearly",
+    "dearth",
+    "death",
+    "death bed"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "english": "chance",
+  "phat_am": "tʃaːns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tình cờ",
+          "definition": "luck or fortune",
+          "world_new": [
+            "luck",
+            "fortune"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was by chance that I found out the truth.",
+              "world_new": [
+                "I",
+                "found",
+                "truth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cơ hội",
+          "definition": "an opportunity",
+          "world_new": [
+            "opportunity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Now you have a chance to do well."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự có khả năng",
+          "definition": "a possibility",
+          "world_new": [
+            "possibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has no chance of winning.",
+              "world_new": [
+                "winning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cơ may",
+          "definition": "(a) risk",
+          "world_new": [
+            "risk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s an element of chance in this business deal.",
+              "world_new": [
+                "element",
+                "business",
+                "deal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "liều",
+          "definition": "to risk",
+          "world_new": [
+            "risk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I may be too late, but I’ll just have to chance it.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình cờ",
+          "definition": "to happen accidentally or unexpectedly",
+          "world_new": [
+            "happen",
+            "accidentally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I chanced to see him last week.",
+              "world_new": [
+                "I",
+                "see",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tình cờ",
+          "definition": "happening unexpectedly",
+          "world_new": [
+            "happening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chance meeting.",
+              "world_new": [
+                "meeting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "First, breast feeding increased an infant's chances of survival.",
+    "Alternative strategies allow less fit individuals (in our case, less attractive males) to increase their chances of reproductive success.",
+    "Finally, asking subjects to rank the outcomes before they acted would have chanced a contamination of their actual dilemma behaviour.",
+    "Taken together, the electoral rules have significant consequences for the chances of obtaining political power.",
+    "Figure 1 illustrates one way that a population could increase its chances of favorable interactions with the environment via selection without replication of carrier units.",
+    "As indicated by the estimated hazard ratio, rivalries that do not experience change to democracy have greater chances of survival.",
+    "However, for civilians, the more trials they had to go through, the more chances of exploitation they suffered, which they certainly did not appreciate.",
+    "Increased migration over the last two decades, however, has reduced the chances that grandmothers will live in the same area as their grandchildren."
+  ],
+  "list_see_also": [
+    "chancy",
+    "chance on/upon",
+    "by any chance",
+    "by chance",
+    "an even chance",
+    "the chances are"
+  ],
+  "list_browse": [
+    "champ at the bit",
+    "champagne",
+    "champion",
+    "championship",
+    "chance",
+    "chance on/upon",
+    "chancellor",
+    "Chancellor of the Exchequer",
+    "chancy"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "inset",
+  "phat_am": "ˈinset",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản đồ lồng",
+          "definition": "a small map, picture etc that has been put in the corner of a larger one",
+          "world_new": [
+            "small",
+            "map",
+            "picture",
+            "corner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In a map of a coastline, there may be an inset to show offshore islands.",
+              "world_new": [
+                "map",
+                "coastline",
+                "offshore"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Figure 9c further shows a few damaged, peripheral axis cells (see also inset).",
+    "Inset shows areas of human disturbance (black cells) estimated from aerial photographs; each cell represents 1 km2.",
+    "The inset shows the target stimulus embedded in a scene that contains two sets of chromaticities.",
+    "The axis cells are alive, except a part of the epidermis, which is magnified in the inset (cell walls highlighted).",
+    "The inset map shows the regional location of the synclinorium.",
+    "The insets are conditionally averaged blob events for the three magnetic field values.",
+    "An enlarged view of those spines (fig. 6 inset) show that they are located in crater-like holes in the tegument.",
+    "Right inset illustrates the penetration depth by shading of the ellipses representing individual bacteria."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "insensitivity",
+    "inseparable",
+    "insert",
+    "insertion",
+    "inset",
+    "inshore",
+    "inside",
+    "inside out",
+    "insight"
+  ]
+}

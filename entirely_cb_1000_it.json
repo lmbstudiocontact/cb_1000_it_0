@@ -1,0 +1,62 @@
+{
+  "english": "entirely",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "một cách trọn vẹn",
+          "definition": "completely",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a house entirely hidden by trees",
+              "world_new": [
+                "house",
+                "hidden"
+              ]
+            },
+            {
+              "ex_of_definition": "Her work is not entirely satisfactory",
+              "world_new": [
+                "work",
+                "satisfactory"
+              ]
+            },
+            {
+              "ex_of_definition": "This an entirely different matter.",
+              "world_new": [
+                "matter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is an entirely appropriate notion, but it is not sufficient.",
+    "Instead of deleting movement entirely she used linear movements as possibly the default feature for this slot in the phonological representation of the sign.",
+    "This task could be carried out entirely by means of (purely) natural-scientific (naturwissenschaftlichen) methods.",
+    "Their formulation, which is entirely reasonable, is to encourage research in which normative responding is at least possible.",
+    "The data, however, do not entirely support this.",
+    "However, there is no reason to assume that the serviceable habits have entirely lost their original significance.",
+    "I entirely agree, but only because this is a true story told from a first-person perspective, which does not, unfortunately, escape epiphenomenalism.",
+    "Alternatively, the script might be entirely explicit, perhaps written in some form of computer language, running on a computer."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "entice",
+    "enticement",
+    "enticing",
+    "entire",
+    "entirely",
+    "entirety",
+    "entitle",
+    "entitlement",
+    "entourage"
+  ]
+}

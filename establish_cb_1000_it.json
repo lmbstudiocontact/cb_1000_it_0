@@ -1,0 +1,91 @@
+{
+  "english": "establish",
+  "phat_am": "iˈstӕbliʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "củng cố",
+          "definition": "to settle firmly in a position (eg a job, business etc)",
+          "world_new": [
+            "settle",
+            "firmly",
+            "position",
+            "job",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He established himself (in business) as a jeweller.",
+              "world_new": [
+                "established",
+                "jeweller"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thành lập",
+          "definition": "to found; to set up (eg a university, a business)",
+          "world_new": [
+            "university"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How long has the firm been established?",
+              "world_new": [
+                "long",
+                "firm",
+                "established"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chứng minh",
+          "definition": "to show to be true; to prove",
+          "world_new": [
+            "prove"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police established that he was guilty.",
+              "world_new": [
+                "police",
+                "established",
+                "guilty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The desired client profiles had been established a priori to ensure that a broad range of clients would be recruited.",
+    "But what remains to be established is the actual duration threshold below which a sequence will no longer be perceived as hiatus.",
+    "In designing tasks, researchers need to worry about establishing reliable and valid measures.",
+    "Although establishing new schools is not permitted, there is always a loophole that can be exploited.",
+    "Men sought to endow each son with sufficient land to establish a separate household.",
+    "In so doing, he treats the parties' identities as having been established.",
+    "In the following analysis, primary and nonprimary descriptors will be used for establishing design tasks through one or more design relations.",
+    "Whenever an equilibrium force-law is required, it is always essential to establish that the two surfaces have stopped moving before the equilibrium displacements are measured."
+  ],
+  "list_see_also": [
+    "established",
+    "establishment",
+    "the Establishment"
+  ],
+  "list_browse": [
+    "essay",
+    "essence",
+    "essential",
+    "essentially",
+    "establish",
+    "established",
+    "establishment",
+    "estate",
+    "estate agent"
+  ]
+}

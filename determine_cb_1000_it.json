@@ -1,0 +1,71 @@
+{
+  "english": "determine",
+  "phat_am": "diˈtəːmin",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quyết định",
+          "definition": "to fix or settle; to decide",
+          "world_new": [
+            "fix",
+            "decide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He determined his next course of action.",
+              "world_new": [
+                "determined",
+                "course",
+                "action"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xác định",
+          "definition": "to find out exactly",
+          "world_new": [
+            "find",
+            "exactly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tried to determine what had gone wrong.",
+              "world_new": [
+                "wrong"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The mass of the plume slab is determined by the amount of material ejected from the target when thermalized by the electron beam.",
+    "A hand-held, 1-cm square black flag was used to explore the multiunit visual responses and determine the center of their receptive fields.",
+    "Bioquant image analysis software was used to determine the area of each circular lesion, which was later used to calculate the radius of each lesion.",
+    "This is why it is much easier to determine whether a philosophical principle is true than to determine the extent of its validity.",
+    "These paths for the robot can be determined easily by expanding our analysis to more cases.",
+    "The tone tests reinforced an aesthetic determined by technological reproduction.",
+    "A challenge in responding to such requests is in determining the comparative benefits and risks of different stem cell transplant methods.",
+    "The stability result (i) says that the evolution of the capital intensity is uniquely determined by the random fixed point."
+  ],
+  "list_see_also": [
+    "determination",
+    "determined",
+    "determiner"
+  ],
+  "list_browse": [
+    "detergent",
+    "deteriorate",
+    "deterioration",
+    "determination",
+    "determine",
+    "determined",
+    "determiner",
+    "deterrent",
+    "detest"
+  ]
+}

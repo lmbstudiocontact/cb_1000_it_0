@@ -1,0 +1,126 @@
+{
+  "english": "examine",
+  "phat_am": "iɡˈzӕmin",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khảo sát",
+          "definition": "to look at closely; to inspect closely",
+          "world_new": [
+            "look",
+            "inspect",
+            "closely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They examined the animal tracks and decided that they were those of a fox.",
+              "world_new": [
+                "animal",
+                "fox"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khám",
+          "definition": "(of a doctor) to inspect the body of thoroughly to check for disease etc",
+          "world_new": [
+            "inspect",
+            "body",
+            "thoroughly",
+            "check",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor examined the child and said she was healthy.",
+              "world_new": [
+                "doctor",
+                "child",
+                "healthy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thẩm vấn",
+          "definition": "to consider carefully",
+          "world_new": [
+            "consider",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The detectives must examine the facts."
+            }
+          ]
+        },
+        {
+          "mean_english": "kiểm tra",
+          "definition": "to test the knowledge or ability of (students etc)",
+          "world_new": [
+            "test",
+            "knowledge",
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The test examines the students’ ability to speak French.",
+              "world_new": [
+                "test",
+                "ability",
+                "speak",
+                "French"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thẩm vấn",
+          "definition": "to question",
+          "world_new": [
+            "question"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lawyer examined the witness in the court case.",
+              "world_new": [
+                "lawyer",
+                "witness",
+                "court",
+                "case"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In studying the psychological effects of bilingualism, the time and circumstances of individuals' experiences with different languages and sociocultural settings should be carefully examined.",
+    "Research should also examine the way that child gender may influence the development and use of emotion regulation strategies in physically maltreated children.",
+    "The first section provides the theoretical motivation for examining the impact of political institutions on women's education.",
+    "The second uses qualitative methods to examine themes and issues developed from this literature review.",
+    "Inseminated oocytes were removed from their surrounding cumulus cells and examined for evidence of fertilisation 16-18 h after insemination.",
+    "I shall conclude this discussion by examining this theoretical knot.",
+    "In the random regression model, it is assumed to be constant over the time period examined.",
+    "To determine whether children actually produced ' happen ' more often in negative than positive contexts, the order of occurrence of surrounding utterances within episodes was examined."
+  ],
+  "list_see_also": [
+    "examination",
+    "examiner"
+  ],
+  "list_browse": [
+    "exaggerate",
+    "exaggeration",
+    "exalted",
+    "examination",
+    "examine",
+    "examiner",
+    "example",
+    "exasperate",
+    "exasperation"
+  ]
+}

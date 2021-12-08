@@ -1,0 +1,52 @@
+{
+  "english": "disprove",
+  "phat_am": "disˈpruːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bác bỏ",
+          "definition": "to prove to be false or wrong",
+          "world_new": [
+            "prove",
+            "false",
+            "wrong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His theories have been disproved by modern scientific research.",
+              "world_new": [
+                "modern",
+                "scientific",
+                "research"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This possibility can neither be proved nor disproved, as to our knowledge, no data are available for goldfish.",
+    "If this hypothesis was not entirely disproved, what transpired in the wake of the lifting of prohibition was inevitably more complex.",
+    "This is an existence statement which can only be disproved if we fail to find a single supporting case.",
+    "First, it is certainly not the case that we disprove the levelling down objection by disproving the slogan.",
+    "In the end it could neither be proved nor disproved.",
+    "Yet the fact remains that there is no evidence to disprove it either.",
+    "Note that we can find more symmetry by starting from the assumption that every constraint is symmetric on all arguments and iteratively disproving this.",
+    "Where there is a lack of systematic record keeping, it is difficult for the manager to prove or disprove the legality of their activities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "disposition",
+    "dispossess",
+    "disproportionate",
+    "disproportionately",
+    "disprove",
+    "disputable",
+    "disputation",
+    "dispute",
+    "disqualification"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "beetle",
+  "phat_am": "ˈbiːtl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bọ cánh cứng",
+          "definition": "an insect with four wings",
+          "world_new": [
+            "insect",
+            "wings"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Trees produce some natural defenses against bark beetles, such as resin.",
+              "world_new": [
+                "produce",
+                "natural",
+                "bark",
+                "resin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Attention has focused almost exclusively on adult beetles, probably because their larvae are conspicuously missing from tropical foliage.",
+    "The lowering of glycine concentration observed in infected male beetles of all ages does not occur in females.",
+    "The parasitoids rapidly became firmly established and snout beetle populations declined dramatically.",
+    "Fewer beetles attacked infested trees in subsequent years.",
+    "The bait areas were large enough for all beetles to occur simultaneously.",
+    "This result could be biased as there were beetles at different heights of the canopy that was beyond chemical spraying from the ground level.",
+    "Colonization of experimental pats by dung beetles after three weeks was expected to be minimal.",
+    "This served the purpose of identification as well as to approximate the handling given to treatment beetles during ablation of appendages."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "beeper",
+    "beer",
+    "beeswax",
+    "beet",
+    "beetle",
+    "beetroot",
+    "befall",
+    "before",
+    "before (very) long"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "humble",
+  "phat_am": "ˈhambl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khiêm tốn; nhún nhường",
+          "definition": "not having a high opinion of oneself etc",
+          "world_new": [
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have plenty of ability but you’re too humble.",
+              "world_new": [
+                "ability"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thấp kém; hèn mọn",
+          "definition": "unimportant; having a low position in society etc",
+          "world_new": [
+            "low",
+            "position",
+            "society"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a man of humble origins.",
+              "world_new": [
+                "origins"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm nhục; hạ nhục",
+          "definition": "to make (someone) humble",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was humbled by his failure.",
+              "world_new": [
+                "failure"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "And you who walk in humble places, think kindly too, of others.",
+    "The degree to which even relatively humble residents participated in the more 'egalitarian' parishes is also noteworthy.",
+    "In our age of aggressive visual images and architectural arrogance this is a humble but healing architecture and a rewardingly subtle book.",
+    "The grand vistas which now pass as historical understanding have been created and cultivated by the humble labours of the many.",
+    "He was humble enough, however, to recognize his own flaws.",
+    "What is actually needed is a much less dramatic, somewhat humbler approach.",
+    "Transactors of all types (whether globalised construction firms or, indeed, humble local purveyors of meat and vegetables) share certain concerns.",
+    "He was humble in that he dedicated himself entirely to the duties which his office demanded from him without any personal gain."
+  ],
+  "list_see_also": [
+    "humbly",
+    "humbleness",
+    "humility"
+  ],
+  "list_browse": [
+    "humanitarian",
+    "humanitarianism",
+    "humanity",
+    "humanly",
+    "humble",
+    "humbleness",
+    "humbly",
+    "humdrum",
+    "humerus"
+  ]
+}

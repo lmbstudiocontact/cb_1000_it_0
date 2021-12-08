@@ -1,0 +1,59 @@
+{
+  "english": "discontinue",
+  "phat_am": "diskənˈtinju",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm gián đoạn",
+          "definition": "to stop or put an end to",
+          "world_new": [
+            "stop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have discontinued my visits there",
+              "world_new": [
+                "I",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "His TV show has been discontinued due to poor viewing figures.",
+              "world_new": [
+                "TV",
+                "due",
+                "poor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the experimental conditions, subjects continued maintenance of stimulus information in the second delay interval, while in the control condition retention was discontinued.",
+    "Upon the death of a male head, the proportions of discontinued households were larger at both younger and older ages.",
+    "Ten per cent had discontinued use and 26% had switched to another, usually more effective, method.",
+    "They cited fear of pain and discomfort as a reason to discontinue treatment.",
+    "Following a hip operation he briefly received home care, but this was soon discontinued due to his drinking and unco-operative nature.",
+    "Oxygenation was used to support cardiopulmonary resuscitation but was discontinued when failure became clear in the central nervous and other systems.",
+    "The graduate system was discontinued, having been denounced as a system for cultivating revisionist seedlings.",
+    "If moist desquamation occurred the gel was discontinued in that area and saline solution soaks were recommended."
+  ],
+  "list_see_also": [
+    "discontinuation"
+  ],
+  "list_browse": [
+    "discontented",
+    "discontentedly",
+    "discontentment",
+    "discontinuation",
+    "discontinue",
+    "discord",
+    "discordant",
+    "discotheque",
+    "discount"
+  ]
+}

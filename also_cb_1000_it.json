@@ -1,0 +1,56 @@
+{
+  "english": "also",
+  "phat_am": "ˈoːlsəu",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "cũng",
+          "definition": "in addition or besides; too",
+          "world_new": [
+            "addition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is studying German but he is also studying French",
+              "world_new": [
+                "French"
+              ]
+            },
+            {
+              "ex_of_definition": "They know him and I know him also.",
+              "world_new": [
+                "know",
+                "I",
+                "know"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But it is also a very difficult field.",
+    "But there are also a number of limitations.",
+    "This form of the solution can also be known as a soliton that has a stable formation.",
+    "But also, they don't understand what we are doing.",
+    "This type is not only less frequent but also more uniform than the first type.",
+    "Markets also show persistent trading volume as well as volatility.",
+    "This can also be seen in the entropic behaviour.",
+    "But they also need to know the difference between style, register, and grammar, and to be able to teach it."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "alphabetically",
+    "alpine",
+    "already",
+    "alright",
+    "also",
+    "altar",
+    "alter",
+    "alteration",
+    "altercation"
+  ]
+}

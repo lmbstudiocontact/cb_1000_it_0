@@ -1,0 +1,86 @@
+{
+  "english": "dull",
+  "phat_am": "dal",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chậm hiểu",
+          "definition": "slow to learn or to understand",
+          "world_new": [
+            "slow",
+            "learn",
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The clever children help the dull ones.",
+              "world_new": [
+                "clever",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đục; mờ",
+          "definition": "not bright or clear",
+          "world_new": [
+            "bright",
+            "clear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dull day.",
+              "world_new": [
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buồn tẻ",
+          "definition": "not exciting or interesting",
+          "world_new": [
+            "exciting",
+            "interesting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a very dull book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Dull's work, unpublished until it was released freely on the web in 2010, has been ignored by academia.",
+    "Because this tragedy is happening two or three thousand miles away our imagination may be a little dulled, but the logic is just the same.",
+    "Juveniles have a duller color overall and lack the thin, black collar.",
+    "Juveniles are much duller, but can be distinguished from the similar glossy ibis by their bulkier shape, shorter legs and broader wings.",
+    "The undertail is buff, and the eye, bill and leg colours are duller than the adult.",
+    "The impact has been dulled because money has not been available for the industry.",
+    "In the long term exposure dulls the senses, but scientists disagree on whether exposure makes a person violent.",
+    "The art of competition may have been dulled during the war years and since."
+  ],
+  "list_see_also": [
+    "dully",
+    "dullness"
+  ],
+  "list_browse": [
+    "duffel bag",
+    "duffel coat",
+    "duke",
+    "dukedom",
+    "dull",
+    "dullness",
+    "dully",
+    "duly",
+    "dumb"
+  ]
+}

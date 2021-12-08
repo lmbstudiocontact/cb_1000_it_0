@@ -1,0 +1,36 @@
+{
+  "english": "friendly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thân ái; thân thiết",
+          "definition": "kind and willing to make friends",
+          "world_new": [
+            "kind",
+            "willing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is very friendly to everybody."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fridge",
+    "fried",
+    "friend",
+    "friendless",
+    "friendly",
+    "friendship",
+    "fries",
+    "frieze",
+    "fright"
+  ]
+}

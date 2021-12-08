@@ -1,0 +1,94 @@
+{
+  "english": "distant",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "xa trong không gian hay thời gian",
+          "definition": "far away or far apart, in place or time",
+          "world_new": [
+            "far",
+            "far",
+            "apart",
+            "place",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the distant past"
+            },
+            {
+              "ex_of_definition": "a distant country",
+              "world_new": [
+                "country"
+              ]
+            },
+            {
+              "ex_of_definition": "Our house is quite distant from the school.",
+              "world_new": [
+                "house",
+                "quite",
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không gần gũi",
+          "definition": "not close",
+          "world_new": [
+            "close"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a distant relative.",
+              "world_new": [
+                "relative"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạnh nhạt",
+          "definition": "not friendly",
+          "world_new": [
+            "friendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her manner was rather distant.",
+              "world_new": [
+                "manner",
+                "rather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a program administrator, he was distant from the details of the dynamics.",
+    "Cells most distant from the basement membrane showed no staining (white arrowhead).",
+    "The positivist position assumes that the relationship between researcher and his/her data should be as distant as possible, preferably entirely objective.",
+    "As with the peptide growth factor story, it is possible that these evolutionarily distant species share unexpectedly common mechanisms.",
+    "In other words, gridlock should be more frequent the more polarized (or ideologically distant) the parties are on the question of public ownership.",
+    "Four out of the five were found close together in the channel filling and the fifth approximately 10 ft distant.",
+    "In verbal interaction, the written word always remains a pervasive and authorized reference, but a shadowy and distant one.",
+    "Is the resemblance too distant to give the point any substantial interest?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "dissolve",
+    "dissuade",
+    "dissuasion",
+    "distance",
+    "distant",
+    "distaste",
+    "distasteful",
+    "distastefully",
+    "distastefulness"
+  ]
+}

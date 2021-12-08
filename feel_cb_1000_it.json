@@ -1,0 +1,139 @@
+{
+  "english": "feel",
+  "phat_am": "fiːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cảm thấy",
+          "definition": "to become aware of (something) by the sense of touch",
+          "world_new": [
+            "become",
+            "aware",
+            "sense",
+            "touch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She felt his hand on her shoulder.",
+              "world_new": [
+                "felt",
+                "hand",
+                "shoulder"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sờ mó",
+          "definition": "to find out the shape, size, texture etc of something by touching, usually with the hands",
+          "world_new": [
+            "find",
+            "shape",
+            "size",
+            "texture",
+            "touching"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She felt the parcel carefully.",
+              "world_new": [
+                "felt",
+                "parcel",
+                "carefully"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có cảm giác; cảm thấy",
+          "definition": "to experience or be aware of (an emotion, sensation etc)",
+          "world_new": [
+            "experience",
+            "aware",
+            "emotion",
+            "sensation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He felt a sudden anger.",
+              "world_new": [
+                "felt",
+                "sudden",
+                "anger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảm thấy",
+          "definition": "to think (oneself) to be",
+          "world_new": [
+            "think"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She feels sick",
+              "world_new": [
+                "sick"
+              ]
+            },
+            {
+              "ex_of_definition": "How does she feel about her work?",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tin; cho rằng",
+          "definition": "to believe or consider",
+          "world_new": [
+            "believe",
+            "consider"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She feels that the company treated her badly.",
+              "world_new": [
+                "company",
+                "badly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If a befriender feels that they are actually friends with the client, they may undertake caring tasks which are beyond the scheme's guidelines.",
+    "These things had such a feel about them.",
+    "I think women who want desperately to compete ; they're going to really feel it.",
+    "However, local people feel somewhat defensive about qiangqin.",
+    "She notes that: it is remarkable that nurse practitioners still feel a resistance from staff nurses towards their role.",
+    "When ordinar y persons see someone exposing himself on a public bus, the dismay, distress, and shock they feel constitutes psychological harm.",
+    "I have come increasingly to feel that some of these might represent an unintended legacy from earlier stages in the compositional process.",
+    "I feel quite sad that the world media has decided to concentrate on many of the misuses."
+  ],
+  "list_see_also": [
+    "feeler",
+    "feeling",
+    "feel as if / as though",
+    "feel like",
+    "feel one’s way",
+    "get the feel of"
+  ],
+  "list_browse": [
+    "feeble",
+    "feebly",
+    "feed",
+    "feedback",
+    "feel",
+    "feel as if / as though",
+    "feel bad (about something)",
+    "feel like",
+    "feel like a fish out of water"
+  ]
+}

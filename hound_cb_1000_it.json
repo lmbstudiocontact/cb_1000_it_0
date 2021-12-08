@@ -1,0 +1,70 @@
+{
+  "english": "hound",
+  "phat_am": "haund",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chó săn",
+          "definition": "a hunting-dog",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fox threw the hounds off the scent and escaped.",
+              "world_new": [
+                "fox",
+                "scent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "săn lùng",
+          "definition": "to pursue or hunt (someone)",
+          "world_new": [
+            "pursue",
+            "hunt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The film star was constantly hounded by newspaper reporters.",
+              "world_new": [
+                "film",
+                "star",
+                "constantly",
+                "newspaper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, it is inconvenient for farmers to allow the hounds to come more frequently.",
+    "My daughter's education was ruined because of the hounding that she received at school.",
+    "I believe that there should be some form of law to prevent saboteurs from interfering with hounds at a meet.",
+    "Even the major airlines are doing the same, hounded by the competition.",
+    "I have made no specific assessment of the impact of a ban on hunting with hounds.",
+    "She is hounded for the extra money that is paid to her.",
+    "None of the no voters was hounded—quite the opposite.",
+    "Nothing in the course if a deer's life resembles being hunted by hounds; known pattern of predation by wolves do not resemble hunting."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hothead",
+    "hotheaded",
+    "hothouse",
+    "hotly",
+    "hound",
+    "hour",
+    "hour hand",
+    "hourglass",
+    "hourly"
+  ]
+}

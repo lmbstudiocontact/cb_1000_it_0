@@ -1,0 +1,61 @@
+{
+  "english": "construct",
+  "phat_am": "kənˈstrakt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xây dựng",
+          "definition": "to build; to put together",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are planning to construct a new supermarket near our house",
+              "world_new": [
+                "planning",
+                "supermarket",
+                "our",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "Construct a sentence containing ‘although’.",
+              "world_new": [
+                "sentence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In particular, certain homomorphisms out of the generated coalgebra can be constructed from functions out of its kernel that we call homomorphisms up-to.",
+    "The specialized program ps is obtained from p by evaluating constructs that depend only on s, while rebuilding constructs that may depend on dynamic data.",
+    "Firstly, how relations between states, international organizations and indigenous peoples have been and are currently constructed as legal and political practices?",
+    "We consider the choices that the application must make in constructing this input.",
+    "Latent factors were established for each of these constructs to allow investigation of relationships free of measurement error.",
+    "Of course, we will need to modify the notion of model to cope with these additional constructs.",
+    "However, post-structuralism radically reframes this relationship by suggesting that our social identities (including gender) are constructed through language use.",
+    "A dotted line specifies a hierarchical structure of a dependency graph constructed from a template."
+  ],
+  "list_see_also": [
+    "construction",
+    "constructive",
+    "constructively",
+    "constructor",
+    "construction site",
+    "construction worker"
+  ],
+  "list_browse": [
+    "constitutionally",
+    "constrain",
+    "constraint",
+    "constrict",
+    "construct",
+    "construction",
+    "construction site",
+    "construction worker",
+    "constructive"
+  ]
+}

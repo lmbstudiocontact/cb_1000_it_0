@@ -1,0 +1,111 @@
+{
+  "english": "above",
+  "phat_am": "əˈbav",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "bên trên",
+          "definition": "in a higher position than",
+          "world_new": [
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The picture was hanging above the fireplace.",
+              "world_new": [
+                "picture",
+                "hanging",
+                "fireplace"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trên mức",
+          "definition": "greater than",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child’s intelligence is above average.",
+              "world_new": [
+                "intelligence",
+                "average"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quá tốt",
+          "definition": "too good for",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police must always remain above suspicion.",
+              "world_new": [
+                "police",
+                "remain",
+                "suspicion"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "từ bên trên",
+          "definition": "higher up",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Here’s a photo of the city seen from above.",
+              "world_new": [
+                "photo",
+                "city"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần trước",
+          "definition": "(in a book etc) earlier or higher up on the page",
+          "world_new": [
+            "book",
+            "page"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "See above."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "228 s h u i c h i r o i t o in order to test the above individual-level hypotheses.",
+    "The resonance appears to be caused by a temporary trapping of the colliding electron in a quasi-bound orbit just above the ionization limit.",
+    "As some of the above examples also illustrate, the expression of anger was not a privilege reserved for men.",
+    "Functions are entered as text for display as icons based on an augmented form of the function type discussed above.",
+    "Dierent values for the above parameters were experimentally investigated.",
+    "Then the government bills with the above revisions were put to a vote en bloc.",
+    "All cases fitting none of the four categories defined above were classified as inconclusive.",
+    "The tests aj can be carried out by neurons as shown above."
+  ],
+  "list_see_also": [
+    "above all",
+    "above board"
+  ],
+  "list_browse": [
+    "abortive",
+    "abound",
+    "about",
+    "about-face",
+    "above",
+    "above all",
+    "above board",
+    "above someone’s head",
+    "abrasion"
+  ]
+}

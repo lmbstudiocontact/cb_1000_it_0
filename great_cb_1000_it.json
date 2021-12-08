@@ -1,0 +1,148 @@
+{
+  "english": "great",
+  "phat_am": "ɡreit",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lớn; vĩ đại",
+          "definition": "of a better quality than average; important",
+          "world_new": [
+            "better",
+            "quality",
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a great writer",
+              "world_new": [
+                "writer"
+              ]
+            },
+            {
+              "ex_of_definition": "Churchill was a great man."
+            }
+          ]
+        },
+        {
+          "mean_english": "lớn; to lớni",
+          "definition": "very large, larger etc than average",
+          "world_new": [
+            "large",
+            "average"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a great crowd of people at the football match.",
+              "world_new": [
+                "crowd",
+                "people",
+                "football",
+                "match"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáng kể",
+          "definition": "of a high degree",
+          "world_new": [
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take great care of that book.",
+              "world_new": [
+                "care",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rất hài lòng",
+          "definition": "very pleasant",
+          "world_new": [
+            "pleasant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had a great time at the party.",
+              "world_new": [
+                "time",
+                "party"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giỏi; thạo",
+          "definition": "clever and expert",
+          "world_new": [
+            "clever",
+            "expert"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John’s great at football.",
+              "world_new": [
+                "football"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "cách nhau một hoặc nhiều thế hệ",
+          "definition": "separated by one generation more than (an uncle, grandfather etc)",
+          "world_new": [
+            "generation",
+            "uncle",
+            "grandfather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A great-uncle is one’s father’s or mother’s uncle",
+              "world_new": [
+                "uncle"
+              ]
+            },
+            {
+              "ex_of_definition": "a great-grandchild."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This strengthens the case for work factors having a greater impact on socioeconomic inequalities in psychological distress among men.",
+    "It was most significant from the reported participation from over 25 countries worldwide that there is a great interest in the development of such methodologies.",
+    "A great deal of technical information is disseminated, but the tone of the book remains relaxed.",
+    "Compared with the region's previous combustible qualities, this was a great achievement.",
+    "Both maps illustrate in great detail the most modern, developed areas and iconic buildings, while the less densely inhabited areas were reduced in size.",
+    "Here, language standardization achieved great success in a less developed country with less advanced technical equipment in a fairly short period.",
+    "Both of these subscales are scored so that high scores indicate greater psychological well-being and vitality.",
+    "Scores range from 0 to 63, and higher values represent greater depressive symptoms."
+  ],
+  "list_see_also": [
+    "greatly",
+    "greatness"
+  ],
+  "list_browse": [
+    "graze",
+    "grease",
+    "greasiness",
+    "greasy",
+    "great",
+    "great diving beetle",
+    "greatly",
+    "greatness",
+    "greed"
+  ]
+}

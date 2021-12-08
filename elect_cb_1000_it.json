@@ -1,0 +1,97 @@
+{
+  "english": "elect",
+  "phat_am": "iˈlekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bầu cử",
+          "definition": "to choose by vote",
+          "world_new": [
+            "choose",
+            "vote"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was elected chairman",
+              "world_new": [
+                "chairman"
+              ]
+            },
+            {
+              "ex_of_definition": "She has been elected to the committee.",
+              "world_new": [
+                "committee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chọn",
+          "definition": "to choose (to do something)",
+          "world_new": [
+            "choose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They elected to go by taxi.",
+              "world_new": [
+                "taxi"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đắc cử",
+          "definition": "chosen for office but not yet in it",
+          "world_new": [
+            "office",
+            "yet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the president elect.",
+              "world_new": [
+                "president"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As always in times of retrenchment, elected officials have needed to win the goodwill of voters and interest groups for these unpopular cutbacks.",
+    "Put another way, a state in which only bad politicians run for and are elected to office may be a self-enforcing equilibrium.",
+    "The present system of electing individuals is considered seriously flawed given the low voter turnouts.",
+    "He was the only vanguardista who got elected.",
+    "The study found that both men and women from a range of class backgrounds were elected to leadership positions.",
+    "Chapter 7 details the changing trends in funding influenced by interest groups and elected officials.",
+    "Often, the sanctions inflicted on those seeking to be elected were as much intra- as inter-ethnic or tribal.",
+    "By this stage he had little choice if he wanted to be elected."
+  ],
+  "list_see_also": [
+    "election",
+    "electioneer",
+    "elector",
+    "electoral",
+    "electorate"
+  ],
+  "list_browse": [
+    "elbow room",
+    "elder",
+    "elderly",
+    "eldest",
+    "elect",
+    "election",
+    "electioneer",
+    "elector",
+    "electoral"
+  ]
+}

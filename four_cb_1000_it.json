@@ -1,0 +1,62 @@
+{
+  "english": "four",
+  "phat_am": "foː",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "số bốn",
+          "definition": "the number or figure 4.",
+          "world_new": [
+            "number",
+            "figure"
+          ]
+        },
+        {
+          "mean_english": "lên bốn",
+          "definition": "the age of 4.",
+          "world_new": [
+            "age"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "thuộc số bốn",
+          "definition": "having four (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a four-man team.",
+              "world_new": [
+                "team"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "four-",
+    "fourth",
+    "foursome",
+    "four-letter word",
+    "four-year-old",
+    "on all fours"
+  ],
+  "list_browse": [
+    "founding father",
+    "foundry",
+    "fountain",
+    "fountain pen",
+    "four",
+    "four-letter word",
+    "four-year-old",
+    "foursome",
+    "fourteen"
+  ]
+}

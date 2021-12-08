@@ -1,0 +1,87 @@
+{
+  "english": "intend",
+  "phat_am": "inˈtend",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "định",
+          "definition": "to mean or plan (to do something or that someone else should do something)",
+          "world_new": [
+            "mean",
+            "plan",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you still intend to go?"
+            },
+            {
+              "ex_of_definition": "Do you intend them to go?"
+            },
+            {
+              "ex_of_definition": "Do you intend that they should go too?"
+            }
+          ]
+        },
+        {
+          "mean_english": "có ý định",
+          "definition": "to mean (something) to be understood in a particular way",
+          "world_new": [
+            "mean",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His remarks were intended to be a compliment.",
+              "world_new": [
+                "compliment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dự định",
+          "definition": "(with for) to direct at",
+          "world_new": [
+            "direct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That letter/bullet was intended for me."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I intend my remarks as suggestions for expanding the argument - and perhaps the research - beyond the promising start made here.",
+    "Although not intended by these authors, their views suggest that theories which are typically considered opposing and incompatible complement each other.",
+    "This view is supported by studies that are intended to show that satisfactory understanding on the part of patients cannot be achieved.",
+    "There is also a witnesses' room with separate access to the court - a last-minute addition to the plans, primarily intended for women.",
+    "The quotation marks surrounding \"temporarily\" are intended to convey that absolute systemic rigor is an illusory ideal.",
+    "But if the text was indeed intended as a reference book, other interesting possibilities arise.",
+    "The e-mail questionnaire was intended to provide the research team with baseline information and as a source for preparing individual-tailored semistructured interviews.",
+    "Religion remained a significant determinant of intended family size but its effect had diminished."
+  ],
+  "list_see_also": [
+    "intent",
+    "intention",
+    "intentional",
+    "intentionally",
+    "intently"
+  ],
+  "list_browse": [
+    "intelligently",
+    "intelligibility",
+    "intelligible",
+    "intelligibly",
+    "intend",
+    "intense",
+    "intensely",
+    "intenseness",
+    "intensification"
+  ]
+}

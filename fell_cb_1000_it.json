@@ -1,0 +1,40 @@
+{
+  "english": "fell",
+  "phat_am": "fel",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đốn chặt (cây)",
+          "definition": "to cut or knock down to the ground",
+          "world_new": [
+            "cut",
+            "knock",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are felling all the trees in this area.",
+              "world_new": [
+                "area"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "feldspar",
+    "felicitations",
+    "felicity",
+    "feline",
+    "fell",
+    "fellow",
+    "fellow-feeling",
+    "fellowship",
+    "felon"
+  ]
+}

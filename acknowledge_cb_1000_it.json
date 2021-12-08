@@ -1,0 +1,118 @@
+{
+  "english": "acknowledge",
+  "phat_am": "əkˈnolidʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "công nhận",
+          "definition": "to admit as being fact",
+          "world_new": [
+            "admit",
+            "fact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He acknowledged defeat",
+              "world_new": [
+                "defeat"
+              ]
+            },
+            {
+              "ex_of_definition": "She acknowledged that I was right.",
+              "world_new": [
+                "I",
+                "right"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công nhận",
+          "definition": "to recognize that someone or something is important or good",
+          "world_new": [
+            "recognize",
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is widely acknowledged as the best football player in the world.",
+              "world_new": [
+                "widely",
+                "best",
+                "football",
+                "player",
+                "world"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "báo cho ai biết đã nhận được",
+          "definition": "to say (usually in writing) that one has received (something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He acknowledged the letter.",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảm ơn",
+          "definition": "to give thanks for",
+          "world_new": [
+            "thanks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She acknowledged their help.",
+              "world_new": [
+                "their",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chào đón",
+          "definition": "to greet someone",
+          "world_new": [
+            "greet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He acknowledged her by waving."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Their role in contributing to weak corporate governance is acknowledged here.",
+    "We do acknowledge that there are a few studies in which subjects were reading for meaning and semantic parafoveal-onfoveal effects were observed.",
+    "These meetings are also acknowledged as unique opportunities for all the parties involved to share information about the product and related engineering processes.",
+    "He acknowledges the ways in which science is a \"destroyer,\" annihilating belief in myth, legend, and fantasy with its empirical outlook.",
+    "State courts continued to recognize the unique position of the marital contract into the twentieth century by acknowledging its public purposes.",
+    "Conversely, the master acknowledges the rights of disciples to take their own students.",
+    "He acknowledged that newspaper editors had come to exercise their discretion to decide what to publish ' less wisely ' than they had done previously.",
+    "Other forms of exchange are acknowledged, but not really discussed."
+  ],
+  "list_see_also": [
+    "acknowledgement"
+  ],
+  "list_browse": [
+    "acid",
+    "acid rain",
+    "acidic",
+    "acidity",
+    "acknowledge",
+    "acknowledgement",
+    "acme",
+    "acne",
+    "acorn"
+  ]
+}

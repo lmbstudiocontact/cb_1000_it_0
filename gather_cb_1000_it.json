@@ -1,0 +1,127 @@
+{
+  "english": "gather",
+  "phat_am": "ˈɡӕðə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tụ họp; tập hợp",
+          "definition": "to (cause to) come together in one place",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A crowd of people gathered near the accident.",
+              "world_new": [
+                "crowd",
+                "people",
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hiểu; suy ra",
+          "definition": "to learn (from what has been seen, heard etc)",
+          "world_new": [
+            "learn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I gather you are leaving tomorrow.",
+              "world_new": [
+                "I",
+                "tomorrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thu thập; thu hoạch",
+          "definition": "to collect or get",
+          "world_new": [
+            "collect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gathered strawberries from the garden",
+              "world_new": [
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "She went to the library to gather information for her class project.",
+              "world_new": [
+                "library",
+                "information",
+                "class",
+                "project"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gấp (quần áo)",
+          "definition": "to pull (material) into small folds and stitch together",
+          "world_new": [
+            "pull",
+            "small",
+            "stitch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gathered the skirt at the waist.",
+              "world_new": [
+                "skirt",
+                "waist"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nếp gấp ở quần áo",
+          "definition": "a fold in material, a piece of clothing etc.",
+          "world_new": [
+            "fold",
+            "material",
+            "piece",
+            "clothing"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If retrospective data must be gathered directly from individuals, questionnaires must be constructed carefully.",
+    "Identical information was gathered when the participants were 13 years of age in order to determine which parents were stable activity participants.",
+    "In the meantime, the bandwagon has gathered considerable momentum.",
+    "After some practice one data point could be gathered every 20 min or so.",
+    "Frequency effects could explain part of the results, but control data have to be gathered on this aspect.",
+    "The active catalog system gathers and collates multimodal information about par ts so that engineers can access all the information in one place.",
+    "Is it described how the information for the different aspects was gathered?",
+    "A large crowd had gathered in anticipation of hearing them."
+  ],
+  "list_see_also": [
+    "gathering",
+    "gather round",
+    "gather together"
+  ],
+  "list_browse": [
+    "gatecrash",
+    "gatecrasher",
+    "gatepost",
+    "gateway",
+    "gather",
+    "gather round",
+    "gather together",
+    "gathering",
+    "gauche"
+  ]
+}

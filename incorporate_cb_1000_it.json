@@ -1,0 +1,56 @@
+{
+  "english": "incorporate",
+  "phat_am": "inˈkoːpəreit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bao gồm",
+          "definition": "to contain or include as part of the whole",
+          "world_new": [
+            "contain",
+            "include",
+            "part",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shopping centre incorporates a library and a bank.",
+              "world_new": [
+                "shopping",
+                "centre",
+                "library",
+                "bank"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another interesting aspect of the design is that the spreadsheet incorporates symbolic reduction and normalisation of symbolic expressions (including equations).",
+    "Nonetheless, by selecting an existing model and incorporating environmental effects within it, there is a ready benchmark for comparison.",
+    "The trial incorporated three varieties differing in their ease of retting, so that variety and time of spraying interactions could be investigated.",
+    "The resulting effects were to be treated as creative material that could be incorporated into one or more variations, and not as ends in themselves.",
+    "The urban district authority was, however, by no means the only body that incorporated a local state presence.",
+    "The asset portfolio can incorporate bad outcomes that are relatively independent of economic wellbeing, such as psychological distress.",
+    "As the chimpanzees decided which objects were to be named and shown, they also incorporated many aspects of the teacher's role into their own behavior.",
+    "Fortunately, unlike moment estimators, it is relatively easy to incorporate a model of genotyping errors into the triadic likelihood estimator of relatedness."
+  ],
+  "list_see_also": [
+    "incorporated"
+  ],
+  "list_browse": [
+    "inconspicuousness",
+    "inconstant",
+    "inconvenience",
+    "inconvenient",
+    "incorporate",
+    "incorporated",
+    "incorrect",
+    "incorrectness",
+    "incorrigible"
+  ]
+}

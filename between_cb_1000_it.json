@@ -1,0 +1,116 @@
+{
+  "english": "between",
+  "phat_am": "biˈtwiːn",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "ở giữa",
+          "definition": "in, to, through or across the space dividing two people, places, times etc",
+          "world_new": [
+            "across",
+            "space",
+            "people",
+            "times"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a gap of about a foot between the car and the pavement/sidewalk",
+              "world_new": [
+                "gap",
+                "foot",
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "We’re expecting her to arrive between 2 o’clock and 2.30",
+              "world_new": [
+                "arrive",
+                "o’clock"
+              ]
+            },
+            {
+              "ex_of_definition": "You should not eat between meals.",
+              "world_new": [
+                "eat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ rõ sự liên quan",
+          "definition": "concerning the relationship of two things or people",
+          "world_new": [
+            "concerning",
+            "relationship",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Children need to learn the difference between right and wrong.",
+              "world_new": [
+                "learn",
+                "difference",
+                "right",
+                "wrong"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cùng nhau",
+          "definition": "by the combined action of; working together",
+          "world_new": [
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They managed it between them."
+            }
+          ]
+        },
+        {
+          "mean_english": "giữa 2 người, 2 vật",
+          "definition": "part to one (person or thing), part to (the other)",
+          "world_new": [
+            "part",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Divide the chocolate between you.",
+              "world_new": [
+                "chocolate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Moreover, the distribution of the mean number of secondary cases is unknown, because the transmission between compartments and between groups is unknown.",
+    "From 1991 to 1995 the mean effective coverage was 9.50 million inhabitants and between 1996 and 2001, 9.75 million inhabitants.",
+    "The gradient equals the average maximum vote difference between a platform and its 1-neighbours.",
+    "A better test would be to examine the impact of competition on the relationship between party control and changes in spending.",
+    "There did not appear to be a great difference between serotypes.",
+    "However, qualitatively the results were very similar between the two alternatives.",
+    "The possibility of a curvilinear pattern between money and candidacy duration will be tested by adding the squared version of the relativized money variable.",
+    "Differences between individual groups were considered significant at the 0n05 level."
+  ],
+  "list_see_also": [
+    "between you and me / between ourselves"
+  ],
+  "list_browse": [
+    "betrothed",
+    "better",
+    "better off",
+    "betting shop",
+    "between",
+    "between you and me / between ourselves",
+    "bevel",
+    "bevelled",
+    "beverage"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "english": "age",
+  "phat_am": "eidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tuổi",
+          "definition": "the amount of time during which a person or thing has existed",
+          "world_new": [
+            "amount",
+            "time",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He began learning piano at the age of six (years)",
+              "world_new": [
+                "learning",
+                "piano"
+              ]
+            },
+            {
+              "ex_of_definition": "What age is she?"
+            }
+          ]
+        },
+        {
+          "mean_english": "thời đại",
+          "definition": "a particular period of time",
+          "world_new": [
+            "particular",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This machine was the wonder of the age",
+              "world_new": [
+                "machine",
+                "wonder"
+              ]
+            },
+            {
+              "ex_of_definition": "the Middle Ages."
+            }
+          ]
+        },
+        {
+          "mean_english": "chín ngấu; từng trải",
+          "definition": "the quality of being old",
+          "world_new": [
+            "quality",
+            "old"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This wine will improve with age",
+              "world_new": [
+                "wine",
+                "improve"
+              ]
+            },
+            {
+              "ex_of_definition": "With the wisdom of age, he regretted the mistakes he had made in his youth.",
+              "world_new": [
+                "wisdom",
+                "youth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời gian dài",
+          "definition": "a very long time",
+          "world_new": [
+            "long",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve been waiting (for) ages for a bus.",
+              "world_new": [
+                "bus"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho già đi",
+          "definition": "to (cause to) grow old or look old",
+          "world_new": [
+            "grow",
+            "old",
+            "look",
+            "old"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has aged a lot since I last saw him",
+              "world_new": [
+                "aged",
+                "I",
+                "saw"
+              ]
+            },
+            {
+              "ex_of_definition": "His troubles have aged him.",
+              "world_new": [
+                "aged"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two-thirds were aged 40-49 years, 30 per cent were 50-59 years, and only 5 per cent aged 60 years or more.",
+    "Ages of fallows are only estimates and confidence of age decreases with fallow age.",
+    "The average age of the two groups was not significantly different.",
+    "The majority of women (55-4 %) were aged 17-25 years.",
+    "The age at onset was between 44 and 73 years.",
+    "Deductions about orientation and orientation response of infants aged 1^% to years.",
+    "Neither the age nor the gender comparison reaches significance.",
+    "Ten of the twenty individuals were younger than twenty years of age whilst two were in their late forties."
+  ],
+  "list_see_also": [
+    "aged",
+    "ageist",
+    "ageless",
+    "aging",
+    "age group",
+    "age-old",
+    "(come) of age"
+  ],
+  "list_browse": [
+    "afterwards",
+    "again",
+    "against",
+    "agar-agar",
+    "age",
+    "age group",
+    "age-old",
+    "aged",
+    "ageist"
+  ]
+}

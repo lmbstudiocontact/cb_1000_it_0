@@ -1,0 +1,101 @@
+{
+  "english": "bind",
+  "phat_am": "baind",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "băng bó; trói",
+          "definition": "to tie up",
+          "world_new": [
+            "tie"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor bound up the patient’s leg with a bandage",
+              "world_new": [
+                "doctor",
+                "leg",
+                "bandage"
+              ]
+            },
+            {
+              "ex_of_definition": "The robbers bound up the bank manager with rope.",
+              "world_new": [
+                "bank",
+                "manager",
+                "rope"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đóng (sách)",
+          "definition": "to fasten together and put a cover on the pages of (a book)",
+          "world_new": [
+            "fasten",
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The book will be bound in leather.",
+              "world_new": [
+                "book",
+                "leather"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đi vào ngõ cụt",
+          "definition": "in a difficult situation",
+          "world_new": [
+            "difficult",
+            "situation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They found themselves in a bind when they got lost in the fog.",
+              "world_new": [
+                "found",
+                "lost",
+                "fog"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Free grammatical morphemes and bound grammatical morphemes are expressed as z scores.",
+    "Talk of \"binding ontologies together,\" or of the metaphysician's \"universal glue\" is unabashedly metaphorical.",
+    "The time course of the application of binding constraints in reference resolution.",
+    "Both are still thoroughly bound up in a culture-historical mode of discourse.",
+    "Such an ever-present social ethos is bound to be slippery to conceptualize.",
+    "Government for their livelihood; they would be subjected to the secularising and examination forces to which they, as recipient of government money, were bound.",
+    "We shall now bound the universal dimension of the complete graph of order t in terms of graph dimension of complete graphs.",
+    "When epithets are anaphoric (or bound) they are complementary to quasi-indicators."
+  ],
+  "list_see_also": [
+    "binding",
+    "-bound"
+  ],
+  "list_browse": [
+    "billy goat",
+    "bimonthly",
+    "bin",
+    "binary",
+    "bind",
+    "binding",
+    "bingo",
+    "binoculars",
+    "biochemical"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "english": "every",
+  "phat_am": "ˈevri",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mỗi",
+          "definition": "each one of or all (of a certain number)",
+          "world_new": [
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Every room is painted white",
+              "world_new": [
+                "room",
+                "white"
+              ]
+            },
+            {
+              "ex_of_definition": "Not every family has a car.",
+              "world_new": [
+                "family",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mỗi",
+          "definition": "each (of an indefinite number or series)",
+          "world_new": [
+            "indefinite",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Every hour brought the two countries nearer war",
+              "world_new": [
+                "hour",
+                "war"
+              ]
+            },
+            {
+              "ex_of_definition": "He attends to her every need."
+            }
+          ]
+        },
+        {
+          "mean_english": "mọi",
+          "definition": "the most absolute or complete possible",
+          "world_new": [
+            "absolute",
+            "complete",
+            "possible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have every reason to believe that she will get better.",
+              "world_new": [
+                "reason",
+                "believe",
+                "better"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mỗi một",
+          "definition": "used to show repetition after certain intervals of time or space",
+          "world_new": [
+            "repetition",
+            "certain",
+            "time",
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I go to the supermarket every four or five days",
+              "world_new": [
+                "I",
+                "supermarket"
+              ]
+            },
+            {
+              "ex_of_definition": "Every second house in the row was bright pink",
+              "world_new": [
+                "house",
+                "row",
+                "bright",
+                "pink"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Every other day’ means ‘every two days’ or ‘on alternate days’.",
+              "world_new": [
+                "means",
+                "alternate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "everybody",
+    "everyday",
+    "everything",
+    "everywhere",
+    "every bit as",
+    "every now and then / every now and again / every so often",
+    "every time"
+  ],
+  "list_browse": [
+    "evergreen",
+    "everlasting",
+    "everlastingly",
+    "evermore",
+    "every",
+    "every bit as",
+    "every nook and cranny",
+    "every now and then / every now and again / every so often",
+    "every second week/month etc"
+  ]
+}

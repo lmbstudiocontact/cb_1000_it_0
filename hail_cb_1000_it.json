@@ -1,0 +1,178 @@
+{
+  "english": "hail",
+  "phat_am": "heil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trận mưa đá",
+          "definition": "small balls of ice falling from the clouds",
+          "world_new": [
+            "small",
+            "ice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was some hail during the rainstorm last night.",
+              "world_new": [
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hàng loạt",
+          "definition": "a shower (of things)",
+          "world_new": [
+            "shower"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hail of arrows."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mưa đá",
+          "definition": "to shower hail",
+          "world_new": [
+            "shower"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was hailing as I drove home.",
+              "world_new": [
+                "I",
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gọi tàu hoặc taxi",
+          "definition": "to shout to in order to attract attention",
+          "world_new": [
+            "shout",
+            "order",
+            "attract",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We hailed a taxi",
+              "world_new": [
+                "taxi"
+              ]
+            },
+            {
+              "ex_of_definition": "The captain hailed the passing ship.",
+              "world_new": [
+                "captain",
+                "passing",
+                "ship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoan nghênh",
+          "definition": "to greet or welcome (a person, thing etc) as something",
+          "world_new": [
+            "greet",
+            "welcome",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His discovery was hailed as a great step forward in medicine.",
+              "world_new": [
+                "discovery",
+                "great",
+                "step",
+                "forward",
+                "medicine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng gọi",
+          "definition": "a shout (to attract attention)",
+          "world_new": [
+            "shout",
+            "attract"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Give that ship a hail.",
+              "world_new": [
+                "ship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "chào",
+          "definition": "an old word of greeting",
+          "world_new": [
+            "old",
+            "greeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hail, O King!",
+              "world_new": [
+                "O"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Restoration of the constitution, election of parliament, and maintenance of a multiparty political system were all hailed as important aims of the revolution.",
+    "His lectures were being hailed as heralding a new age.",
+    "We also hail the referee for his perspicacity and thank him for his help in shortening some proofs.",
+    "Heading to pick up her child, she hails a taxi at the number nine bus stop.",
+    "He is also hailed as the first to recognize, analyze, and name mathematical induction.",
+    "It also hails a very specific, liberating nonsense meant to deliver readers from the stultifying order of the mundane.",
+    "Such ' promenade portraits ' encapsulated the companionate marriage, hailed as a blend of masculine rationality and feminine tenderness.",
+    "Far from hobbling the comedy, this piece of business was instantly hailed by his fellow actors as a hoot and adopted."
+  ],
+  "list_see_also": [
+    "hailstone"
+  ],
+  "list_browse": [
+    "haemorrhoids",
+    "hag",
+    "haggard",
+    "haggle",
+    "hail",
+    "hail from",
+    "hailstone",
+    "hair",
+    "hair drier"
+  ]
+}

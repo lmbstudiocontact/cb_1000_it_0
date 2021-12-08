@@ -1,0 +1,140 @@
+{
+  "english": "ever",
+  "phat_am": "ˈevə",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "vào bất cứ lúc nào",
+          "definition": "at any time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Nobody ever visits us"
+            },
+            {
+              "ex_of_definition": "She hardly ever writes",
+              "world_new": [
+                "hardly"
+              ]
+            },
+            {
+              "ex_of_definition": "Have you ever ridden on an elephant?",
+              "world_new": [
+                "elephant"
+              ]
+            },
+            {
+              "ex_of_definition": "If I ever / If ever I see him again, I shall get my revenge",
+              "world_new": [
+                "I",
+                "I",
+                "see",
+                "I",
+                "my",
+                "revenge"
+              ]
+            },
+            {
+              "ex_of_definition": "better than ever",
+              "world_new": [
+                "better"
+              ]
+            },
+            {
+              "ex_of_definition": "the brightest star they had ever seen.",
+              "world_new": [
+                "star"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "luôn luôn; liên tục",
+          "definition": "always; continually",
+          "world_new": [
+            "continually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They lived happily ever after",
+              "world_new": [
+                "happily"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve known her ever since she was a baby.",
+              "world_new": [
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "(để nhấn mạnh",
+          "definition": "used for emphasis",
+          "world_new": [
+            "emphasis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The new doctor is ever so gentle",
+              "world_new": [
+                "doctor",
+                "gentle"
+              ]
+            },
+            {
+              "ex_of_definition": "What ever shall I do?",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "luôn luôn; liên tục",
+          "definition": "always; continually",
+          "world_new": [
+            "continually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the ever-increasing traffic.",
+              "world_new": [
+                "traffic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "ever-",
+    "evergreen",
+    "everlasting",
+    "everlastingly",
+    "evermore",
+    "for ever / forever"
+  ],
+  "list_browse": [
+    "eventful",
+    "eventual",
+    "eventuality",
+    "eventually",
+    "ever",
+    "evergreen",
+    "everlasting",
+    "everlastingly",
+    "evermore"
+  ]
+}
